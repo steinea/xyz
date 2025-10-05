@@ -1,0 +1,173 @@
+/* Body CSS applies at all resolutions */
+body {
+  box-sizing: content-box;
+  /* Font Stack https://bitsofco.de/the-new-system-font-stack/ */
+  font-family: -apple-system,
+               BlinkMacSystemFont,
+               "Segoe UI",
+               Roboto,
+               Oxygen-Sans,
+               Ubuntu,
+               Cantarell,
+               "Helvetica Neue",
+               sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  margin: 0 auto;
+  overflow-x: hidden;
+  padding: 4vh 6vw;
+  max-width: 50em;
+}
+
+
+/* Internal vs External Links */
+/* https://stackoverflow.com/questions/26898931/ */
+a:not([href*='//']) {
+  text-decoration-style: dotted;
+}
+
+a[href*='//'] {
+  text-decoration-style: solid;
+}
+
+a[href*='//steinea'] {
+  text-decoration-style: wavy;
+}
+
+/* After styling for external links, currently just using text decoration
+a[href*='//']:after {
+  position: relative;
+  top: -0.5em;
+  font-size: .7em;
+  content: "+";
+}
+*/
+
+/* Light vs Dark Preference */
+/* Using media queries because root color scheme does not seem to work for styling pseudo-classes or pseudo-elements */
+
+
+hr {
+  border: none;
+  height: 1px;
+}
+
+
+@media (prefers-color-scheme: light) {
+
+  body {
+    background-color: #fafafa;
+    color: #151515;
+  }
+
+  /* Internal Links */
+  a:not([href*='//']) {
+    color: #151515;
+  }
+
+  a:not([href*='//']):hover {
+    background-color: #151515;
+    color: #fafafa;
+  }
+
+  /* External Links */
+  a[href*='//'] {
+    color: #151515;
+  }
+
+  a[href*='//']:hover {
+    background-color: #151515;
+    color: #fafafa;
+  }
+
+  /* Mouse Highlight */
+  ::selection {
+    background-color: #151515;
+    color: #fafafa;
+  }
+
+  hr {
+    background-color: #151515;
+  }
+
+}
+
+
+@media (prefers-color-scheme: dark) {
+
+  body {
+    background-color: #151515;
+    color: #fafafa;
+  }
+
+  /* Internal Links */
+  a:not([href*='//']) {
+    color: #fafafa;
+  }
+
+  a:not([href*='//']):hover {
+    background-color: #fafafa;
+    color: #151515;
+  }
+
+  /* External Links */
+  a[href*='//'] {
+    color: #fafafa;
+  }
+
+  a[href*='//']:hover {
+    background-color: #fafafa;
+    color: #151515;
+  }
+
+  /* Mouse Highlight */
+  ::selection {
+    background-color: #fafafa;
+    color: #151515;
+  }
+
+  hr {
+    background-color: #fafafa;
+  }
+
+}
+
+
+/* Responsive Scaling */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+  body {
+    font-size: 1.2rem;
+  }
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+  body {
+    font-size: 1.4rem;
+  }
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+  body {
+    font-size: 1.6rem;
+  }
+
+}

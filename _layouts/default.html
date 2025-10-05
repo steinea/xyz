@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+
+  <!-- Site Head -->
+  <head>
+
+    <!-- Meta Details -->
+    <meta charset="utf-8">
+    <meta name="author" content="Eric Stein">
+    <meta name="description" content="Eric Stein is a game developer, game studies researcher, tabletop game designer, and occasional poet, located in the Fraser Valley of British Columbia.">
+    <meta name="keywords" content="Cabinet, Garden, Memex, Wiki">
+    <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+
+    <!-- Meta Properties -->
+    <meta property="og:title" content="Eric Stein" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://steinea.xyz" />
+    <meta property="og:image" content="{{ site.baseurl }}/assets/img/og-1200x360.png" />
+
+    <!-- Tab Bar Title -->
+    <title>{{ page.title | strip_html }}</title>
+
+    <!-- Site Links -->
+    <link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml" title="steinea.xyz">
+    <link rel="canonical" href="https://steinea.xyz">
+    <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png">
+
+    <!-- Stylesheet Links -->
+    <!-- Subsequent rules overwright antecedent rules -->
+
+      <!-- My Custom CSS -->
+      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/custom.css">
+
+  </head>
+
+  <!-- Site Body -->
+  <body>
+
+    <!-- Page Header -->
+    <div id="header">
+
+      <!-- Header Component -->
+      <header></header>
+
+      <!-- Microformats... not sure if I can hide them as comments...
+      <a class="u-url" href="{{ page.url }}"></a>
+      <a class="p-category" title="{{ page.category }}"></a>
+      <a class="p-author h-card" rel="author" href="https://steinea.fyi"></a>
+      <time class="dt-published" datetime="{{ page.date }}"></time>
+      -->
+
+      <!-- Navigation Component -->
+      <nav></nav>
+
+      <!-- Headings -->
+      <h1 id="title" class="p-name">{{ page.title }}</h1>
+      {% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+
+    </div>
+
+    <!-- Page Content -->
+    <div id="content" class="e-content">
+
+      {{ content }}
+
+    </div>
+
+    <!-- Page Footer -->
+    <div id="footer">
+
+      <!-- Footer Component -->
+      <footer></footer>
+
+    </div>
+
+
+  </body>
+</html>
