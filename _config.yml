@@ -28,3 +28,6 @@ defaults:
       type: posts
     values:
       permalink: /:year/:month/:day/:title/
+
+# Exclusions
+exclude:	['/pages/garden/template.md']
