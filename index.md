@@ -16,6 +16,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br>
 
 
+#### Garden
+
+* [Heap](/heap/)
+* [Planters](/planters/)
+* [Stream](/stream/)
+
+<br>
+
+
 #### Inventory
 
 *Under construction.*
