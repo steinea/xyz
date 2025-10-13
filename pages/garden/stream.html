@@ -1,0 +1,12 @@
+---
+layout: default
+category: garden
+title: Stream
+---
+
+{% assign sorted = site.pages | sort: "date" | reverse %}
+{% for item in sorted %}
+  {% if item.category contains "wiki" and item.subcategory != "directory" %}
+    {{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,49 @@
+---
+layout: default
+category: garden
+title: Planters
+---
+
+{% for page in site.pages %}
+  {% if page.category contains "wiki" and page.subcategory contains "directory" %}
+    {% assign directoryPage = page %}
+    {% assign directorySlug = directoryPage.title | downcase | replace: " ", "-" %}
+
+      <div id="{{ directorySlug }}">
+        <strong>{{ directoryPage.title }} / </strong>
+            {% for page in site.pages %}
+              {% if page.category contains "wiki" and page.subcategory contains directorySlug %}
+                <a href="{{ page.url }}">{{ page.title }}</a>{% unless forloop.last %},{% endunless %}
+              {% endif %}
+            {% endfor %}
+      </div>
+
+      <br>
+  {% endif %}
+{% endfor %}
+
+
+
+<!-- H3 version
+{% for page in site.pages %}
+  {% if page.category contains "wiki" and page.subcategory contains "directory" %}
+    {% assign directoryPage = page %}
+    {% assign directorySlug = directoryPage.title | downcase %}
+
+      <h3>{{ directoryPage.title }}</h3>
+
+      <div id="{{ directorySlug }}">
+        <p>
+          {% for page in site.pages %}
+            {% if page.category contains "wiki" and page.subcategory contains directorySlug %}
+              <a href="{{ page.url }}">{{ page.title }}</a><br>
+            {% endif %}
+          {% endfor %}
+        </p>
+      </div>
+
+      <br>
+  {% endif %}
+{% endfor %}
+
+-->
