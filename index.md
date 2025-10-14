@@ -41,9 +41,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Workshop
 
-* [Annotations](/annotations/)
-* [Bibliographies](/bibliographies/)
-* [Commonplace](/commonplace/)
-* [Ludographies](/ludographies/)
-* Screenshots
-* Transcripts
+<ul>
+  {% for page in site.pages %}
+    {% if page.category contains "workshop" %}
+      <li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
