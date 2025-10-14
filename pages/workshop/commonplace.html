@@ -1,0 +1,13 @@
+---
+layout: default
+category: marginalia
+title: Commonplace
+---
+
+{% assign sorted = site.posts | sort: 'date' | reverse %}
+	{% for item in sorted %}
+		{% if item.category contains "commonplace" %}
+			{{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+			<br>
+		{% endif %}
+	{% endfor %}

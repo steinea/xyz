@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * [Annotations](/annotations/)
 * [Bibliographies](/bibliographies/)
-* Commonplace
+* [Commonplace](/commonplace/)
 * [Ludographies](/ludographies/)
 * Screenshots
 * Transcripts
