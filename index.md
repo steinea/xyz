@@ -18,9 +18,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Garden
 
-* [Heap](/heap/)
-* [Planters](/planters/)
-* [Stream](/stream/)
+<ul>
+  {% for page in site.pages %}
+    {% if page.category contains "garden" %}
+      <li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 <br>
 
