@@ -1,0 +1,20 @@
+---
+layout: default
+category: bibliographies
+tags: software
+title: Requirements Engineering
+---
+
+<p>Also see Penzenstadler, et al. "The requirements engineering body of knowledge (REBoK)," in <em>2013 21st IEEEE International Requirements Engineering Conference (RE)</em>, Rio de Janeiro, Brazil, 2013, pp. 377-379. <a href="https://ieeexplore.ieee.org/document/6636758" target="_blank" rel="noopener noreferrer">IEEE Xplore</a>.</p>
+
+<br>
+
+{% assign directoryPage = page %}
+{% assign directorySlug = directoryPage.title | downcase | replace: " ", "-" %}
+{% assign sorted = site.pages | sort: "published" | reverse %}
+
+{% for item in sorted %}
+  {% if item.category contains "books" and item.tags contains directorySlug %}
+    {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+  {% endif %}
+{% endfor %}

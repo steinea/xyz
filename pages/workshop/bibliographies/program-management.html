@@ -1,0 +1,16 @@
+---
+layout: default
+category: bibliographies
+tags: management
+title: Program Management
+---
+
+{% assign directoryPage = page %}
+{% assign directorySlug = directoryPage.title | downcase | replace: " ", "-" %}
+{% assign sorted = site.pages | sort: "published" | reverse %}
+
+{% for item in sorted %}
+  {% if item.category contains "books" and item.tags contains directorySlug %}
+    {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+  {% endif %}
+{% endfor %}
