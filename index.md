@@ -11,20 +11,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Activity
 
-*Under construction.*
+<ul>
+  {% for page in site.pages %}
+    {% if page.category contains "activity" %}
+      <li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 <br>
 
 
 #### Garden
 
-<ul>
-  {% for page in site.pages %}
-    {% if page.category contains "garden" %}
-      <li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% include garden.html %}
 
 <br>
 

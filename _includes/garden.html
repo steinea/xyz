@@ -1,5 +1,7 @@
-{% for page in site.pages %}
-  {% if page.category contains "wiki" and page.subcategory contains "directory" %}
-    <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }},</a>
-  {% endif %}
-{% endfor %}
+<ul>
+  {% for page in site.pages %}
+    {% if page.category contains "garden" %}
+      <li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
