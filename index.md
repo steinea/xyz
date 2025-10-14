@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Workshop
 
-* Annotations
+* [Annotations](/annotations/)
 * [Bibliographies](/bibliographies/)
 * Commonplace
 * Ludographies
