@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Library
 
-*Under construction.*
+{% include library.html %}
 
 <br>
 
