@@ -11,13 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Activity
 
-<ul>
-  {% for page in site.pages %}
-    {% if page.category contains "activity" %}
-      <li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% include activity.html %}
 
 <br>
 
@@ -45,10 +39,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Workshop
 
-<ul>
-  {% for page in site.pages %}
-    {% if page.category contains "workshop" %}
-      <li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% include workshop.html %}
