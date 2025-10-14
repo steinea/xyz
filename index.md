@@ -41,4 +41,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Workshop
 
-*Under construction.*
+* Annotations
+* [Bibliographies](/bibliographies/)
+* Commonplace
+* Ludographies
+* Screenshots
+* Transcripts
