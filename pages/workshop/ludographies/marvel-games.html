@@ -1,0 +1,17 @@
+---
+layout: default
+category: ludographies
+title: Marvel Games
+date: 2024-02-26
+tags:
+---
+
+{% assign directoryPage = page %}
+{% assign directorySlug = directoryPage.title | downcase | replace: " ", "-" %}
+{% assign sorted = site.pages | sort: "releaseDate" | reverse %}
+
+{% for item in sorted %}
+  {% if item.category contains "videogame" and item.tags contains directorySlug %}
+    {{ item.releaseDate }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+  {% endif %}
+{% endfor %}
