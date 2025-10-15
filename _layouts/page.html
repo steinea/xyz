@@ -32,18 +32,10 @@ layout: default
             {% endif %}
           {% endfor %}
 
-          <!-- Developers > Video Games -->
+          <!-- Developers / Publishers > Video Games -->
           {% assign sorted = site.pages | sort: 'releaseDate' | reverse %}
           {% for item in sorted %}
-            {% if item.category contains "videogame" and item.developer contains codexAuthor %}
-              {{ item.releaseDate | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
-            {% endif %}
-          {% endfor %}
-
-          <!-- Publishers > Video Games -->
-          {% assign sorted = site.pages | sort: 'releaseDate' | reverse %}
-          {% for item in sorted %}
-            {% if item.category contains "videogame" and item.publisher contains codexAuthor %}
+            {% if item.category contains "videogame" and item.developer contains codexAuthor or item.publisher contains codexAuthor %}
               {{ item.releaseDate | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
             {% endif %}
           {% endfor %}
