@@ -4,7 +4,7 @@ category: videogame
 subcategory: backlog
 tags:
 title: EA Sports NHL 21
-developer: Electronic Arts
+developer: EA Sports
 publisher: Electronic Arts
 platform: PS4
 releaseDate: 2020-10-16
