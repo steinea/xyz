@@ -47,3 +47,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Workshop
 
 {% include workshop.html %}
+
+<br>
+
+<hr>
+
+
+#### Colophon
+
+{% include colophon.md %}
