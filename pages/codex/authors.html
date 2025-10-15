@@ -1,0 +1,11 @@
+---
+layout: default
+category: codex
+title: Authors
+---
+
+{% for page in site.pages %}
+  {% if page.category contains "wiki" and page.tags contains "author" %}
+    <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a><br>
+  {% endif %}
+{% endfor %}

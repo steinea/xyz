@@ -16,6 +16,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br>
 
 
+#### Codex
+
+{% include codex.html %}
+
+<br>
+
+
 #### Garden
 
 {% include garden.html %}
