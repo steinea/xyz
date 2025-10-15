@@ -6,4 +6,50 @@ layout: default
 
   {{ content }}
 
+  <!-- Checks if page is tagged for Codex -->
+  {% if page.tags contains "codex" %}
+
+    <br>
+
+    <div id="Codex">
+      <h4>Codex</h4>
+
+          {% assign codexAuthor = page.title %}
+
+          <!-- Authors > Books -->
+          {% assign sorted = site.pages | sort: 'published' | reverse %}
+          {% for item in sorted %}
+            {% if item.category contains "books" and item.author contains codexAuthor %}
+              {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+            {% endif %}
+          {% endfor %}
+
+          <!-- Authors > Commonplace -->
+          {% assign sorted = site.posts | sort: 'date' | reverse %}
+          {% for item in sorted %}
+            {% if item.category contains "commonplace" and item.publication contains codexAuthor %}
+              {{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+            {% endif %}
+          {% endfor %}
+
+          <!-- Developers > Video Games -->
+          {% assign sorted = site.pages | sort: 'releaseDate' | reverse %}
+          {% for item in sorted %}
+            {% if item.category contains "videogame" and item.developer contains codexAuthor %}
+              {{ item.releaseDate | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+            {% endif %}
+          {% endfor %}
+
+          <!-- Publishers > Video Games -->
+          {% assign sorted = site.pages | sort: 'releaseDate' | reverse %}
+          {% for item in sorted %}
+            {% if item.category contains "videogame" and item.publisher contains codexAuthor %}
+              {{ item.releaseDate | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+            {% endif %}
+          {% endfor %}
+
+    </div>
+
+  {% endif %}
+
 </div></article>

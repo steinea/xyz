@@ -3,3 +3,9 @@ layout: default
 category: codex
 title: Publishers
 ---
+
+{% for page in site.pages %}
+  {% if page.category contains "wiki" and page.tags contains "publisher" %}
+    <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a><br>
+  {% endif %}
+{% endfor %}
