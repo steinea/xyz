@@ -31,7 +31,7 @@ title: Video Games
 <div id="collection" class="tabcontent">
   {% for page in site.pages %}
     {% if page.category contains "videogame" and page.subcategory != "wishlist" %}
-      {{ page.releaseDate | date: "%Y" }} {% for developer in page.developer %}{{ developer }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <a href="{{ page.url }}">{{ page.title }}</a>
+      {% for developer in page.developer %}{{ developer }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <em><a href="{{ page.url }}">{{ page.title }}</a></em>
       <br>
     {% endif %}
   {% endfor %}
@@ -41,7 +41,7 @@ title: Video Games
 <div id="wishlist" class="tabcontent">
   {% for page in site.pages %}
     {% if page.category contains "videogame" and page.subcategory contains "wishlist" %}
-      {{ page.releaseDate | date: "%Y" }} {% for developer in page.developer %}{{ developer }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <a href="{{ page.url }}">{{ page.title }}</a>
+      {% for developer in page.developer %}{{ developer }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <em><a href="{{ page.url }}">{{ page.title }}</a></em>
       <br>
     {% endif %}
   {% endfor %}
