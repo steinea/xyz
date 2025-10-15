@@ -2,6 +2,7 @@
 layout: page
 category: wiki
 subcategory: game-studios
+tags: codex developer
 title: BioWare
 publication: BioWare
 link: https://www.bioware.com/careers/

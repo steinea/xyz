@@ -2,6 +2,7 @@
 layout: page
 category: wiki
 subcategory: people
+tags: codex author
 title: Guy Standing
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Guy_Standing_(economist)

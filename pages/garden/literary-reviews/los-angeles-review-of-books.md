@@ -2,6 +2,7 @@
 layout: page
 category: wiki
 subcategory: literary-reviews
+tags: codex publication
 title: Los Angeles Review of Books
 publication: Web
 link: https://lareviewofbooks.org/

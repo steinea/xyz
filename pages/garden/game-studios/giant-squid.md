@@ -2,6 +2,7 @@
 layout: page
 category: wiki
 subcategory: game-studios
+tags: developer codex
 title: Giant Squid
 publication: Giant Squid
 link: https://giantsquidstudios.com/Jobs
