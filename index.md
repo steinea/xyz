@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Inventory
 
-*Under construction.*
+{% include inventory.html %}
 
 <br>
 
