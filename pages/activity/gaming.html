@@ -3,3 +3,109 @@ layout: default
 category: activity
 title: Gaming
 ---
+
+<!-- Category Counts -->
+{% assign totalInProgress = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "videogame" and page.subcategory contains "now" %}
+      {% assign totalInProgress = totalInProgress | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalComplete = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "videogame" and page.subcategory contains "complete" %}
+      {% assign totalComplete = totalComplete | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalRetired = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "videogame" and page.subcategory contains "retired" %}
+      {% assign totalRetired = totalRetired | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalBacklog = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "videogame" and page.subcategory contains "backlog" %}
+      {% assign totalBacklog = totalBacklog | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('in-progress')">In Progress ({{ totalInProgress }})</button>
+  <button class="tablinks" onclick="openTab('complete')">Complete ({{ totalComplete }})</button>
+  <button class="tablinks" onclick="openTab('retired')">Retired ({{ totalRetired }})</button>
+  <button class="tablinks" onclick="openTab('backlog')">Backlog ({{ totalBacklog }})</button>
+</div>
+
+<br>
+
+<!-- In Progress Tab -->
+<div id="in-progress" class="tabcontent">
+  {% assign sorted = site.pages | sort: "percent" | reverse %}
+  {% for item in sorted %}
+    {% if item.category contains "videogame" and item.subcategory contains "now" %}
+      {{ item.percent }}% <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+<!-- Complete Tab -->
+<div id="complete" class="tabcontent">
+  {% assign sorted = site.pages | sort: "date" | reverse %}
+  {% for item in sorted %}
+    {% if item.category contains "videogame" and item.subcategory contains "complete" %}
+      {{ item.date | date: '%Y-%m-%d' }} <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+<!-- Retired Tab -->
+<div id="retired" class="tabcontent">
+  {% assign sorted = site.pages | sort: "percent" | reverse %}
+  {% for item in sorted %}
+    {% if item.category contains "videogame" and item.subcategory contains "retired" %}
+      {{ item.percent }}% <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+<!-- Backlog Tab -->
+<div id="backlog" class="tabcontent">
+  {% assign sorted = site.pages | sort: "howlongtobeat" %}
+  {% for item in sorted %}
+    {% if item.category contains "videogame" and item.subcategory contains "backlog" %}
+      {{ item.howlongtobeat }}h <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      <br>
+    {% endif %}
+  {% endfor %}
+
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('in-progress');
+</script>
