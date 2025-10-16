@@ -1,0 +1,73 @@
+---
+layout: default
+category: activity
+title: Watching
+---
+
+<!-- Category Counts -->
+{% assign totalFilms = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "film" and page.subcategory contains "watched" %}
+      {% assign totalFilms = totalFilms | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalEpisodes = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "episode" and page.subcategory contains "watched" %}
+      {% assign totalEpisodes = totalEpisodes | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalSeries = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "series" and page.subcategory contains "watched" %}
+      {% assign totalSeries = totalSeries | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('films')">Films ({{ totalFilms }})</button>
+  <button class="tablinks" onclick="openTab('episodes')">Episodes ({{ totalEpisodes }})</button>
+  <button class="tablinks" onclick="openTab('series')">Series ({{ totalSeries }})</button>
+</div>
+
+<br>
+
+
+<!-- Films Tab -->
+<div id="films" class="tabcontent">
+  {% assign sorted = site.pages | sort: "date" | reverse %}
+  {% for item in sorted %}
+    {% if item.category contains "film" and item.subcategory contains "watched" %}
+      {{ item.date }} <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+<!-- Episodes Tab -->
+<div id="episodes" class="tabcontent">
+  {% assign sorted = site.pages | sort: "date" | reverse %}
+  {% for item in sorted %}
+    {% if item.category contains "episodes" and item.subcategory contains "watched" %}
+      {{ item.date }} <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+<!-- Series Tab -->
+<div id="films" class="tabcontent">
+  {% assign sorted = site.pages | sort: "date" | reverse %}
+  {% for item in sorted %}
+    {% if item.category contains "series" and item.subcategory contains "watched" %}
+      {{ item.percent }}% <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
