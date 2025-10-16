@@ -12,7 +12,7 @@ difficulty: --
 trophyGuide: --
 durationHours: 104
 trophies: 50/62
-percent: 80%
+percent: 80
 link: https://www.exophase.com/game/starfield-xbox/achievements/#2209141
 date: 2024-02-25
 ---

@@ -12,7 +12,7 @@ difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/3557-call-of-duty-black-ops-iii-trophy-guide
 durationHours: 19
 trophies: 5/99
-percent: 5%
+percent: 5
 link: --
 date: 2017-08-15
 ---

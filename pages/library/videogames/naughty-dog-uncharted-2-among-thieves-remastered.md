@@ -13,7 +13,7 @@ difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/3423-uncharted-2-among-thieves-remastered-trophy-guide
 durationHours: 10
 trophies: 16/53
-percent: 30%
+percent: 30
 link: https://psnprofiles.com/trophies/3937-uncharted-2-among-thieves-remastered/barrelofjuice
 date: 2023-11-18
 ---

@@ -14,7 +14,7 @@ difficulty: 4/10
 trophyGuide: https://www.xboxachievements.com/game/the-elder-scrolls-4-oblivion-remastered/guide/
 durationHours: 22
 trophies: 20/60
-percent: 33%
+percent: 33
 link: https://www.exophase.com/game/the-elder-scrolls-iv-oblivion-remastered-xbox/achievements/#2209141
 date: 2025-05-25
 ---

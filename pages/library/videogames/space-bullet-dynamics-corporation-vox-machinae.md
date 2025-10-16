@@ -12,7 +12,7 @@ difficulty: --
 trophyGuide: --
 durationHours: 2
 trophies: 1/30
-percent: 3%
+percent: 3
 link: https://steamcommunity.com/id/steinea/stats/334540/
 date: 2020-08-19
 ---

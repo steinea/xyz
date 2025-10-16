@@ -12,7 +12,7 @@ difficulty: --
 trophyGuide: --
 durationHours: --
 trophies: 53/102
-percent: 52%
+percent: 52
 link: --
 date: 2022-09-24
 ---

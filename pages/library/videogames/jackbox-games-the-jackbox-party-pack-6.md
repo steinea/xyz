@@ -12,7 +12,7 @@ difficulty: --
 trophyGuide: --
 durationHours: 5
 trophies: 2/20
-percent: 1%
+percent: 1
 link: --
 date: 2020-07-01
 ---

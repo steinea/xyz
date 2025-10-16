@@ -12,7 +12,7 @@ difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/1462-battlefield-4-trophy-guide
 durationHours: 22
 trophies: 29/68
-percent: 42%
+percent: 42
 link: --
 date: 2014-08-17
 ---

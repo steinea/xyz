@@ -12,7 +12,7 @@ difficulty: 2/10
 trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=1755587444
 durationHours: 2
 trophies: 7/13
-percent: 54%
+percent: 54
 link: https://steamcommunity.com/id/steinea/stats/770390/
 date: 2024-11-02
 ---

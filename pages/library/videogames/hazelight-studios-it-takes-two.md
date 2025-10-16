@@ -12,7 +12,7 @@ difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/14366-it-takes-two-trophy-guide
 durationHours: 12
 trophies: 8/21
-percent: 38%
+percent: 38
 link: https://psnprofiles.com/trophies/12510-it-takes-two/barrelofjuice
 date: 2025-03-16
 ---

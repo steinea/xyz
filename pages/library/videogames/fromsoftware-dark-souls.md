@@ -13,7 +13,7 @@ difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/1656-dark-souls-trophy-guide
 durationHours:
 trophies: 41/41
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/1057-dark-souls/barrelofjuice
 date: 2014-07-17
 ---

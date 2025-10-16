@@ -14,7 +14,7 @@ difficulty:
 trophyGuide:
 durationHours: 27
 trophies: 14/52
-percent: 27%
+percent: 27
 link: https://steamcommunity.com/id/steinea/stats/1030300/achievements/
 backloggd: https://backloggd.com/u/steinea/logs/hollow-knight-silksong/
 exophase: https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#1624301

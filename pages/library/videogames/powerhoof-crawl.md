@@ -12,7 +12,7 @@ difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/13020-crawl-trophy-guide
 durationHours: 4
 trophies: 4/46
-percent: 8%
+percent: 8
 link: --
 date: 2019-08-19
 ---

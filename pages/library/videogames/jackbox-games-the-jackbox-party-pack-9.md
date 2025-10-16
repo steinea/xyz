@@ -12,7 +12,7 @@ difficulty: --
 trophyGuide: --
 durationHours: 3
 trophies: 7/20
-percent: 35%
+percent: 35
 link: https://psnprofiles.com/trophies/18862-the-jackbox-party-pack-9/barrelofjuice
 date: 2024-03-09
 ---

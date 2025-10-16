@@ -12,7 +12,7 @@ difficulty: --
 trophyGuide: --
 durationHours: --
 trophies: 8/18
-percent: 44%
+percent: 44
 link: --
 date: 2021-06-20
 ---

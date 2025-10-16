@@ -12,7 +12,7 @@ difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/19291-immortals-of-aveum-trophy-guide
 durationHours: 0.5
 trophies: 1/48
-percent: 2%
+percent: 2
 link: https://psnprofiles.com/trophies/23283-immortals-of-aveum/barrelofjuice
 date: 2023-10-24
 ---

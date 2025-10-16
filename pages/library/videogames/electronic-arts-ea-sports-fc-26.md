@@ -13,7 +13,7 @@ difficulty:
 trophyGuide:
 durationHours: 31
 trophies: 33/44
-percent: 75%
+percent: 75
 link: https://psnprofiles.com/trophies/36077-ea-sports-fc-26/barrelofjuice
 backloggd: https://backloggd.com/u/steinea/logs/ea-sports-fc-26/
 exophase: https://www.exophase.com/game/ea-sports-fc-26-psn/trophies/#1213131

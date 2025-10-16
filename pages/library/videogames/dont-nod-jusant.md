@@ -12,7 +12,7 @@ difficulty: 2/10
 trophyGuide: https://www.powerpyx.com/jusant-trophy-guide-roadmap/
 durationHours: 4
 trophies: 11/21
-percent: 52%
+percent: 52
 link: https://www.exophase.com/game/jusant-xbox/achievements/#2209141
 date: 2024-11-21
 ---

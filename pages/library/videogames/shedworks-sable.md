@@ -12,7 +12,7 @@ difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/18412-sable-trophy-guide
 durationHours: 1
 trophies: 3/56
-percent: 5%
+percent: 5
 link: https://www.exophase.com/game/sable-xbox/achievements/#2209141
 date: 2022-07-12
 ---

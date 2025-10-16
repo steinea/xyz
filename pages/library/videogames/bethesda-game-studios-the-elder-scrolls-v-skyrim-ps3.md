@@ -12,7 +12,7 @@ difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/1277-the-elder-scrolls-v-skyrim-trophy-guide
 durationHours: --
 trophies: 56/76
-percent: 74%
+percent: 74
 link: https://psnprofiles.com/trophies/1161-the-elder-scrolls-v-skyrim/barrelofjuice
 date: 2014-08-31
 ---

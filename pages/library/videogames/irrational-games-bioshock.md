@@ -12,7 +12,7 @@ difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/5341-bioshock-trophy-guide
 durationHours: --
 trophies: 48/66
-percent: 73%
+percent: 73
 link: https://psnprofiles.com/trophies/3-bioshock/barrelofjuice
 date: 2014-08-14
 ---

@@ -12,7 +12,7 @@ difficulty: --
 trophyGuide: --
 durationHours: 64
 trophies: 26/61
-percent: 42%
+percent: 42
 link: --
 date: 2016-08-23
 ---

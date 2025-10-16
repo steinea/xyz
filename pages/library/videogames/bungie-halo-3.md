@@ -12,7 +12,7 @@ difficulty: --
 trophyGuide: --
 durationHours: --
 trophies: 65/79
-percent: 82%
+percent: 82
 link: --
 date: 2010-07-22
 ---

@@ -12,7 +12,7 @@ difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/20721-neva-trophy-guide
 durationHours: 4
 trophies: 8/18
-percent: 44%
+percent: 44
 link: https://steamcommunity.com/id/steinea/stats/2420660/
 date: 2024-10-24
 ---

@@ -12,7 +12,7 @@ difficulty:
 trophyGuide:
 durationHours: 13
 trophies: 24/24
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/bastion-steam/achievements/#1624301
 date: 2024-09-16
 ---

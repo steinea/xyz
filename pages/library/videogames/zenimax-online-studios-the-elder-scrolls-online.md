@@ -12,7 +12,7 @@ difficulty: 9/10
 trophyGuide: https://psnprofiles.com/guide/16974-the-elder-scrolls-online-trophy-guide
 durationHours: 176
 trophies: 21/124
-percent: 17%
+percent: 17
 link: https://psnprofiles.com/trophies/3610-the-elder-scrolls-online/barrelofjuice
 date: 2019-11-05
 ---

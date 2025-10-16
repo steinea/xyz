@@ -12,7 +12,7 @@ difficulty: 5/10
 trophyGuide: https://www.powerpyx.com/ea-sports-fc25-trophy-guide-roadmap/
 durationHours: 98
 trophies: 25/40
-percent: 63%
+percent: 63
 link: https://psnprofiles.com/trophies/29388-ea-sports-fc-25/barrelofjuice
 date: 2025-03-31
 ---

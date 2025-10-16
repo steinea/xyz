@@ -13,7 +13,7 @@ difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/2151-dragon-age-inquisition-trophy-guide
 durationHours: 267
 trophies: 59/70
-percent: 84%
+percent: 84
 link: https://psnprofiles.com/trophies/3151-dragon-age-inquisition/barrelofjuice
 date: 2015-08-14
 ---

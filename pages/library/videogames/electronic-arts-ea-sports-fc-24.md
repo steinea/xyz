@@ -12,7 +12,7 @@ difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/17925-ea-sports-fc-24-trophy-guide
 durationHours: 48
 trophies: 27/41
-percent: 65%
+percent: 65
 link: --
 date: 2024-02-26
 ---

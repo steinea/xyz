@@ -12,7 +12,7 @@ difficulty:
 trophyGuide:
 durationHours: 352
 trophies: 133/144
-percent: 91%
+percent: 91
 link: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141
 date: 2024-12-06
 ---
