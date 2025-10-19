@@ -1,0 +1,12 @@
+---
+layout: default
+category: codex
+title: "Interests <em>(generated from wiki tag 'interest')</em>"
+---
+
+{% assign sorted = site.pages | sort: "date" | reverse %}
+{% for item in sorted %}
+  {% if item.category contains "wiki" and item.tags contains "interest" %}
+    <a href="{{ item.url }}">{{ item.title }}</a><br>
+  {% endif %}
+{% endfor %}

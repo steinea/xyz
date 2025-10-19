@@ -1,0 +1,12 @@
+---
+layout: default
+category: workshop
+title: "Bibliographies <em>(generated from wiki tag 'bibliography')</em>"
+---
+
+{% assign sorted = site.pages | sort: "date" | reverse %}
+{% for item in sorted %}
+  {% if item.category contains "wiki" and item.tags contains "bibliography" %}
+    <a href="{{ item.url }}">{{ item.title }}</a><br>
+  {% endif %}
+{% endfor %}

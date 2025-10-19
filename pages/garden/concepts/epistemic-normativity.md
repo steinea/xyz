@@ -1,8 +1,10 @@
 ---
 layout: default
-category: bibliographies
-tags: philosophy
+category: wiki
+subcategory: concepts
+tags: bibliography interest
 title: Epistemic Normativity
+date: 2024-08-19
 ---
 
 <p>From <em>Partially Examined Life</em> episode 348, "Tim Williamson’s Knowledge-First Epistemology" (<a href="https://partiallyexaminedlife.com/2024/08/19/ep348-1-williamson-epistemology/" target="_blank" rel="noopener noreferrer">Part One</a>, <a href="https://partiallyexaminedlife.com/2024/08/26/ep348-2-williamson-epistemology/" target="_blank" rel="noopener noreferrer">Part Two</a>). See Williamson, "Knowledge First Epistemology," in <em><a href="/sven-bernecker-duncan-pritchard-the-routledge-companion-to-epistemology/" class="internal-link">The Routledge Companion to Epistemology</a></em>; Kuhn's "normal science" from <em><a href="/thomas-kuhn-the-structure-of-scientific-revolutions/" class="internal-link">The Structure of Scientific Revolutions</a></em> as a project in knowledge-first puzzles; and general concepts of <a href="https://en.wikipedia.org/wiki/Metaepistemology#Normativity_and_reasons_for_belief" target="_blank" rel="noopener noreferrer">epistemic normativity</a> and <a href="https://en.wikipedia.org/wiki/Internalism_and_externalism#Externalism" target="_blank" rel="noopener noreferrer">radical externalism</a> in epistemology.</p>
