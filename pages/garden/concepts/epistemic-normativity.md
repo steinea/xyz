@@ -7,16 +7,4 @@ title: Epistemic Normativity
 date: 2024-08-19
 ---
 
-<p>From <em>Partially Examined Life</em> episode 348, "Tim Williamson’s Knowledge-First Epistemology" (<a href="https://partiallyexaminedlife.com/2024/08/19/ep348-1-williamson-epistemology/" target="_blank" rel="noopener noreferrer">Part One</a>, <a href="https://partiallyexaminedlife.com/2024/08/26/ep348-2-williamson-epistemology/" target="_blank" rel="noopener noreferrer">Part Two</a>). See Williamson, "Knowledge First Epistemology," in <em><a href="/sven-bernecker-duncan-pritchard-the-routledge-companion-to-epistemology/" class="internal-link">The Routledge Companion to Epistemology</a></em>; Kuhn's "normal science" from <em><a href="/thomas-kuhn-the-structure-of-scientific-revolutions/" class="internal-link">The Structure of Scientific Revolutions</a></em> as a project in knowledge-first puzzles; and general concepts of <a href="https://en.wikipedia.org/wiki/Metaepistemology#Normativity_and_reasons_for_belief" target="_blank" rel="noopener noreferrer">epistemic normativity</a> and <a href="https://en.wikipedia.org/wiki/Internalism_and_externalism#Externalism" target="_blank" rel="noopener noreferrer">radical externalism</a> in epistemology.</p>
-
-<br>
-
-{% assign directoryPage = page %}
-{% assign directorySlug = directoryPage.title | downcase | replace: " ", "-" %}
-{% assign sorted = site.pages | sort: "published" | reverse %}
-
-{% for item in sorted %}
-  {% if item.category contains "books" and item.tags contains directorySlug %}
-    {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
-  {% endif %}
-{% endfor %}
+From *Partially Examined Life* episode 348, "Tim Williamson’s Knowledge-First Epistemology" ([Part One](https://partiallyexaminedlife.com/2024/08/19/ep348-1-williamson-epistemology/), [Part Two](https://partiallyexaminedlife.com/2024/08/26/ep348-2-williamson-epistemology/)). See Williamson, "Knowledge First Epistemology," in *[The Routledge Companion to Epistemology](/sven-bernecker-duncan-pritchard-the-routledge-companion-to-epistemology/)*; Kuhn's "normal science" from *[The Structure of Scientific Revolutions](/thomas-kuhn-the-structure-of-scientific-revolutions/)* as a project in knowledge-first puzzles; and general concepts of [epistemic normativity](https://en.wikipedia.org/wiki/Metaepistemology#Normativity_and_reasons_for_belief) and [radical externalism](https://en.wikipedia.org/wiki/Internalism_and_externalism#Externalism) in epistemology.
