@@ -1,0 +1,12 @@
+---
+layout: default
+category: codex
+title: Wishlist
+---
+
+{% assign sorted = site.pages | sort: "price" %}
+{% for item in sorted %}
+  {% if item.subcategory contains "wishlist" %}
+    ${{ item.price }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endif %}
+{% endfor %}
