@@ -6,6 +6,6 @@ title: Reading
 
 {% for page in site.pages %}
   {% if page.category contains "books" and page.rating != "exclude" %}
-    {{ page.finished }} <em><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></em> {{ page.rating }}<br>
+    {{ page.finished }} <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a> {{ page.rating }}<br>
   {% endif %}
 {% endfor %}
