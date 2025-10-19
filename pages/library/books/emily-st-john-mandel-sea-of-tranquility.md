@@ -9,7 +9,7 @@ published: 2022
 started: 2024-04-22
 finished: 2024-04-22
 date: 2024-04-22
-rating: ★★★★
+rating: 4
 toc: true
 ---
 

@@ -9,7 +9,7 @@ published: 1993
 started: 2023-11-10
 finished: 2023-12-31
 date: 2023-12-31
-rating: ★★
+rating: 2
 toc: true
 ---
 

@@ -9,7 +9,7 @@ published: 1986
 started: 2025-02-03
 finished: 2025-02-07
 date: 2025-02-07
-rating: ★★★★
+rating: 4
 toc: true
 ---
 

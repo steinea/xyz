@@ -9,7 +9,7 @@ published: 1985
 started: 2024-01-14
 finished: 2024-02-25
 date: 2024-02-25
-rating: ★★★★
+rating: 4
 toc: true
 ---
 

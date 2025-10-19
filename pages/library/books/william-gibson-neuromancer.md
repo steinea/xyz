@@ -9,7 +9,7 @@ published: 1984
 started: 2025-06-06
 finished: 2025-06-09
 date: 2025-06-09
-rating: ★★★★★
+rating: 5
 toc: true
 ---
 

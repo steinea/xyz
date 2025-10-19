@@ -9,7 +9,7 @@ published: 1991
 started: 2021-10-25
 finished: 2021-12-06
 date: 2021-12-06
-rating: ★★★
+rating: 3
 toc: true
 ---
 

@@ -9,7 +9,7 @@ published: 1871
 started: 2023-08-21
 finished: 2024-01-01
 date: 2024-01-01
-rating: ★★★★★
+rating: 5
 toc: true
 ---
 

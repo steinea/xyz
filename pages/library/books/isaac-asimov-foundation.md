@@ -9,7 +9,7 @@ published: 1951
 started: 2021-07-25
 finished: 2021-08-01
 date: 2021-08-01
-rating: ★★★
+rating: 3
 toc: true
 ---
 
