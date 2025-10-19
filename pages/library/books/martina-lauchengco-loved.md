@@ -10,7 +10,7 @@ started:
 finished:
 date: 2022
 rating: exclude
-price: $43
+price: 43
 ---
 
 #### Citation

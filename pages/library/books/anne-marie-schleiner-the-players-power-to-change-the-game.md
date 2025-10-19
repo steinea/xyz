@@ -7,7 +7,7 @@ title: The Player's Power to Change the Game
 published: 2017
 date: 1111-11-11
 rating: exclude
-price: $46
+price: 46
 ---
 
 ### Citation

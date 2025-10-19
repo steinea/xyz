@@ -6,7 +6,7 @@ tags: horror-adventure
 title: Until Dawn Remake
 developer: Ballistic Moon
 publisher: Sony Computer Entertainment
-platform: PS4
+platform: PS5
 releaseDate: 2024-10-04
 howlongtobeat: 19
 difficulty: 2/10
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 80
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Until_Dawn):

@@ -7,7 +7,7 @@ title: Peasant-Citizen and Slave
 published: 2015
 date: 1111-11-11
 rating: exclude
-price:
+price: 30
 ---
 
 ### Citation

@@ -7,7 +7,7 @@ title: Critical Management Studies
 published: 2011
 date: 1111-11-11
 rating: exclude
-price: £675.00
+price: 1268
 ---
 
 ### Citation

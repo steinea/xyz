@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: TBD
 ---
 
 From [Steam](https://store.steampowered.com/app/3710600/Warhammer_40000_Dark_Heresy/):

@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 80
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Cronos:_The_New_Dawn):

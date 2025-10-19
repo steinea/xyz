@@ -7,12 +7,12 @@ title: Historiographies of Game Studies
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: --
+price: 35
 ---
 
 ### Citation
 
-*Historiographies of Game Studies: What It Has Been, What It Could Be.* Edited by Alisha Karabinus, Carly A Kocurek, Cody Mejeur, and Emma Vossen. Punctum Books, 2024. [--](https://punctumbooks.com/titles/historiographies-of-game-studies/).
+*Historiographies of Game Studies: What It Has Been, What It Could Be.* Edited by Alisha Karabinus, Carly A Kocurek, Cody Mejeur, and Emma Vossen. Punctum Books, 2024. [9781685712006](https://punctumbooks.com/titles/historiographies-of-game-studies/).
 
 <br>
 

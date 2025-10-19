@@ -16,6 +16,7 @@ trophies: --
 percent: --
 link: --
 date: 1999-01-01
+price: 140
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/List_of_Castlevania_media#Compilations_and_collections):

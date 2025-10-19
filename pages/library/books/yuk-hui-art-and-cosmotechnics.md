@@ -7,7 +7,7 @@ title: Art and Cosmotechnics
 published: 2020
 date: 1111-11-11
 rating: exclude
-price: $28
+price: 28
 ---
 
 ### Citation

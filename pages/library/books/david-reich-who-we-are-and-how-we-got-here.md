@@ -7,7 +7,7 @@ title: Who We Are and How We Got Here
 published: 2018
 date: 1111-11-11
 rating: exclude
-price: $20
+price: 20
 ---
 
 ### Citation

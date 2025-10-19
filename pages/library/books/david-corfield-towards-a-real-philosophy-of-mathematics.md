@@ -7,7 +7,7 @@ title: Towards a Real Philosophy of Mathematics
 published: 2009
 date: 1111-11-11
 rating: exclude
-price: $49
+price: 49
 ---
 
 ### Citation

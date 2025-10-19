@@ -7,7 +7,7 @@ title: The Day After the Revolution
 published: 2018
 date: 1111-11-11
 rating: exclude
-price: $26.00
+price: 26
 ---
 
 ### Citation

@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 70
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/A_Plague_Tale:_Innocence):

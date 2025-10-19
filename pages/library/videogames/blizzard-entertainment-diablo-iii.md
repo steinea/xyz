@@ -6,7 +6,7 @@ tags: roleplaying-games
 title: Diablo III
 developer: Blizzard Entertainment
 publisher: Blizzard Entertainment
-platform:
+platform: PS4
 releaseDate: 2012-05-15
 howlongtobeat: 167
 difficulty:
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 40
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Diablo_III):

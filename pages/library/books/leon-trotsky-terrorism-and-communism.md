@@ -7,7 +7,7 @@ title: Terrorism and Communism
 published: 1920
 date: 1111-11-11
 rating: exclude
-price: $26
+price: 26
 ---
 
 ### Citation

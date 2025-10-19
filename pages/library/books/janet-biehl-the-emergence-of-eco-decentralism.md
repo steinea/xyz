@@ -7,7 +7,7 @@ title: The Emergence of Eco-Decentralism
 published: 2012
 date: 1111-11-11
 rating: exclude
-price: $7.95
+price: 8
 ---
 
 ### Citation

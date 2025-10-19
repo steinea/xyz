@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 22
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Momodora:_Moonlit_Farewell):

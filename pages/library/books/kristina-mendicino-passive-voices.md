@@ -7,7 +7,7 @@ title: Passive Voices
 published: 2023
 date: 1111-11-11
 rating: exclude
-price: $37
+price: 37
 ---
 
 ### Citation

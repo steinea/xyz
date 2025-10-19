@@ -7,7 +7,7 @@ title: The Conquest of Bread
 published: 1892
 date: 1111-11-11
 rating: exclude
-price: $17.00
+price: 17
 ---
 
 ### Citation

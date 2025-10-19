@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 65
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_2:_Torna_%E2%80%93_The_Golden_Country):

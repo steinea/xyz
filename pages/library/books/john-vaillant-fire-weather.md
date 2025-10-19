@@ -7,7 +7,7 @@ title: Fire Weather
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: $25
+price: 25
 ---
 
 ### Citation

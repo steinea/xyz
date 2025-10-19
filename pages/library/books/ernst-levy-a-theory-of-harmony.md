@@ -7,7 +7,7 @@ title: A Theory of Harmony
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: $33
+price: 33
 ---
 
 ### Citation

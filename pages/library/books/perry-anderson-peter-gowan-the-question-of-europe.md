@@ -7,7 +7,7 @@ title: The Question of Europe
 published: 1997
 date: 1111-11-11
 rating: exclude
-price: Out of Stock
+price: 24
 ---
 
 ### Citation

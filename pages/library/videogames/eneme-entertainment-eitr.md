@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: TBD
 ---
 
 From [Steam](https://store.steampowered.com/app/350050/EITR/):

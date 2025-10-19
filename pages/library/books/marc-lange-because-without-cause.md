@@ -7,7 +7,7 @@ title: Because Without Cause
 published: 2016
 date: 1111-11-11
 rating: exclude
-price: $160
+price: 160
 ---
 
 ### Citation

@@ -10,7 +10,7 @@ started:
 finished:
 date: 2024
 rating: exclude
-price: $39
+price: 39
 ---
 
 #### Citation

@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 12
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Dead_Space_3):

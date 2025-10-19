@@ -7,7 +7,7 @@ title: Recursivity and Contingency
 published: 2019
 date: 1111-11-11
 rating: exclude
-price: $51
+price: 51
 ---
 
 ### Citation

@@ -7,7 +7,7 @@ title: Global Labour Flexibility
 published: 1999
 date: 1111-11-11
 rating: exclude
-price: $110
+price: 110
 ---
 
 ### Citation

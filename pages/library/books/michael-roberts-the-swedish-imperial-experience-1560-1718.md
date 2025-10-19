@@ -7,7 +7,7 @@ title: The Swedish Imperial Experience 1560-1718
 published: 1979
 date: 1111-11-11
 rating: exclude
-price: $43.00
+price: 43
 ---
 
 ### Citation

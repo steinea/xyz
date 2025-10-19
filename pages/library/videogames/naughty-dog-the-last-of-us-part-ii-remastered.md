@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 65
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II#Remaster):

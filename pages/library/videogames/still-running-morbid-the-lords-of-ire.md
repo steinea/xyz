@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 33
 ---
 
 From [Wikipedia](https://store.steampowered.com/app/2171560/Morbid_The_Lords_of_Ire/):

@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: fantasy-action
 title: Final Fantasy VII Ever Crisis
 developer: Square Enix

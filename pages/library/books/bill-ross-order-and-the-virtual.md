@@ -7,7 +7,7 @@ title: Order and the Virtual
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: $110
+price: 110
 ---
 
 ### Citation

@@ -1,12 +1,12 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: soulslike-legacies castlevania-continuity
 title: Dead Cells
 developer: Motion Twin
 publisher: Motion Twin
-platform: PS5
+platform: Steam
 releaseDate: 2018-08-07
 howlongtobeat: 91
 difficulty: 7/10

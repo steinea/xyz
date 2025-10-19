@@ -7,7 +7,7 @@ title: The Lost City of Z
 published: 2010
 date: 1111-11-11
 rating: exclude
-price: $11
+price: 11
 ---
 
 ### Citation

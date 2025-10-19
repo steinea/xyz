@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 33
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Ender_Magnolia:_Bloom_in_the_Mist):

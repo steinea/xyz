@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 24
 ---
 
 From [Steam](https://store.steampowered.com/app/1952370/Oblivion_Override/):

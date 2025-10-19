@@ -1,13 +1,12 @@
 ---
 layout: page
 category: books
-subcategory: wishlist
+subcategory: backlog
 author: Guy Standing
 title: The Precariat
 published: 2011
 date: 1111-11-11
 rating: exclude
-price: $0
 ---
 
 ### Citation

@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 42
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Path_of_Exile_2):

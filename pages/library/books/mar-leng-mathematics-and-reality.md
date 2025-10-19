@@ -7,7 +7,7 @@ title: Mathematics and Reality
 published: 2013
 date: 1111-11-11
 rating: exclude
-price: $48
+price: 48
 ---
 
 ### Citation

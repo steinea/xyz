@@ -7,7 +7,7 @@ title: Deleuze and the History of Mathematics
 published: 2013
 date: 1111-11-11
 rating: exclude
-price: $52
+price: 52
 ---
 
 ### Citation

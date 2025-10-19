@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1111-11-11
+price: 46
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Dune:_Spice_Wars):

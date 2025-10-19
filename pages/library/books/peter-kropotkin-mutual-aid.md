@@ -7,7 +7,7 @@ title: Mutual Aid
 published: 1902
 date: 1111-11-11
 rating: exclude
-price: $18.00
+price: 18
 ---
 
 ### Citation

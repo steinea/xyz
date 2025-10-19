@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 85
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Fire_Emblem_Warriors:_Three_Hopes):

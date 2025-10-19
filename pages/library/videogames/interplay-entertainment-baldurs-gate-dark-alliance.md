@@ -6,7 +6,7 @@ tags: roleplaying-games
 title: "Baldur's Gate: Dark Alliance"
 developer: Snowblind Studios
 publisher: Interplay Entertainment, Black Isle Studios
-platform:
+platform: Steam
 releaseDate: 2001-12-04
 howlongtobeat: 20
 difficulty:
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 38
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance):

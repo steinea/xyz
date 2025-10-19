@@ -7,7 +7,7 @@ title: The Making of New World Slavery
 published: 2010
 date: 1111-11-11
 rating: exclude
-price: $20.00
+price: 20
 ---
 
 ### Citation

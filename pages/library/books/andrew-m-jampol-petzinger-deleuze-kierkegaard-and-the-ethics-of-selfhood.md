@@ -7,7 +7,7 @@ title: Deleuze, Kierkegaard and the Ethics of Selfhood
 published: 2022
 date: 1111-11-11
 rating: exclude
-price: $25
+price: 25
 ---
 
 ### Citation

@@ -7,7 +7,7 @@ title: The Origins of Postmodernity
 published: 1998
 date: 1111-11-11
 rating: exclude
-price: Out of Stock
+price: 27
 ---
 
 ### Citation

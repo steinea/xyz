@@ -7,7 +7,7 @@ title: Killers of the Flower Moon
 published: 2017
 date: 1111-11-11
 rating: exclude
-price: $17
+price: 17
 ---
 
 ### Citation

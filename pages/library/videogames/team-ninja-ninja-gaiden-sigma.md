@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 8
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)):

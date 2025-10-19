@@ -7,7 +7,7 @@ title: Kierkegaard, Pietism and Holiness
 published: 2016
 date: 1111-11-11
 rating: exclude
-price: $67
+price: 67
 ---
 
 ### Citation

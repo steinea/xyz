@@ -7,7 +7,7 @@ title: Toward an Ecological Society
 published: 1979
 date: 1111-11-11
 rating: exclude
-price: $22.00
+price: 22
 ---
 
 ### Citation

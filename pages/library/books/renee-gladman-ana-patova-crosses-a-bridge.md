@@ -7,7 +7,7 @@ title: Ana Patova Crosses a Bridge
 published: 2013
 date: 1111-11-11
 rating: exclude
-price: $16.00
+price: 16
 ---
 
 ### Citation

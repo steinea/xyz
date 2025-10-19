@@ -2,8 +2,8 @@
 layout: page
 category: videogame
 subcategory: wishlist
-tags: 
-title: "Senua's Sage: Hellblade II"
+tags:
+title: "Senua's Saga: Hellblade II"
 developer: Ninja Theory
 publisher: Xbox Game Studios
 platform: PS5
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 70
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Senua%27s_Saga:_Hellblade_II):

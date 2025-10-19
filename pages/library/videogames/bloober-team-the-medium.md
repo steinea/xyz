@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 30
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Medium_(video_game)):

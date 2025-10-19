@@ -10,7 +10,7 @@ started:
 finished:
 date: 1962
 rating: exclude
-price: $24
+price: 24
 ---
 
 #### Citation

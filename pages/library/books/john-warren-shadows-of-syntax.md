@@ -7,7 +7,7 @@ title: Shadows of Syntax
 published: 2021
 date: 1111-11-11
 rating: exclude
-price: $130
+price: 130
 ---
 
 ### Citation

@@ -7,7 +7,7 @@ title: A Phenomenology of Landscape
 published: 1997
 date: 1111-11-11
 rating: exclude
-price: $50
+price: 50
 ---
 
 ### Citation

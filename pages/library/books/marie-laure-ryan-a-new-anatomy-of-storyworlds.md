@@ -7,7 +7,7 @@ title: A New Anatomy of Storyworlds
 published: 2022
 date: 1111-11-11
 rating: exclude
-price: $90
+price: 90
 ---
 
 ### Citation

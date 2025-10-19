@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 40
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Lords_of_the_Fallen_(2023_video_game)):

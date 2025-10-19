@@ -7,7 +7,7 @@ title: Canadian Business Law
 published: 2023
 date: 1111-11-11
 rating: exclude
-price: $105.00
+price: 105
 ---
 
 ### Citation

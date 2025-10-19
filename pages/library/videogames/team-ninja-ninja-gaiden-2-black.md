@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 75
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Ninja_Gaiden_Sigma_2#Ninja_Gaiden_2_Black):

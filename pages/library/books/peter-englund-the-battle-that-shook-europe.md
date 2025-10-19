@@ -7,7 +7,7 @@ title: The Battle That Shook Europe
 published: 2013
 date: 1111-11-11
 rating: exclude
-price: £25.99
+price: 49
 ---
 
 ### Citation

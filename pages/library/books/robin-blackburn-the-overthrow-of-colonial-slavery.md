@@ -7,7 +7,7 @@ title: The Overthrow of Colonial Slavery
 published: 2011
 date: 1111-11-11
 rating: exclude
-price: Out of Stock
+price: 44
 ---
 
 ### Citation

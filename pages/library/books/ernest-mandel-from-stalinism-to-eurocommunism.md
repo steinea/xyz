@@ -7,7 +7,7 @@ title: From Stalinism to Eurocommunism
 published: 1978
 date: 1111-11-11
 rating: exclude
-price: $14.00
+price: 14
 ---
 
 ### Citation

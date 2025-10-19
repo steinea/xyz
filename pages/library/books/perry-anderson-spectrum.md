@@ -7,7 +7,7 @@ title: Spectrum
 published: 2007
 date: 1111-11-11
 rating: exclude
-price: Out of Stock
+price: 60
 ---
 
 ### Citation

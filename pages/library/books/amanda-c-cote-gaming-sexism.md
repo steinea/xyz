@@ -7,7 +7,7 @@ title: Gaming Sexism
 published: 2020
 date: 1111-11-11
 rating: exclude
-price: $32
+price: 32
 ---
 
 ### Citation

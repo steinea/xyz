@@ -7,7 +7,7 @@ title: The Ancien Régime
 published: 2008
 date: 1111-11-11
 rating: exclude
-price: $23.00
+price: 23
 ---
 
 ### Citation

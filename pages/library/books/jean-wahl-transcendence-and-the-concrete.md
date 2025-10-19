@@ -7,7 +7,7 @@ title: Transcendence and the Concrete
 published: 2016
 date: 1111-11-11
 rating: exclude
-price: $125
+price: 125
 ---
 
 ### Citation

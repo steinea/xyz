@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: horror-adventure
 title: The Quarry
 developer: Supermassive Games

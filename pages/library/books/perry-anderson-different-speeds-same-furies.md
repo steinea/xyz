@@ -7,7 +7,7 @@ title: Different Speeds, Same Furies
 published: 2022
 date: 1111-11-11
 rating: exclude
-price: $34.00
+price: 34
 ---
 
 ### Citation

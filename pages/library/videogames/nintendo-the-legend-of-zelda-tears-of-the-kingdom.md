@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 115
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom):

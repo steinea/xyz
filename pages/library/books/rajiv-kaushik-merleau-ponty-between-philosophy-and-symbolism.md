@@ -7,7 +7,7 @@ title: Merleau-Ponty between Philosophy and Symbolism
 published: 2019
 date: 1111-11-11
 rating: exclude
-price: $35
+price: 35
 ---
 
 ### Citation

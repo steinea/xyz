@@ -11,11 +11,12 @@ started:
 finished:
 date: 1111-11-11
 rating: exclude
+price: 56
 ---
 
 #### Citation
 
-Dettmer, H. William. *The Logical Thinking Process: A Systems Approach to Complex Problem Solving.* Milwaukee, WI: Quality Press, 2007. [9780873897235](LINK).
+Dettmer, H. William. *The Logical Thinking Process: A Systems Approach to Complex Problem Solving.* Milwaukee, WI: Quality Press, 2007. [9780873897235](https://www.amazon.ca/Logical-Thinking-Process-Hardcover-H-William/dp/8174890416).
 
 <br>
 

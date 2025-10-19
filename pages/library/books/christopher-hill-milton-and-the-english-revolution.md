@@ -7,7 +7,7 @@ title: Milton and the English Revolution
 published: 2020
 date: 1111-11-11
 rating: exclude
-price: $40.00
+price: 40
 ---
 
 ### Citation

@@ -7,7 +7,7 @@ title: A Social History of Western Political Thought
 published: 2022
 date: 1111-11-11
 rating: exclude
-price: $46.00
+price: 46
 ---
 
 ### Citation

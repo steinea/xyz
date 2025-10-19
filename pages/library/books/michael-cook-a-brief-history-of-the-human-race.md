@@ -7,7 +7,7 @@ title: A Brief History of the Human Race
 published: 2003
 date: 1111-11-11
 rating: exclude
-price: $24
+price: 24
 ---
 
 ### Citation

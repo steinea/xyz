@@ -7,7 +7,7 @@ title: From Urbanization to Cities
 published: 1987
 date: 1111-11-11
 rating: exclude
-price: $19.00
+price: 19
 ---
 
 ### Citation

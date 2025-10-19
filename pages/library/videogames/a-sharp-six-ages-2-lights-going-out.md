@@ -15,6 +15,7 @@ trophies: --
 percent: --
 link: --
 date: 1999-01-01
+price: 33
 ---
 
 From [Steam](https://store.steampowered.com/app/2278010/Six_Ages_2_Lights_Going_Out/):

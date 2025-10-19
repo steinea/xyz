@@ -6,7 +6,7 @@ tags: roleplaying-games
 title: Diablo II
 developer: Blizzard North
 publisher: Blizzard Entertainment
-platform: GOG Galaxy
+platform: PS5
 releaseDate: 2000-06-28
 howlongtobeat: 48
 difficulty:
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 60
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Diablo_II):

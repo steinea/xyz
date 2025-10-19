@@ -16,6 +16,7 @@ trophies: --
 percent: --
 link: --
 date: 1999-01-01
+price: 80
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Wo_Long:_Fallen_Dynasty):

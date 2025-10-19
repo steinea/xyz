@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 54
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_The_Devil_in_Me):

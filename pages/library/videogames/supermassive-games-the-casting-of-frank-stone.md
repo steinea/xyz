@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 39
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Casting_of_Frank_Stone):

@@ -7,7 +7,7 @@ title: The Northern Wars
 published: 2000
 date: 1111-11-11
 rating: exclude
-price: $67.00
+price: 67
 ---
 
 ### Citation

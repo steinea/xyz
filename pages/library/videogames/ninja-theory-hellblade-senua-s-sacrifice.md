@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
-tags: 
+tags:
 title: "Hellblade: Senua's Sacrifice"
 developer: Ninja Theory
 publisher: Ninja Theory
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 30
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice):

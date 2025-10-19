@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 25
 ---
 
 From [Steam](https://store.steampowered.com/app/720560/Vigil_The_Longest_Night/):

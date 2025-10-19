@@ -9,7 +9,7 @@ title: A Conversation with Ernest Mandel
 published: 2023
 date: 1111-11-11
 rating: exclude
-price: $2
+price: 2
 ---
 
 ### Citation

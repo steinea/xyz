@@ -7,7 +7,7 @@ title: Capital City
 published: 2019
 date: 1111-11-11
 rating: exclude
-price: $24.00
+price: 24
 ---
 
 ### Citation

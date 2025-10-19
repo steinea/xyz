@@ -10,7 +10,7 @@ started:
 finished:
 date: 2018
 rating: exclude
-price: $31
+price: 31
 ---
 
 #### Citation

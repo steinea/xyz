@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 40
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Persona_3:_Dancing_in_Moonlight_and_Persona_5:_Dancing_in_Starlight):

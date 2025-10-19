@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 25
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_(2002_video_game)#Resident_Evil:_Origins_Collection), [Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_Zero#HD_Remaster):

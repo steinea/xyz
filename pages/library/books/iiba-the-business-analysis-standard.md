@@ -1,7 +1,7 @@
 ---
 layout: page
 category: books
-subcategory: wishlist
+subcategory: backlog
 tags: program-management
 author: IIBA
 title: The Business Analysis Standard

@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 34
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance_II):

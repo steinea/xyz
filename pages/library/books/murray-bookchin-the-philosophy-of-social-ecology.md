@@ -7,7 +7,7 @@ title: The Philosophy of Social Ecology
 published: 1998
 date: 1111-11-11
 rating: exclude
-price: $16.00
+price: 16
 ---
 
 ### Citation

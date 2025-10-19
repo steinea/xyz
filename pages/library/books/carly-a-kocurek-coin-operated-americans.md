@@ -7,7 +7,7 @@ title: Coin-Operated Americans
 published: 2015
 date: 1111-11-11
 rating: exclude
-price: $23
+price: 23
 ---
 
 ### Citation

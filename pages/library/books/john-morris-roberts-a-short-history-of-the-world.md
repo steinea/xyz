@@ -7,7 +7,7 @@ title: A Short History of the World
 published: 1997
 date: 1111-11-11
 rating: exclude
-price: $13
+price: 13
 ---
 
 ### Citation

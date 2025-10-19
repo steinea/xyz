@@ -7,7 +7,7 @@ title: My Tiny Life
 published: 1999
 date: 1111-11-11
 rating: exclude
-price: $40
+price: 40
 ---
 
 ### Citation

@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 20
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Evil_Within):

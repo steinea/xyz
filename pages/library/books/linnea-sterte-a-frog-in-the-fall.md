@@ -7,7 +7,7 @@ title: A Frog in the Fall
 published: 2023
 date: 1111-11-11
 rating: exclude
-price: $35.00
+price: 35
 ---
 
 ### Citation

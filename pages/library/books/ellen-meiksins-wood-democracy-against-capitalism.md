@@ -7,7 +7,7 @@ title: Democracy Against Capitalism
 published: 2016
 date: 1111-11-11
 rating: exclude
-price: $26.00
+price: 26
 ---
 
 ### Citation

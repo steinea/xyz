@@ -7,7 +7,7 @@ title: Fossil Capital
 published: 2016
 date: 1111-11-11
 rating: exclude
-price: Out of Stock
+price: 44
 ---
 
 ### Citation

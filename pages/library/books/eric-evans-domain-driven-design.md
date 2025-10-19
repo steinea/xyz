@@ -10,7 +10,7 @@ started:
 finished:
 date: 2003
 rating: exclude
-price: $93
+price: 93
 ---
 
 #### Citation

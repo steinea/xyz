@@ -7,7 +7,7 @@ title: The Prophet
 published: 2015
 date: 1111-11-11
 rating: exclude
-price: Out of Stock
+price: 126
 ---
 
 ### Citation

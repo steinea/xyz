@@ -7,7 +7,7 @@ title: The Wager
 published: 2023
 date: 1111-11-11
 rating: exclude
-price: $18
+price: 18
 ---
 
 ### Citation

@@ -7,7 +7,7 @@ title: Naturalizing Phenomenology
 published: 2000
 date: 1111-11-11
 rating: exclude
-price: $50.00
+price: 50
 ---
 
 ### Citation

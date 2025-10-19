@@ -6,7 +6,7 @@ tags: sony-prestige
 title: Death Stranding
 developer: Kojima Productions
 publisher: Sony Interactive Entertainment
-platform: PS5
+platform: PS4
 releaseDate: 2019-11-08
 howlongtobeat: 113
 difficulty: 3/10
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 50
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Death_Stranding):

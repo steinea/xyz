@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 90
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)):

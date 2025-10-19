@@ -16,6 +16,7 @@ trophies: --
 percent: --
 link: --
 date: 1999-01-01
+price: 35
 ---
 
 Game Design Lead: [[Ryota Suzuki]]

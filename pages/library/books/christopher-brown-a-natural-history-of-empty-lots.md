@@ -7,7 +7,7 @@ title: A Natural History of Empty Lots
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: $24
+price: 24
 ---
 
 ### Citation

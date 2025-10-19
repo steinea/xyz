@@ -7,7 +7,7 @@ title: Trotsky
 published: 1979
 date: 1111-11-11
 rating: exclude
-price: $14.00
+price: 14
 ---
 
 ### Citation

@@ -7,7 +7,7 @@ title: Imperialism and the National Question
 published: 1913-1922
 date: 1111-11-11
 rating: exclude
-price: $26.00
+price: 26
 ---
 
 ### Citation

@@ -10,7 +10,7 @@ started:
 finished:
 date: 2021
 rating: exclude
-price: $76
+price: 76
 ---
 
 #### Citation

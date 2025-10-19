@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 65
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Warhammer_40,000:_Rogue_Trader_(video_game)):

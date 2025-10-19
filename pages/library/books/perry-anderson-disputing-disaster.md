@@ -7,7 +7,7 @@ title: Disputing Disaster
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: $54.00
+price: 54
 ---
 
 ### Citation

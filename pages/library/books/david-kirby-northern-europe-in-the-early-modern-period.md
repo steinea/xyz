@@ -7,7 +7,7 @@ title: Northern Europe in the Early Modern Period
 published: 1990
 date: 1111-11-11
 rating: exclude
-price: $72.00
+price: 72
 ---
 
 ### Citation

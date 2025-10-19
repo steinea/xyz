@@ -7,7 +7,7 @@ title: Ready Player Two
 published: 2017
 date: 1111-11-11
 rating: exclude
-price: $38
+price: 38
 ---
 
 ### Citation

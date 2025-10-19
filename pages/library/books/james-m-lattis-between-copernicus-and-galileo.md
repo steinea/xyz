@@ -7,7 +7,7 @@ title: Between Copernicus and Galileo
 published: 1994
 date: 1111-11-11
 rating: exclude
-price: $44
+price: 44
 ---
 
 ### Citation

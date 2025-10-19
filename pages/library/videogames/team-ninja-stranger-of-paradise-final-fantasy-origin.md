@@ -16,6 +16,7 @@ trophies: --
 percent: --
 link: --
 date: 1999-01-01
+price: 30
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin):

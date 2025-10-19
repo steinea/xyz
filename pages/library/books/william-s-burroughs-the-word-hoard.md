@@ -7,7 +7,7 @@ title: The Word Hoard
 published: 1954-1958
 date: 1111-11-11
 rating: exclude
-price: --
+price: n/a
 ---
 
 ### Citation

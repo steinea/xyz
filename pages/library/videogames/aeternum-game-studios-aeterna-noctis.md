@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 39
 ---
 
 From [Steam](https://store.steampowered.com/app/1517970/Aeterna_Noctis/):

@@ -7,7 +7,7 @@ title: The Phenomenology of Play
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: $115.00
+price: 115
 ---
 
 ### Citation

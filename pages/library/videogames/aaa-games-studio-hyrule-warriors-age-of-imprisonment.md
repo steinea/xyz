@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 100
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment):

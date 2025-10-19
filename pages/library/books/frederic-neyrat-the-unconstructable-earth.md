@@ -7,7 +7,7 @@ title: The Unconstructable Earth
 published: 2019
 date: 1111-11-11
 rating: exclude
-price: $33
+price: 33
 ---
 
 ### Citation

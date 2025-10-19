@@ -7,7 +7,7 @@ title: Houses of Ravicka
 published: 2017
 date: 1111-11-11
 rating: exclude
-price: $16.00
+price: 16
 ---
 
 ### Citation

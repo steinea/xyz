@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 35
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Cadence_of_Hyrule):

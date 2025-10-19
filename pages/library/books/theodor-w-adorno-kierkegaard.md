@@ -7,7 +7,7 @@ title: Kierkegaard
 published: 1989
 date: 1111-11-11
 rating: exclude
-price:  $36
+price: 36
 ---
 
 ### Citation

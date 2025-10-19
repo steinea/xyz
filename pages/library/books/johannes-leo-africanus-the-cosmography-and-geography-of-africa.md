@@ -7,7 +7,7 @@ title: The Cosmography and Geography of Africa
 published: 1526
 date: 1111-11-11
 rating: exclude
-price: $22.00
+price: 22
 ---
 
 ### Citation

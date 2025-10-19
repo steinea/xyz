@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 27
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Ghost_Song_(video_game)):

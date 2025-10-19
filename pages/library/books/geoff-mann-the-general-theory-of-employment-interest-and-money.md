@@ -7,7 +7,7 @@ title: The General Theory of Employment, Interest and Money
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: Forthcoming
+price: 43
 ---
 
 ### Citation

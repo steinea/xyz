@@ -7,7 +7,7 @@ title: The Jakarta Method
 published: 2020
 date: 1111-11-11
 rating: exclude
-price: $15
+price: 15
 ---
 
 ### Citation

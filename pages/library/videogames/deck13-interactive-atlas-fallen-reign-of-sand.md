@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 55
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Atlas_Fallen):

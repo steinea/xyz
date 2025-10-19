@@ -10,7 +10,7 @@ started:
 finished:
 date: 1994
 rating: exclude
-price:
+price: 68
 ---
 
 #### Citation

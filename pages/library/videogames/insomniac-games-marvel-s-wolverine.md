@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: TBD
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Marvel%27s_Wolverine):

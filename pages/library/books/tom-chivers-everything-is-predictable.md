@@ -7,7 +7,7 @@ title: Everything Is Predictable
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: 29 €
+price: 27
 ---
 
 ### Citation

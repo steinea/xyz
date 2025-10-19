@@ -7,7 +7,7 @@ title: Dying of Whiteness
 published: 2019
 date: 1111-11-11
 rating: exclude
-price: $13
+price: 13
 ---
 
 ### Citation

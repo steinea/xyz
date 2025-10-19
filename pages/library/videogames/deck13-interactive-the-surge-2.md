@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: soulslike-legacies
 title: The Surge 2
 developer: Deck13 Interactive

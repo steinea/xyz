@@ -7,7 +7,7 @@ title: The White Darkness
 published: 2018
 date: 1111-11-11
 rating: exclude
-price: $14
+price: 14
 ---
 
 ### Citation

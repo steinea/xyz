@@ -6,7 +6,7 @@ tags: roleplaying-games
 title: "Torment: Tides of Numenara"
 developer: inXile Entertainment
 publisher: Techland Publishing
-platform:
+platform: Steam
 releaseDate: 2017-02-28
 howlongtobeat: 49
 difficulty:
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 40
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Torment:_Tides_of_Numenera):

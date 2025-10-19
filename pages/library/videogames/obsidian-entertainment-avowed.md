@@ -6,7 +6,7 @@ tags: roleplaying-games
 title: Avowed
 developer: Obsidian Entertainment
 publisher: Xbox Game Studios
-platform: Xbox
+platform: Steam
 releaseDate: 2025-02-18
 howlongtobeat: 68
 difficulty:
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 90
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Avowed):

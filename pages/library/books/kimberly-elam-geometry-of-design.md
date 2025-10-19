@@ -7,7 +7,7 @@ title: Geometry of Design
 published: 2011
 date: 1111-11-11
 rating: exclude
-price: $25
+price: 25
 ---
 
 ### Citation

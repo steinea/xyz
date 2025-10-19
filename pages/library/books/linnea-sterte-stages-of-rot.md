@@ -7,7 +7,7 @@ title: Stages of Rot
 published: 2023
 date: 1111-11-11
 rating: exclude
-price: $25.00
+price: 25
 ---
 
 ### Citation

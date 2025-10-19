@@ -16,6 +16,7 @@ trophies: --
 percent: --
 link: --
 date: 1999-01-01
+price: 70
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Dragon%27s_Dogma_2):

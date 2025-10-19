@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 21
 ---
 
 From [Steam](https://store.steampowered.com/app/1120810/Eastern_Exorcist/):

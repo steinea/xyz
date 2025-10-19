@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: roleplaying-games
 title: Path of Exile
 developer: Grinding Gear Games

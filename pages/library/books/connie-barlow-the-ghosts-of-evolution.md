@@ -7,7 +7,7 @@ title: The Ghosts of Evolution
 published: 2002
 date: 1111-11-11
 rating: exclude
-price: $22
+price: 22
 ---
 
 ### Citation

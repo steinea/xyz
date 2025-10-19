@@ -7,7 +7,7 @@ title: The Baltic World 1772-1993
 published: 1995
 date: 1111-11-11
 rating: exclude
-price: $105.00
+price: 105
 ---
 
 ### Citation

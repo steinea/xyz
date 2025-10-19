@@ -7,7 +7,7 @@ title: The Retreat from Class
 published: 1999
 date: 1111-11-11
 rating: exclude
-price: Out of Stock
+price: 32
 ---
 
 ### Citation

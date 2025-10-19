@@ -7,7 +7,7 @@ title: Beyond the New Paternalism
 published: 2002
 date: 1111-11-11
 rating: exclude
-price: $24
+price: 24
 ---
 
 ### Citation

@@ -7,7 +7,7 @@ title: The Corruption of Capitalism
 published: 2021
 date: 1111-11-11
 rating: exclude
-price: £10
+price: 19
 ---
 
 ### Citation

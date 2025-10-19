@@ -7,7 +7,7 @@ title: Mosses from an Old Manse
 published: 1846
 date: 1111-11-11
 rating: exclude
-price: $132
+price: 132
 ---
 
 ### Citation

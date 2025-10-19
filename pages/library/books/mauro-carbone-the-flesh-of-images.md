@@ -7,8 +7,9 @@ title: The Flesh of Images
 published: 2015
 date: 1111-11-11
 rating: exclude
-price: $32
+price: 32
 ---
+
 ### Citation
 
 Carbone, Mauro. *The Flesh of Images: Merleau-Ponty between Painting and Cinema.* Translated by Marta Nijhuis. SUNY Press, 2015. [9781438458786](https://sunypress.edu/Books/T/The-Flesh-of-Images2).

@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 44
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Eternity_II:_Deadfire):

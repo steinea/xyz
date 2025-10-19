@@ -7,7 +7,7 @@ title: Not By Politics Alone
 published: 2024
 date: 1111-11-11
 rating: exclude
-price: $26.00
+price: 26
 ---
 
 ### Citation

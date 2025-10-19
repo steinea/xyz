@@ -7,7 +7,7 @@ title: Geometry
 published: 2017
 date: 1111-11-11
 rating: exclude
-price: $64
+price: 64
 ---
 
 ### Citation

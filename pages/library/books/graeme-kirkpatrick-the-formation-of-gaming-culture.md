@@ -7,7 +7,7 @@ title: The Formation of Gaming Culture
 published: 2015
 date: 1111-11-11
 rating: exclude
-price: $40
+price: 40
 ---
 
 ### Citation

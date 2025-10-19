@@ -7,7 +7,7 @@ title: Karl Kautsky and the Socialist Revolution 1880-1938
 published: 1990
 date: 1111-11-11
 rating: exclude
-price: $14.00
+price: 14
 ---
 
 ### Citation

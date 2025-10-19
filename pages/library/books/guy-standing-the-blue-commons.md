@@ -7,7 +7,7 @@ title: The Blue Commons
 published: 2023
 date: 1111-11-11
 rating: exclude
-price: $46
+price: 46
 ---
 
 ### Citation

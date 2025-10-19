@@ -6,7 +6,7 @@ tags: roleplaying-games
 title: Diablo IV
 developer: Blizzard Entertainment
 publisher: Blizzard Entertainment
-platform:
+platform: Steam
 releaseDate: 2023-06-05
 howlongtobeat: 173
 difficulty:
@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 67
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Diablo_IV):

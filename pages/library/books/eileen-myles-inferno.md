@@ -7,7 +7,7 @@ title: Inferno
 published: 2010
 date: 1111-11-11
 rating: exclude
-price: £12.60
+price: 24
 ---
 
 ### Citation

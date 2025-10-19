@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 120
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses):

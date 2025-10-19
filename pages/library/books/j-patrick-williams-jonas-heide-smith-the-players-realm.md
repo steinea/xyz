@@ -7,7 +7,7 @@ title: The Players' Realm
 published: 2007
 date: 1111-11-11
 rating: exclude
-price: $30
+price: 30
 ---
 
 ### Citation

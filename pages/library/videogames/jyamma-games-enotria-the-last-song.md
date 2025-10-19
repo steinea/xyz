@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 52
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Enotria:_The_Last_Song):

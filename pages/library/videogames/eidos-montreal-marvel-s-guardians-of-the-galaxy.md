@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 30
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Marvel%27s_Guardians_of_the_Galaxy):

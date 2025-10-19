@@ -7,7 +7,7 @@ title: Kierkegaardian Studies
 published: 1938
 date: 1111-11-11
 rating: exclude
-price: --
+price: 120
 ---
 
 ### Citation

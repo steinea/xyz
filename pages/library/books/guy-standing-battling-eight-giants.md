@@ -7,7 +7,7 @@ title: Battling Eight Giants
 published: 2020
 date: 1111-11-11
 rating: exclude
-price: $33
+price: 33
 ---
 
 ### Citation

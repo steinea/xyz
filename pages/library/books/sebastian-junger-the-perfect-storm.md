@@ -7,7 +7,7 @@ title: The Perfect Storm
 published: 2009
 date: 1111-11-11
 rating: exclude
-price: $16
+price: 16
 ---
 
 ### Citation

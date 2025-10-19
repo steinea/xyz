@@ -7,7 +7,7 @@ title: Ptolemy's Philosophy
 published: 2018
 date: 1111-11-11
 rating: exclude
-price: $47
+price: 47
 ---
 
 ### Citation

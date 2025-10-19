@@ -16,6 +16,7 @@ trophies:
 percent:
 link:
 date: 1991-01-01
+price: 30
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2008_video_game)):

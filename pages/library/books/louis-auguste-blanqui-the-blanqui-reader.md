@@ -7,7 +7,7 @@ title: The Blanqui Reader
 published: 2018
 date: 1111-11-11
 rating: exclude
-price: $157.00
+price: 157
 ---
 
 ### Citation
