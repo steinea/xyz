@@ -48,7 +48,7 @@ title: Gaming
   {% assign sorted = site.pages | sort: "percent" | reverse %}
   {% for item in sorted %}
     {% if item.category contains "videogame" and item.subcategory contains "now" %}
-      {{ item.percent }}% <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      {{ item.percent }}% <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
       <br>
     {% endif %}
   {% endfor %}
@@ -60,7 +60,7 @@ title: Gaming
   {% assign sorted = site.pages | sort: "date" | reverse %}
   {% for item in sorted %}
     {% if item.category contains "videogame" and item.subcategory contains "complete" %}
-      {{ item.date | date: '%Y-%m-%d' }} <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      {{ item.date | date: '%Y-%m-%d' }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
       <br>
     {% endif %}
   {% endfor %}
@@ -72,7 +72,7 @@ title: Gaming
   {% assign sorted = site.pages | sort: "percent" | reverse %}
   {% for item in sorted %}
     {% if item.category contains "videogame" and item.subcategory contains "retired" %}
-      {{ item.percent }}% <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      {{ item.percent }}% <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
       <br>
     {% endif %}
   {% endfor %}
@@ -84,7 +84,7 @@ title: Gaming
   {% assign sorted = site.pages | sort: "howlongtobeat" %}
   {% for item in sorted %}
     {% if item.category contains "videogame" and item.subcategory contains "backlog" %}
-      {{ item.howlongtobeat }}h <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
+      {{ item.howlongtobeat }}h <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
       <br>
     {% endif %}
   {% endfor %}
