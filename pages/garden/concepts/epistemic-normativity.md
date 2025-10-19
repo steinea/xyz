@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 category: wiki
 subcategory: concepts
 tags: bibliography interest
