@@ -7,7 +7,7 @@ title: The Oxford Handbook of Critical Management Studies
 published: 2009
 date: 1111-11-11
 rating: exclude
-price: $108.00
+price: 108
 ---
 
 ### Citation
