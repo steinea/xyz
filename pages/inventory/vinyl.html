@@ -1,0 +1,70 @@
+---
+layout: default
+category: inventory
+title: Vinyl
+---
+
+<!-- Category Counts -->
+{% assign totalCollection = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "vinyl" and page.subcategory != "wishlist" %}
+      {% assign totalCollection = totalCollection | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalWishlist = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "vinyl" and page.subcategory contains "wishlist" %}
+      {% assign totalWishlist = totalWishlist | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('collection')">Collection ({{ totalCollection }})</button>
+  <button class="tablinks" onclick="openTab('wishlist')">Wishlist ({{ totalWishlist }})</button>
+</div>
+
+<br>
+
+<!-- Collection Tab -->
+<div id="collection" class="tabcontent">
+  {% assign sorted = site.pages | sort: "author" %}
+  {% for item in sorted %}
+    {% if item.category contains "vinyl" and item.subcategory != "wishlist" %}
+      {% for author in item.author %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Wishlist Tab -->
+<div id="wishlist" class="tabcontent">
+  {% assign sorted = site.pages | sort: "author" %}
+  {% for item in sorted %}
+    {% if item.category contains "vinyl" and item.subcategory contains "wishlist" %}
+      {% for author in item.author %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('collection');
+</script>
