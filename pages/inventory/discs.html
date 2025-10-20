@@ -30,13 +30,13 @@ title: Discs
 <div class="tab">
   <button class="tablinks" onclick="openTab('playstation')">PlayStation ({{ totalPlaystation }})</button>
   <button class="tablinks" onclick="openTab('xbox')">Xbox ({{ totalXbox }})</button>
-  <button class="tablinks" onclick="openTab('xbox')">Bluray ({{ totalBluray }})</button>
+  <button class="tablinks" onclick="openTab('bluray')">Bluray ({{ totalBluray }})</button>
 </div>
 
 <br>
 
 <!-- PlayStation Tab -->
-<div id="collection" class="tabcontent">
+<div id="playstation" class="tabcontent">
   {% assign sorted = site.data.discs | sort: "Title" %}
     {% for item in sorted %}
       {% if item.Type contains "playstation" %}
@@ -47,7 +47,7 @@ title: Discs
 </div>
 
 <!-- Xbox Tab -->
-<div id="collection" class="tabcontent">
+<div id="xbox" class="tabcontent">
   {% assign sorted = site.data.discs | sort: "Title" %}
     {% for item in sorted %}
       {% if item.Type contains "xbox" %}
@@ -58,7 +58,7 @@ title: Discs
 </div>
 
 <!-- Bluray Tab -->
-<div id="collection" class="tabcontent">
+<div id="bluray" class="tabcontent">
   {% assign sorted = site.data.discs | sort: "Title" %}
     {% for item in sorted %}
       {% if item.Type contains "bluray" %}
@@ -67,3 +67,23 @@ title: Discs
       {% endif %}
     {% endfor %}
 </div>
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('playstation');
+</script>
