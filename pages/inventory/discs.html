@@ -1,0 +1,69 @@
+---
+layout: default
+category: inventory
+title: Discs
+---
+
+<!-- Category Counts -->
+{% assign totalPlaystation = 0 %}
+  {% for disc in site.data.discs %}
+    {% if disc.Type contains "playstation" %}
+      {% assign totalPlaystation = totalPlaystation | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalXbox = 0 %}
+  {% for disc in site.data.discs %}
+    {% if disc.Type contains "xbox" %}
+      {% assign totalXbox = totalXbox | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalBluray = 0 %}
+  {% for disc in site.data.discs %}
+    {% if disc.Type contains "bluray" %}
+      {% assign totalBluray = totalBluray | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('playstation')">PlayStation ({{ totalPlaystation }})</button>
+  <button class="tablinks" onclick="openTab('xbox')">Xbox ({{ totalXbox }})</button>
+  <button class="tablinks" onclick="openTab('xbox')">Bluray ({{ totalBluray }})</button>
+</div>
+
+<br>
+
+<!-- PlayStation Tab -->
+<div id="collection" class="tabcontent">
+  {% assign sorted = site.data.discs | sort: "Title" %}
+    {% for item in sorted %}
+      {% if item.Type contains "playstation" %}
+        <a href="{{ site.baseurl }}/{{ item.Developer | slugify: 'latin'}}-{{ item.Title | slugify: 'latin'}}/" title="{{ item.Title }}">{{ item.Title }}</a>,
+        <a href="https://www.barcodelookup.com/{{ item.UPC }}" title="{{ item.Title }}"  target="_blank" rel="noopener noreferrer">{{ item.UPC }}<br>
+      {% endif %}
+    {% endfor %}
+</div>
+
+<!-- Xbox Tab -->
+<div id="collection" class="tabcontent">
+  {% assign sorted = site.data.discs | sort: "Title" %}
+    {% for item in sorted %}
+      {% if item.Type contains "xbox" %}
+        <a href="{{ site.baseurl }}/{{ item.Developer | slugify: 'latin'}}-{{ item.Title | slugify: 'latin'}}/" title="{{ item.Title }}">{{ item.Title }}</a>,
+        <a href="https://www.barcodelookup.com/{{ item.UPC }}" title="{{ item.Title }}"  target="_blank" rel="noopener noreferrer">{{ item.UPC }}<br>
+      {% endif %}
+    {% endfor %}
+</div>
+
+<!-- Bluray Tab -->
+<div id="collection" class="tabcontent">
+  {% assign sorted = site.data.discs | sort: "Title" %}
+    {% for item in sorted %}
+      {% if item.Type contains "bluray" %}
+        <a href="{{ site.baseurl }}/{{ item.Developer | slugify: 'latin'}}-{{ item.Title | slugify: 'latin'}}/" title="{{ item.Title }}">{{ item.Title }}</a>,
+        <a href="https://www.barcodelookup.com/{{ item.UPC }}" title="{{ item.Title }}"  target="_blank" rel="noopener noreferrer">{{ item.UPC }}<br>
+      {% endif %}
+    {% endfor %}
+</div>
