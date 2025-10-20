@@ -29,9 +29,10 @@ title: Board Games
 
 <!-- Collection Tab -->
 <div id="collection" class="tabcontent">
-  {% for page in site.pages %}
-    {% if page.category contains "boardgame" and page.subcategory != "wishlist" %}
-      {% for author in page.author %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <a href="{{ page.url }}">{{ page.title }}</a>
+  {% assign sorted = site.pages | sort: "author" %}
+  {% for item in sorted %}
+    {% if item.category contains "boardgame" and item.subcategory != "wishlist" %}
+      {% for author in item.author %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
       <br>
     {% endif %}
   {% endfor %}
@@ -39,9 +40,10 @@ title: Board Games
 
 <!-- Wishlist Tab -->
 <div id="wishlist" class="tabcontent">
-  {% for page in site.pages %}
-    {% if page.category contains "boardgame" and page.subcategory contains "wishlist" %}
-      {% for author in page.author %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <a href="{{ page.url }}">{{ page.title }}</a>
+  {% assign sorted = site.pages | sort: "author" %}
+  {% for item in sorted %}
+    {% if item.category contains "boardgame" and item.subcategory contains "wishlist" %}
+      {% for author in item.author %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}, <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
       <br>
     {% endif %}
   {% endfor %}
