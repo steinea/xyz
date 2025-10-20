@@ -30,4 +30,5 @@ defaults:
       permalink: /:year/:month/:day/:title/
 
 # Exclusions
-exclude:	['/pages/garden/template.md']
+exclude:	['/pages/garden/template.md',
+		'/pages/inventory/_templates']
