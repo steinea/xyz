@@ -47,11 +47,11 @@ layout: default
           {% endif %}
         {% endfor %}
 
-        <!-- Developers / Publishers > Video Games -->
-        {% assign sorted = site.pages | sort: 'releaseDate' | reverse %}
+        <!-- Developers / Publishers -->
+        {% assign sorted = site.pages | sort: 'published' | reverse %}
         {% for item in sorted %}
-          {% if item.category contains "videogame" and item.developer contains codexAuthor or item.publisher contains codexAuthor %}
-            {{ item.releaseDate | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+          {% if item.developer contains codexAuthor or item.publisher contains codexAuthor %}
+            {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
         {% endfor %}
 
