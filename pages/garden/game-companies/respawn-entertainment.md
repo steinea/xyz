@@ -2,8 +2,9 @@
 layout: page
 category: wiki
 subcategory: game-companies
-title: Respawn
-publication: Respawn
+tags: codex developer
+title: Respawn Entertainment
+publication: Respawn Entertainment
 link: https://www.respawn.com/careers
 date: 2023-02-20
 ---

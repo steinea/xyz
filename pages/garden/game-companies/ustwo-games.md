@@ -2,6 +2,7 @@
 layout: page
 category: wiki
 subcategory: game-companies
+tags: codex developer
 title: Ustwo Games
 publication: Ustwo Games
 link: https://ustwogames.co.uk/

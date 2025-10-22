@@ -2,6 +2,7 @@
 layout: page
 category: wiki
 subcategory: game-companies
+tags: codex developer
 title: Naughty Dog
 publication: Naughty Dog
 link: https://www.naughtydog.com/openings
