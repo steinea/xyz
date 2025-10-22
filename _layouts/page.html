@@ -39,14 +39,6 @@ layout: default
 
         {% assign codexAuthor = page.title %}
 
-        <!-- Authors > Books
-        {% assign sorted = site.pages | sort: 'published' | reverse %}
-        {% for item in sorted %}
-          {% if item.category contains "books" and item.author contains codexAuthor %}
-            {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
-          {% endif %}
-        {% endfor %} -->
-
         <!-- Authors > Commonplace -->
         {% assign sorted = site.posts | sort: 'date' | reverse %}
         {% for item in sorted %}
