@@ -39,13 +39,13 @@ layout: default
 
         {% assign codexAuthor = page.title %}
 
-        <!-- Authors > Books -->
+        <!-- Authors > Books
         {% assign sorted = site.pages | sort: 'published' | reverse %}
         {% for item in sorted %}
           {% if item.category contains "books" and item.author contains codexAuthor %}
             {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
 
         <!-- Authors > Commonplace -->
         {% assign sorted = site.posts | sort: 'date' | reverse %}
@@ -60,6 +60,14 @@ layout: default
         {% for item in sorted %}
           {% if item.category contains "videogame" and item.developer contains codexAuthor or item.publisher contains codexAuthor %}
             {{ item.releaseDate | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+          {% endif %}
+        {% endfor %}
+
+        <!-- Directors / Producers / Writers -->
+        {% assign sorted = site.pages | sort: 'releaseDate' | reverse %}
+        {% for item in sorted %}
+          {% if item.director contains codexAuthor or item.producer contains codexAuthor or item.writer contains codexAuthor %}
+            {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
         {% endfor %}
 
