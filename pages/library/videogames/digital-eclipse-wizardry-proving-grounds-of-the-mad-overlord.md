@@ -7,7 +7,7 @@ title: "Wizardry: Proving Grounds of the Mad Overlord"
 developer: Digital Eclipse
 publisher: Digital Eclipse
 platform: PS5
-releaseDate: 2023-09-15
+published: 2023-09-15
 howlongtobeat: 20
 difficulty:
 trophyGuide:

@@ -7,7 +7,7 @@ title: "Nier: Automata"
 developer: PlatinumGames
 publisher: Square Enix
 platform: PS4
-releaseDate: 2017-02-23
+published: 2017-02-23
 howlongtobeat: 62
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/5884-nier-automata-trophy-guide

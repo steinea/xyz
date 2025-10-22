@@ -7,7 +7,7 @@ title: Ninja Gaiden 4
 developer: Team Ninja, Platinum Games
 publisher: Xbox Game Studios
 platform: PS5
-releaseDate: 2025-10-21
+published: 2025-10-21
 howlongtobeat:
 difficulty:
 trophyGuide:

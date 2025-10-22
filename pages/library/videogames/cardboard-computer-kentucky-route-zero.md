@@ -6,13 +6,13 @@ title: Kentucky Route Zero
 developer: Cardboard Computer
 publisher: Annapurna Interactive
 platform: Steam
-releaseDate: 2020-01-28
+published: 2020-01-28
 howlongtobeat: 11
 difficulty: --
 trophyGuide: --
 durationHours: 31
 trophies: 24/24
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/231200/
 date: 2020-10-07
 ---

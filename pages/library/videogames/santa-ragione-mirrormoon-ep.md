@@ -6,7 +6,7 @@ title: MirrorMoon EP
 developer: Santa Ragione
 publisher: Santa Ragione
 platform: Steam
-releaseDate: 2013-09-04
+published: 2013-09-04
 howlongtobeat: 6
 difficulty: --
 trophyGuide: --

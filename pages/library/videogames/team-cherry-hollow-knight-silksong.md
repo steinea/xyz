@@ -8,7 +8,7 @@ title: "Hollow Knight: Silksong"
 developer: Team Cherry
 publisher: Team Cherry
 platform: Steam
-releaseDate: 2025-09-04
+published: 2025-09-04
 howlongtobeat: 31
 difficulty:
 trophyGuide:

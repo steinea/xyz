@@ -7,7 +7,7 @@ title: "Marvel's Spider-Man: Miles Morales"
 developer: Insomniac Games
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2020-11-12
+published: 2020-11-12
 howlongtobeat: 19
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/11179-marvels-spider-man-miles-morales-trophy-guide

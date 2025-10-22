@@ -7,7 +7,7 @@ title: Until Dawn Remake
 developer: Ballistic Moon
 publisher: Sony Computer Entertainment
 platform: PS5
-releaseDate: 2024-10-04
+published: 2024-10-04
 howlongtobeat: 19
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/3260-until-dawn-trophy-guide

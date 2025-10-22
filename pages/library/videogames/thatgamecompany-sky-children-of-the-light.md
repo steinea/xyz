@@ -7,7 +7,7 @@ title: "Sky: Children of the Light"
 developer: Thatgamecompany
 publisher: Thatgamecompany
 platform: PS4
-releaseDate: 2022-12-06
+published: 2022-12-06
 howlongtobeat: 200
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/17386-sky-children-of-the-light-trophy-guide

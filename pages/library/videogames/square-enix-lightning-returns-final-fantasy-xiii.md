@@ -7,7 +7,7 @@ title: "Lightning Returns: Final Fantasy XIII"
 developer: Square Enix
 publisher: Square Enix
 platform: PS3
-releaseDate: 2013-11-21
+published: 2013-11-21
 howlongtobeat: 67
 difficulty: 4/10
 trophyGuide: https://www.playstationtrophies.org/game/lightning-returns-final-fantasy-13/guide/

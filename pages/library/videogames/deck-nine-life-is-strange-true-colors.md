@@ -7,7 +7,7 @@ title: "Life Is Strange: True Colors"
 developer: Deck Nine
 publisher: Square Enix
 platform: PS5
-releaseDate: 2021-09-10
+published: 2021-09-10
 howlongtobeat: 13
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/12910-life-is-strange-true-colors-trophy-guide

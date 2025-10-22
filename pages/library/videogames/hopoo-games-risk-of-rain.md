@@ -7,7 +7,7 @@ title: Risk of Rain
 developer: Hopoo Games
 publisher: Gearbox Publishing
 platform: PS4
-releaseDate: 2013-11-08
+published: 2013-11-08
 howlongtobeat: 25
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/7282-risk-of-rain-trophy-guide

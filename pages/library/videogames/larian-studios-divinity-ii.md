@@ -7,7 +7,7 @@ title: Divinity II
 developer: Larian Studios
 publisher: cdv Software Entertainment
 platform: Steam
-releaseDate: 2010-01-05
+published: 2010-01-05
 howlongtobeat: 62
 difficulty:
 trophyGuide:

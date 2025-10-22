@@ -7,7 +7,7 @@ title: Persona 5 Tactica
 developer: P-Studio
 publisher: Sega
 platform: PS5
-releaseDate: 2023-11-17
+published: 2023-11-17
 howlongtobeat: 39
 difficulty:
 trophyGuide:

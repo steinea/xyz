@@ -6,13 +6,13 @@ title: Planet of Lana
 developer: Wishfully Studios
 publisher: Thunderful Publishing
 platform: Xbox
-releaseDate: 2023-05-23
+published: 2023-05-23
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --
 durationHours: 5
 trophies: 25/25
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/planet-of-lana-xbox/achievements/#2209141
 date: 2025-03-02
 ---

@@ -6,13 +6,13 @@ title: The Walking Dead
 developer: Telltale Games
 publisher: Telltale Games
 platform: PS4
-releaseDate: 2012-04-24
+published: 2012-04-24
 howlongtobeat: 14
 difficulty: 1/10
 trophyGuide: https://psnprofiles.com/guide/1826-the-walking-dead-trophy-guide
 durationHours: 29
 trophies: 49/49
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/3000-the-walking-dead/barrelofjuice
 date: 2015-02-25
 ---

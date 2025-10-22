@@ -7,7 +7,7 @@ title: Eitr
 developer: Eneme Entertainment
 publisher: Devolver Digital
 platform: Steam
-releaseDate: TBD
+published: TBD
 howlongtobeat:
 difficulty:
 trophyGuide:

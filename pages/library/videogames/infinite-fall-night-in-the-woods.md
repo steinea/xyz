@@ -6,13 +6,13 @@ title: Night in the Woods
 developer: Infinite Fall
 publisher: Finji
 platform: Steam
-releaseDate: 2017-02-21
+published: 2017-02-21
 howlongtobeat: 25
 difficulty: --
 trophyGuide: --
 durationHours: 18
 trophies: 31/31
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/481510/
 date: 2022-04-30
 ---

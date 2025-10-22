@@ -6,13 +6,13 @@ title: Venba
 developer: Visai Games
 publisher: Visai Games
 platform: Xbox
-releaseDate: 2023-07-31
+published: 2023-07-31
 howlongtobeat: 2
 difficulty: --
 trophyGuide: --
 durationHours: 3
 trophies: 15/15
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/venba-xbox/achievements/#2209141
 date: 2023-08-14
 ---

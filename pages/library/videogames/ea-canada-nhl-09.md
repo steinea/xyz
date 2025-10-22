@@ -6,7 +6,7 @@ title: NHL 09
 developer: EA Canada
 publisher: EA Sports
 platform: Xbox 360
-releaseDate: 2008-09-09
+published: 2008-09-09
 howlongtobeat: 22
 difficulty: --
 trophyGuide: --

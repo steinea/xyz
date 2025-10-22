@@ -7,7 +7,7 @@ title: Neon White
 developer: Angel Matrix
 publisher: Annapurna Interactive
 platform: PS5
-releaseDate: 2022-06-16
+published: 2022-06-16
 howlongtobeat: 25
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/15841-neon-white-trophy-guide

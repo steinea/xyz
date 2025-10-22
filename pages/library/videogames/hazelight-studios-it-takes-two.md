@@ -6,7 +6,7 @@ title: It Takes Two
 developer: Hazelight Studios
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2021-03-26
+published: 2021-03-26
 howlongtobeat: 14
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/14366-it-takes-two-trophy-guide

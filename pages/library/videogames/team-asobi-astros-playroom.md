@@ -6,13 +6,13 @@ title: Astro's Playroom
 developer: Team Asobi
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2020-11-12
+published: 2020-11-12
 howlongtobeat: 5
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/11237-astros-playroom-trophy-guide
 durationHours: 5
 trophies: 51/51
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/11753-astros-playroom/barrelofjuice
 date: 2025-03-13
 ---

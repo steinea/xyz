@@ -6,7 +6,7 @@ title: "Figment: Journey Into the Mind"
 developer: Bedtime Digital Games
 publisher: Bedtime Digital Games
 platform: Xbox
-releaseDate: 2017-09-22
+published: 2017-09-22
 howlongtobeat: 6
 difficulty: --
 trophyGuide: --

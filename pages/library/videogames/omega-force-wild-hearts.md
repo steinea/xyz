@@ -6,7 +6,7 @@ title: Wild Hearts
 developer: Omega Force
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2023-02-17
+published: 2023-02-17
 howlongtobeat: 133
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/19241-wild-hearts-trophy-guide

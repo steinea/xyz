@@ -7,7 +7,7 @@ title: Marvel's Blade
 developer: Arkane Studios
 publisher: Bethesda Softworks
 platform: TBD
-releaseDate: TBD
+published: TBD
 howlongtobeat:
 difficulty:
 trophyGuide:

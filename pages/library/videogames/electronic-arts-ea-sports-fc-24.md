@@ -6,7 +6,7 @@ title: EA Sports FC 24
 developer: EA Sports
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2023-09-29
+published: 2023-09-29
 howlongtobeat: 80
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/17925-ea-sports-fc-24-trophy-guide

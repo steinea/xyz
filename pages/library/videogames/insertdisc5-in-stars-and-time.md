@@ -7,7 +7,7 @@ title: In Stars and Time
 developer: insertdisc5
 publisher: Armor Games Studios
 platform: PS5
-releaseDate: 2023-11-20
+published: 2023-11-20
 howlongtobeat: 44
 difficulty:
 trophyGuide:

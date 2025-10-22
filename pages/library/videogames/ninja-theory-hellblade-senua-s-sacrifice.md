@@ -7,7 +7,7 @@ title: "Hellblade: Senua's Sacrifice"
 developer: Ninja Theory
 publisher: Ninja Theory
 platform: PS4
-releaseDate: 2017-08-08
+published: 2017-08-08
 howlongtobeat: 9
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/6346-hellblade-senuas-sacrifice-trophy-guide

@@ -7,7 +7,7 @@ title: Outlast
 developer: Red Barrels
 publisher: Red Barrels
 platform: PS4
-releaseDate: 2014-02-06
+published: 2014-02-06
 howlongtobeat: 7
 difficulty: 7/10
 trophyGuide: https://psnprofiles.com/guide/8-outlast-trophy-guide

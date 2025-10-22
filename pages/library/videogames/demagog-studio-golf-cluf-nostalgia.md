@@ -6,13 +6,13 @@ title: "Golf Club: Nostalgia"
 developer: Demagog Studio
 publisher: Untold Tales
 platform: PS4
-releaseDate: 2021-09-03
+published: 2021-09-03
 howlongtobeat: 6
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/12864-golf-club-nostalgia-trophy-guide
 durationHours: 9
 trophies: 28/28
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/13725-golf-club-nostalgia/barrelofjuice
 date: 2024-03-04
 ---

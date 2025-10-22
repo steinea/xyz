@@ -7,7 +7,7 @@ title: Warframe
 developer: Digital Extremes
 publisher: Digital Extremes
 platform: PS4
-releaseDate: 2013-11-15
+published: 2013-11-15
 howlongtobeat: 300
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/10471-warframe-the-complete-trophy-guide-ps4

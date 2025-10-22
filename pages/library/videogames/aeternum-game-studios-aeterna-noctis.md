@@ -7,7 +7,7 @@ title: Aeterna Noctis
 developer: Aeternum Game Studios
 publisher: Aeternum Game Studios
 platform: Steam
-releaseDate: 2021-12-14
+published: 2021-12-14
 howlongtobeat: 57
 difficulty:
 trophyGuide:

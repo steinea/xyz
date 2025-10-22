@@ -7,13 +7,13 @@ title: The Last of Us Part II
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2020-06-19
+published: 2020-06-19
 howlongtobeat: 43
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/10411-the-last-of-us-part-ii-trophy-guide
 durationHours: 77
 trophies: 28/28
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/10960-the-last-of-us-part-ii/barrelofjuice
 date: 2025-01-27
 ---

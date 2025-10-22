@@ -7,7 +7,7 @@ title: Ghost of Tsushima
 developer: Sucker Punch Productions
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2020-07-17
+published: 2020-07-17
 howlongtobeat: 62
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/10531-ghost-of-tsushima-trophy-guide

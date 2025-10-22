@@ -6,7 +6,7 @@ title: Signalis
 developer: rose-engine
 publisher: Humble Games and Playism
 platform: Xbox
-releaseDate: 2022-10-27
+published: 2022-10-27
 howlongtobeat: 13
 difficulty: --
 trophyGuide: --

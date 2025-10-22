@@ -6,7 +6,7 @@ title: Threes!
 developer: Sirvo
 publisher: Sirvo
 platform: Google
-releaseDate: 2014-02-06
+published: 2014-02-06
 howlongtobeat: 9
 difficulty: --
 trophyGuide: --

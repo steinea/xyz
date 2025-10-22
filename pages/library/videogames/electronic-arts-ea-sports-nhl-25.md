@@ -7,7 +7,7 @@ title: EA Sports NHL 25
 developer: EA Sports
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2024-10-04
+published: 2024-10-04
 howlongtobeat: 50
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/20915-nhl-25-trophy-guide

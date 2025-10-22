@@ -6,7 +6,7 @@ title: "Desta: The Memories Between"
 developer: Ustwo
 publisher: Netflox
 platform: Steam
-releaseDate: 2022-09-27
+published: 2022-09-27
 howlongtobeat: 3
 difficulty: --
 trophyGuide: --

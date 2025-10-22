@@ -7,7 +7,7 @@ title: Neverwinter Nights
 developer: BioWare
 publisher: Infogrames
 platform: GOG Galaxy
-releaseDate: 2002-06-18
+published: 2002-06-18
 howlongtobeat: 79
 difficulty:
 trophyGuide:

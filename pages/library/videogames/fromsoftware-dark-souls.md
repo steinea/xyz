@@ -7,7 +7,7 @@ title: Dark Souls
 developer: FromSoftware
 publisher: Namco Bandai Games
 platform: PS3
-releaseDate: 2011-09-22
+published: 2011-09-22
 howlongtobeat: 105
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/1656-dark-souls-trophy-guide

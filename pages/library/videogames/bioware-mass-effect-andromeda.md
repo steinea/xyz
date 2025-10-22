@@ -7,7 +7,7 @@ title: "Mass Effect: Andromeda"
 developer: BioWare
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2017-03-21
+published: 2017-03-21
 howlongtobeat: 94
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/5896-mass-effect-andromeda-trophy-guide

@@ -7,7 +7,7 @@ title: "Hyrule Warriors: Age of Calamity"
 developer: Omega Force
 publisher: Nintendo
 platform: Switch
-releaseDate: 2020-11-20
+published: 2020-11-20
 howlongtobeat: 77
 difficulty:
 trophyGuide:

@@ -7,7 +7,7 @@ title: Need for Speed Heat
 developer: Ghost Games
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2019-11-08
+published: 2019-11-08
 howlongtobeat: 50
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/10277-need-for-speed-heat-trophy-guide

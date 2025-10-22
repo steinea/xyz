@@ -6,7 +6,7 @@ title: Assemble with Care
 developer: Ustwo
 publisher: Ustwo
 platform: Steam
-releaseDate: 2019-09-19
+published: 2019-09-19
 howlongtobeat: 2
 difficulty: --
 trophyGuide: --

@@ -7,7 +7,7 @@ title: "Hyrule Warriors: Age of Imprisonment"
 developer: Omega Force
 publisher: Nintendo
 platform: Switch
-releaseDate: 2025-11-06
+published: 2025-11-06
 howlongtobeat:
 difficulty:
 trophyGuide:

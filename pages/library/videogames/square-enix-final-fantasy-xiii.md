@@ -7,7 +7,7 @@ title: Final Fantasy XIII
 developer: Square Enix
 publisher: Square Enix
 platform: PS3
-releaseDate: 2009-12-17
+published: 2009-12-17
 howlongtobeat: 105
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/138-final-fantasy-xiii-trophy-guide

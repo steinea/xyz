@@ -6,13 +6,13 @@ title: Untitled Goose Game
 developer: House House
 publisher: Panic Inc.
 platform: Steam
-releaseDate: 2019-09-20
+published: 2019-09-20
 howlongtobeat: 6
 difficulty: --
 trophyGuide: --
 durationHours: 6
 trophies: 25/25
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/837470/
 date: 2020-10-01
 ---

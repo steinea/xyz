@@ -6,13 +6,13 @@ title: Wavelength
 developer: CMYK Games
 publisher: CMYK Games
 platform: Google
-releaseDate: 2022-02-10
+published: 2022-02-10
 howlongtobeat: --
 difficulty: --
 trophyGuide: --
 durationHours:
 trophies: 13/13
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/wavelength-android/achievements/#1644034
 date: 2025-02-28
 ---

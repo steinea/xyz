@@ -6,13 +6,13 @@ title: Monument Valley
 developer: Ustwo Games
 publisher: Ustwo Games
 platform: Google
-releaseDate: 2014-04-03
+published: 2014-04-03
 howlongtobeat: 3
 difficulty: --
 trophyGuide: --
 durationHours:
 trophies: 19/19
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/monument-valley-android/achievements/#1644034
 date: 2018-10-21
 ---

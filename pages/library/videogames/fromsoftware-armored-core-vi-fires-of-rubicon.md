@@ -6,7 +6,7 @@ title: "Armored Core VI: Fires of Rubicon"
 developer: FromSoftware
 publisher: Bandai Namco Entertainment
 platform: PS5
-releaseDate: 2023-08-25
+published: 2023-08-25
 howlongtobeat: 49
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/17834-armored-core-vi-fires-of-rubicon-trophy-guide

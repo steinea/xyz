@@ -6,13 +6,13 @@ title: Monument Valley 2
 developer: Ustwo Games
 publisher: Ustwo Games
 platform: Google
-releaseDate: 2017-06-05
+published: 2017-06-05
 howlongtobeat: 2
 difficulty: --
 trophyGuide: --
 durationHours:
 trophies: 15/15
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/monument-valley-2-android/achievements/#1644034
 date: 2018-11-26
 ---

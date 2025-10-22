@@ -7,7 +7,7 @@ title: Dynasty Warriors 9
 developer: Omega Force
 publisher: Koei Tecmo
 platform: PS4
-releaseDate: 2018-02-13
+published: 2018-02-13
 howlongtobeat: 176
 difficulty:
 trophyGuide:

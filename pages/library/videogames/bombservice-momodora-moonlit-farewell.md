@@ -7,7 +7,7 @@ title: "Momodora: Moonlit Farewell"
 developer: Bombservice
 publisher: Playism
 platform: Steam
-releaseDate: 2024-01-11
+published: 2024-01-11
 howlongtobeat: 11
 difficulty:
 trophyGuide:

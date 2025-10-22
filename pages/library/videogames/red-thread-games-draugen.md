@@ -6,7 +6,7 @@ title: Draugen
 developer: Red Thread Games
 publisher: Red Thread Games
 platform: Steam
-releaseDate: 2019-05-29
+published: 2019-05-29
 howlongtobeat: 5
 difficulty: 2/10
 trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=1755587444

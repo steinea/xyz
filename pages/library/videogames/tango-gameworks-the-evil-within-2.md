@@ -7,7 +7,7 @@ title: The Evil Within 2
 developer: Tango Gameworks
 publisher: Bethesda Softworks
 platform: PS4
-releaseDate: 2017-10-13
+published: 2017-10-13
 howlongtobeat: 28
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/6560-the-evil-within-2-trophy-guide

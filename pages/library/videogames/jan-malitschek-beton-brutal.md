@@ -6,7 +6,7 @@ title: Beton Brutal
 developer: Jan Malitschek
 publisher: Jan Malitschek
 platform: Steam
-releaseDate: 2023-03-31
+published: 2023-03-31
 howlongtobeat: 48
 difficulty: --
 trophyGuide: --

@@ -7,7 +7,7 @@ title: Dead Nation
 developer: Housemarque
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2014-03-04
+published: 2014-03-04
 howlongtobeat: 20
 difficulty: --
 trophyGuide: --

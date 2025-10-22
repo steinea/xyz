@@ -7,7 +7,7 @@ title: "Vigil: The Longest Night"
 developer: Glass Heart Games
 publisher: Glass Heart Games
 platform: Steam
-releaseDate: 2020-10-14
+published: 2020-10-14
 howlongtobeat: 35
 difficulty:
 trophyGuide:

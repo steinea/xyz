@@ -7,7 +7,7 @@ title: Minoria
 developer: Bombservice
 publisher: Dangen Entertainment
 platform: Steam
-releaseDate: 2019-08-27
+published: 2019-08-27
 howlongtobeat: 9
 difficulty: --
 trophyGuide: --

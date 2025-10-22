@@ -7,7 +7,7 @@ title: Ninja Gaiden Sigma
 developer: Team Ninja
 publisher: Koei Tecmo
 platform: PS3
-releaseDate: 2007-06-14
+published: 2007-06-14
 howlongtobeat: 30
 difficulty: 9/10
 trophyGuide: https://psnprofiles.com/guide/13480-ninja-gaiden-%CF%83-trophy-guide

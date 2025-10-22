@@ -7,7 +7,7 @@ title: "Baldur's Gate II: Shadows of Amn"
 developer: BioWare
 publisher: Black Isle Studios, Interplay Entertainment
 platform: GOG Galaxy
-releaseDate: 2000-09-21
+published: 2000-09-21
 howlongtobeat: 135
 difficulty:
 trophyGuide:

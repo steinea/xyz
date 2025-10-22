@@ -6,7 +6,7 @@ title: "Six Ages 2: Lights Going Out"
 developer: A Sharp
 publisher: Kitfox Games
 platform: Steam
-releaseDate: 2023-08-21
+published: 2023-08-21
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --

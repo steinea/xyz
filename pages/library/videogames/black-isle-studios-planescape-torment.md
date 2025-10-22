@@ -7,7 +7,7 @@ title: "Planescape: Torment"
 developer: Black Isle Studios
 publisher: Interplay Entertainment
 platform: GOG Galaxy
-releaseDate: 1999-12-10
+published: 1999-12-10
 howlongtobeat: 65
 difficulty:
 trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=918250506

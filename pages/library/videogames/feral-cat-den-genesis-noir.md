@@ -6,7 +6,7 @@ title: Genesis Noir
 developer: Feral Cat Den
 publisher: Fellow Traveller
 platform: Steam
-releaseDate: 2021-03-26
+published: 2021-03-26
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --

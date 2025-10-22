@@ -7,7 +7,7 @@ title: "Uncharted 3: Drake’s Deception Remastered"
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
 platform: PS4
-releaseDate: 2011-11-01
+published: 2011-11-01
 howlongtobeat: 20
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/3434-uncharted-3-drakes-deception-remastered-extended-collection-dlc-trophy-guide

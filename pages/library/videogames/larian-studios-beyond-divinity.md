@@ -7,7 +7,7 @@ title: Beyond Divinity
 developer: Larian Studios
 publisher: Ubisoft, HIP Interactive
 platform: Steam
-releaseDate: 2004-04-27
+published: 2004-04-27
 howlongtobeat: 57
 difficulty:
 trophyGuide:

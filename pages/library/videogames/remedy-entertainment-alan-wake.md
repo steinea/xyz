@@ -7,7 +7,7 @@ title: Alan Wake
 developer: Remedy Entertainment
 publisher: Microsoft Game Studios
 platform: Steam
-releaseDate: 2010-05-14
+published: 2010-05-14
 howlongtobeat: 25
 difficulty: 4/10
 trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=381121751

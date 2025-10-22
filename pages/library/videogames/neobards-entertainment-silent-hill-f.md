@@ -7,7 +7,7 @@ title: Silent Hill f
 developer: NeoBards Entertainment
 publisher: Konami Digital Entertainment
 platform: PS5
-releaseDate: 2025-09-25
+published: 2025-09-25
 howlongtobeat:
 difficulty:
 trophyGuide:

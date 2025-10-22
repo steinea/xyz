@@ -7,7 +7,7 @@ title: Directive 8020
 developer: Supermassive Games
 publisher: Supermassive Games
 platform: PS5
-releaseDate: 2025-10-02
+published: 2025-10-02
 howlongtobeat:
 difficulty:
 trophyGuide:

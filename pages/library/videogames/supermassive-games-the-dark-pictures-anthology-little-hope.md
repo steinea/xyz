@@ -7,7 +7,7 @@ title: "The Dark Pictures Anthology: Little Hope"
 developer: Supermassive Games
 publisher: Bandai Namco Entertainment
 platform: PS5
-releaseDate: 2020-10-30
+published: 2020-10-30
 howlongtobeat: 24
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/13189-the-dark-pictures-anthology-little-hope-trophy-guide

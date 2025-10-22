@@ -7,7 +7,7 @@ title: "Pillars of Eternity II: Deadfire"
 developer: Obsidian Entertainment
 publisher: Versus Evil
 platform:
-releaseDate: 2018-05-08
+published: 2018-05-08
 howlongtobeat: 97
 difficulty:
 trophyGuide:

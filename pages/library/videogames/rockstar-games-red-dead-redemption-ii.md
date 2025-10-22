@@ -7,7 +7,7 @@ title: Red Dead Redemption II
 developer: Rockstar Games
 publisher: Rockstar Games
 platform: PS4
-releaseDate: 2018-10-26
+published: 2018-10-26
 howlongtobeat: 188
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/7962-red-dead-redemption-2-trophy-guide

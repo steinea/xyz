@@ -6,7 +6,7 @@ title: Forza Horizon 5
 developer: Playground Games
 publisher: Xbox Game Studios
 platform: Xbox
-releaseDate: 2021-11-09
+published: 2021-11-09
 howlongtobeat: 119
 difficulty: --
 trophyGuide: --

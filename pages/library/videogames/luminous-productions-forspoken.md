@@ -7,7 +7,7 @@ title: Forspoken
 developer: Luminous Productions
 publisher: Square Enix
 platform: PS5
-releaseDate: 2023-01-24
+published: 2023-01-24
 howlongtobeat: 56
 difficulty: 4/10
 trophyGuide: --

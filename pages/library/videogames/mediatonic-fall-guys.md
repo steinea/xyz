@@ -7,7 +7,7 @@ title: Fall Guys
 developer: Mediatonic
 publisher: Devolver Digital
 platform: PS4
-releaseDate: 2020-08-04
+published: 2020-08-04
 howlongtobeat: 60
 difficulty: 10/10
 trophyGuide: https://psnprofiles.com/guide/10651-fall-guys-ultimate-knockout-trophy-guide

@@ -6,7 +6,7 @@ title: "Lego Batman: The Videogame"
 developer: Traveller's Tales
 publisher: Warner Bros. Interactive Entertainment
 platform: Xbox 360
-releaseDate: 2008-09-23
+published: 2008-09-23
 howlongtobeat: 30
 difficulty: --
 trophyGuide: --

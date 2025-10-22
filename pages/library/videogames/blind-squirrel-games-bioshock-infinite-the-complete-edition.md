@@ -6,7 +6,7 @@ title: "BioShock Infinite: The Complete Edition"
 developer: Blind Squirrel Games
 publisher: 2K
 platform: PS4
-releaseDate: 2016-09-13
+published: 2016-09-13
 howlongtobeat: 34
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/6872-bioshock-infinite-trophy-guide

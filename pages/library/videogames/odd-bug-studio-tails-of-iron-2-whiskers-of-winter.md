@@ -7,7 +7,7 @@ title: "Tails of Iron 2: Whiskers of Winter"
 developer: Odd Bug Studio
 publisher: United Label
 platform: Steam
-releaseDate: 2025-01-28
+published: 2025-01-28
 howlongtobeat: 13
 difficulty:
 trophyGuide:

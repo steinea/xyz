@@ -6,7 +6,7 @@ title: Kinect Adventures!
 developer: Good Science Studio
 publisher: Microsoft Game Studios
 platform: Xbox 360
-releaseDate: 2010-11-04
+published: 2010-11-04
 howlongtobeat: 11
 difficulty: --
 trophyGuide: --

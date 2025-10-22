@@ -7,13 +7,13 @@ title: 'Sekiro: Shadows Die Twice'
 developer: FromSoftware
 publisher: Activison
 platform: PS4
-releaseDate: 2019-03-22
+published: 2019-03-22
 howlongtobeat: 70
 difficulty: 7/10
 trophyGuide: https://psnprofiles.com/guide/8525-sekiro-shadows-die-twice-trophy-guide
 durationHours: 84
 trophies: 34/34
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/8864-sekiro-shadows-die-twice/barrelofjuice
 date: 2019-08-19
 ---

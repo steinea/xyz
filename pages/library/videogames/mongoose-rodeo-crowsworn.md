@@ -7,7 +7,7 @@ title: Crowsworn
 developer: Mongoose Rodeo
 publisher: Mongoose Rodeo
 platform: Steam
-releaseDate: TBD
+published: TBD
 howlongtobeat:
 difficulty:
 trophyGuide:

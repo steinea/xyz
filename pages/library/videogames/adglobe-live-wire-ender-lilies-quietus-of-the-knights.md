@@ -7,7 +7,7 @@ title: "Ender Lilies: Quietus of the Knights"
 developer: Adglobe, Live Wire
 publisher: Binary Haze Interactive
 platform: Steam
-releaseDate: 2021-06-22
+published: 2021-06-22
 howlongtobeat: 21
 difficulty:
 trophyGuide:

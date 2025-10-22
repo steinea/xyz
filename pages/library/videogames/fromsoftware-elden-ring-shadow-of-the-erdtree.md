@@ -7,7 +7,7 @@ title: "Elden Ring: Shadow of the Erdtree"
 developer: FromSoftware
 publisher: Bandai Namco Entertainment
 platform: Steam
-releaseDate: 2024-06-20
+published: 2024-06-20
 howlongtobeat:
 difficulty:
 trophyGuide:

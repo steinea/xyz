@@ -6,7 +6,7 @@ title: Circa Infinity
 developer: Kenny Sun
 publisher: Kenny Sun
 platform: Steam
-releaseDate: 2015-09-09
+published: 2015-09-09
 howlongtobeat: 25
 difficulty: --
 trophyGuide: --

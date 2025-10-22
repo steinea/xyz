@@ -7,7 +7,7 @@ title: Among Us
 developer: Innersloth
 publisher: Innersloth
 platform: PS5
-releaseDate: 2018-06-15
+published: 2018-06-15
 howlongtobeat: 19
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/13765-among-us-trophy-guide

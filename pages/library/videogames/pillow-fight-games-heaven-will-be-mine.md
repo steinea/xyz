@@ -6,13 +6,13 @@ title: Heaven Will Be Mine
 developer: Pillow Fight Games
 publisher: Pillow Fight Games
 platform: Steam
-releaseDate: 2018-07-25
+published: 2018-07-25
 howlongtobeat: 7
 difficulty: --
 trophyGuide: --
 durationHours: 5
 trophies: 12/12
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/836450/
 date: 2022-04-08
 ---

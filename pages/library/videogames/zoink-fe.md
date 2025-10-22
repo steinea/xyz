@@ -7,7 +7,7 @@ title: Fe
 developer: Zoink
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2018-02-16
+published: 2018-02-16
 howlongtobeat: 8
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/7126-fe-trophy-guide

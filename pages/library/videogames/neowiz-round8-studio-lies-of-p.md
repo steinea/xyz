@@ -7,7 +7,7 @@ title: Lies of P
 developer: Neowiz, Round8 Studio
 publisher: Neowiz
 platform: Steam
-releaseDate: 2023-09-18
+published: 2023-09-18
 howlongtobeat: 59
 difficulty:
 trophyGuide:

@@ -7,7 +7,7 @@ title: "Fire Emblem Warriors: Three Hopes"
 developer: Omega Force
 publisher: Nintendo
 platform: Switch
-releaseDate: 2022-06-24
+published: 2022-06-24
 howlongtobeat: 135
 difficulty:
 trophyGuide:

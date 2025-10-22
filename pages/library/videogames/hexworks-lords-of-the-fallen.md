@@ -7,7 +7,7 @@ title: Lords of the Fallen
 developer: Hexworks
 publisher: CI Games
 platform: Steam
-releaseDate: 2023-10-13
+published: 2023-10-13
 howlongtobeat: 94
 difficulty:
 trophyGuide:

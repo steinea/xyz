@@ -7,7 +7,7 @@ title: "Divinity: Original Sin"
 developer: Larian Studios
 publisher: Larian Studios
 platform: Steam
-releaseDate: 2014-06-30
+published: 2014-06-30
 howlongtobeat: 108
 difficulty:
 trophyGuide:

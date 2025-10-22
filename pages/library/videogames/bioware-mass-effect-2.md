@@ -6,7 +6,7 @@ title: Mass Effect 2
 developer: BioWare
 publisher: Electronic Arts
 platform: Xbox 360
-releaseDate: 2010-01-26
+published: 2010-01-26
 howlongtobeat: 50
 difficulty: --
 trophyGuide: --

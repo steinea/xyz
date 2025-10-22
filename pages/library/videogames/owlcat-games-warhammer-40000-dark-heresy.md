@@ -7,7 +7,7 @@ title: "Warhammer 40,000: Dark Heresy"
 developer: Owlcat Games
 publisher: Owlcat Games
 platform: Steam
-releaseDate: TBD
+published: TBD
 howlongtobeat:
 difficulty:
 trophyGuide:

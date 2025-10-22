@@ -6,7 +6,7 @@ title: Superliminal
 developer: Pillow Castle Games
 publisher: Pillow Castle Games
 platform: Xbox
-releaseDate: 2019-11-12
+published: 2019-11-12
 howlongtobeat: 10
 difficulty: --
 trophyGuide: --

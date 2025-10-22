@@ -7,7 +7,7 @@ title: Divine Divinity
 developer: Larian Studios
 publisher: cdv Software Entertainment
 platform: Steam
-releaseDate: 2002-09-19
+published: 2002-09-19
 howlongtobeat: 70
 difficulty:
 trophyGuide:

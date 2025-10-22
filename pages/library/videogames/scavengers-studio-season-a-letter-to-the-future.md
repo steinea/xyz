@@ -6,7 +6,7 @@ title: "Season: A Letter to the Future"
 developer: Scavengers Studio
 publisher: Scavengers Studio
 platform: Steam
-releaseDate: 2023-01-31
+published: 2023-01-31
 howlongtobeat: 9
 difficulty: --
 trophyGuide: --

@@ -7,7 +7,7 @@ title: The Witness
 developer: Thekla, Inc.
 publisher: Thekla, Inc.
 platform: PS4
-releaseDate: 2016-01-26
+published: 2016-01-26
 howlongtobeat: 15
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/6249-the-witness-trophy-guide

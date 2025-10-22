@@ -7,7 +7,7 @@ title: Axiom Verge
 developer: Thomas Happ Games
 publisher: Thomas Happ Games
 platform: PS4
-releaseDate: 2015-03-31
+published: 2015-03-31
 howlongtobeat: 17
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/5358-axiom-verge-trophy-guide

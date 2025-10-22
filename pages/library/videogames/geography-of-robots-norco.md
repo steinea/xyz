@@ -6,13 +6,13 @@ title: Norco
 developer: Geography of Robots
 publisher: Raw Fury
 platform: Xbox
-releaseDate: 2022-03-24
+published: 2022-03-24
 howlongtobeat: 8
 difficulty: --
 trophyGuide: --
 durationHours: 7
 trophies: 35/35
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/norco-xbox/achievements/#2209141
 date: 2022-04-15
 ---

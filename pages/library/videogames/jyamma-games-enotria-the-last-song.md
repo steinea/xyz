@@ -7,7 +7,7 @@ title: "Enotria: The Last Song"
 developer: Jyamma Games
 publisher: Jyamma Games
 platform: Steam
-releaseDate: 2024-09-16
+published: 2024-09-16
 howlongtobeat: 25
 difficulty:
 trophyGuide:

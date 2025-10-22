@@ -7,13 +7,13 @@ title: Dark Souls III
 developer: FromSoftware
 publisher: Bandai Namco Entertainment
 platform: PS4
-releaseDate: 2016-03-24
+published: 2016-03-24
 howlongtobeat: 100
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/4281-dark-souls-iii-trophy-guide
 durationHours: 134
 trophies: 43/43
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/4477-dark-souls-iii/barrelofjuice
 date: 2018-05-12
 ---

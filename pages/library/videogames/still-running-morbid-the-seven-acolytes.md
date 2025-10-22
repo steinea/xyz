@@ -7,7 +7,7 @@ title: "Morbid: The Seven Acolytes"
 developer: Still Running
 publisher: Silver Lining Interactive
 platform: Steam
-releaseDate: 2020-12-03
+published: 2020-12-03
 howlongtobeat: 11
 difficulty:
 trophyGuide:

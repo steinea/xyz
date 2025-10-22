@@ -7,7 +7,7 @@ title: Rocket League
 developer: Psyonix
 publisher: Psyonix
 platform: PS4
-releaseDate: 2015-07-07
+published: 2015-07-07
 howlongtobeat: 10
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/3048-rocket-league-trophy-guide

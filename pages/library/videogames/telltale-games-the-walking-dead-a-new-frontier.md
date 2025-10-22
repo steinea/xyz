@@ -6,13 +6,13 @@ title: 'The Walking Dead: A New Frontier'
 developer: Telltale Games
 publisher: Telltale Games
 platform: PS4
-releaseDate: 2016-12-20
+published: 2016-12-20
 howlongtobeat: 8
 difficulty: 1/10
 trophyGuide: https://psnprofiles.com/guide/6197-the-walking-dead-a-new-frontier-trophy-guide
 durationHours: 7
 trophies: 31/31
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/5698-the-walking-dead-a-new-frontier/barrelofjuice
 date: 2022-05-13
 ---

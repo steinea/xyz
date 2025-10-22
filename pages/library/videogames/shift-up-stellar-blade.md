@@ -7,7 +7,7 @@ title: Stellar Blade
 developer: Shift Up
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2024-04-26
+published: 2024-04-26
 howlongtobeat: 55
 difficulty: --
 trophyGuide: --

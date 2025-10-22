@@ -7,7 +7,7 @@ title: Balatro
 developer: LocalThunk
 publisher: Playstack
 platform: PS5
-releaseDate: 2024-02-20
+published: 2024-02-20
 howlongtobeat: 224
 difficulty: 7/10
 trophyGuide: https://platget.com/guides/balatro-trophy-guide/

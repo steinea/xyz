@@ -6,7 +6,7 @@ title: The Rise of the Golden Idol
 developer: Color Gray Games
 publisher: Playstack
 platform: Steam
-releaseDate: 2024
+published: 2024
 howlongtobeat: 13
 difficulty: --
 trophyGuide: --

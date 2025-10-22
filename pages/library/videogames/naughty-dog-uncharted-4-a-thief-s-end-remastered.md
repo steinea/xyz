@@ -7,7 +7,7 @@ title: "Uncharted 4: A Thief’s End Remastered"
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
 platform: PS5
-releaseDate: 2016-05-10
+published: 2016-05-10
 howlongtobeat: 32
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/4401-uncharted-4-a-thiefs-end-trophy-guide

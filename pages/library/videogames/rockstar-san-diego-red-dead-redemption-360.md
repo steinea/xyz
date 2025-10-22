@@ -6,7 +6,7 @@ title: Red Dead Redemption
 developer: Rockstar San Diego
 publisher: 	Rockstar Games
 platform: Xbox 360
-releaseDate: 2010-05-18
+published: 2010-05-18
 howlongtobeat: 46
 difficulty: --
 trophyGuide: --

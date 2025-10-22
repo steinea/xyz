@@ -7,7 +7,7 @@ title: Nier
 developer: Cavia
 publisher: Square Enix
 platform: PS3
-releaseDate: 2010-04-22
+published: 2010-04-22
 howlongtobeat: 80
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/7393-nier-trophy-guide

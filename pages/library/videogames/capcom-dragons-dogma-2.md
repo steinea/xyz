@@ -7,7 +7,7 @@ title: Dragon’s Dogma 2
 developer: Capcom
 publisher: Capcom
 platform: PS5
-releaseDate: 2024-03-22
+published: 2024-03-22
 howlongtobeat: 93
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/20020-dragons-dogma-2-trophy-guide

@@ -7,7 +7,7 @@ title: Diablo III
 developer: Blizzard Entertainment
 publisher: Blizzard Entertainment
 platform: PS4
-releaseDate: 2012-05-15
+published: 2012-05-15
 howlongtobeat: 167
 difficulty:
 trophyGuide:

@@ -7,7 +7,7 @@ title: Diablo II
 developer: Blizzard North
 publisher: Blizzard Entertainment
 platform: PS5
-releaseDate: 2000-06-28
+published: 2000-06-28
 howlongtobeat: 48
 difficulty:
 trophyGuide:

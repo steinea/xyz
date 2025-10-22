@@ -6,13 +6,13 @@ title: Descenders
 developer: RageSquid
 publisher: No More Robots
 platform: Steam
-releaseDate: 2019-05-07
+published: 2019-05-07
 howlongtobeat: 66
 difficulty: --
 trophyGuide: --
 durationHours: 78
 trophies: 42/42
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/681280/
 date: 2022-01-04
 ---

@@ -6,13 +6,13 @@ title: Disc Room
 developer: Terri, Dose, Kitty, and JW
 publisher: Devolver Digital
 platform: Xbox
-releaseDate: 2020-10-22
+published: 2020-10-22
 howlongtobeat: 9
 difficulty: --
 trophyGuide: --
 durationHours: 11
 trophies: 35/35
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/disc-room-xbox/achievements/#2209141
 date: 2023-08-19
 ---

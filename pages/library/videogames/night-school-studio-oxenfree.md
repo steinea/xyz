@@ -6,13 +6,13 @@ title: Oxenfree
 developer: Night School Studio
 publisher: Night School Studio
 platform: Steam
-releaseDate: 2016-01-15
+published: 2016-01-15
 howlongtobeat: 13
 difficulty: --
 trophyGuide: --
 durationHours: 11
 trophies: 13/13
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/388880/
 date: 2021-06-01
 ---

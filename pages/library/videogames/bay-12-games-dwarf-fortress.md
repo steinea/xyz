@@ -6,7 +6,7 @@ title: Dwarf Fortress
 developer: Bay 12 Games
 publisher: Bay 12 Games
 platform: Steam
-releaseDate: 2022-12-06
+published: 2022-12-06
 howlongtobeat: 200
 difficulty: --
 trophyGuide: --

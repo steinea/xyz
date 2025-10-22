@@ -6,13 +6,13 @@ title: Grindstone
 developer: Capybara Games
 publisher: Capybara Games
 platform: Steam
-releaseDate: 2019-09-19
+published: 2019-09-19
 howlongtobeat: 42
 difficulty: --
 trophyGuide: --
 durationHours: 31
 trophies: 49/49
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1818690/achievements/
 date: 2023-08-23
 ---

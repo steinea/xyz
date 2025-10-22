@@ -6,7 +6,7 @@ title: "FTL: Faster Than Light"
 developer: Subset Games
 publisher: Subset Games
 platform: Steam
-releaseDate: 2012-09-14
+published: 2012-09-14
 howlongtobeat: 107
 difficulty: --
 trophyGuide: --

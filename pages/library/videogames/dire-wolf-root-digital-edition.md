@@ -6,7 +6,7 @@ title: "Root: Digital Edition"
 developer: Dire Wolf
 publisher: Dire Wolf
 platform: Steam
-releaseDate: 2020-09-24
+published: 2020-09-24
 howlongtobeat: 31
 difficulty: --
 trophyGuide: --

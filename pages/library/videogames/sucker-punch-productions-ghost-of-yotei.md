@@ -7,7 +7,7 @@ title: Ghost of Yotei
 developer: Sucker Punch Productions
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2025-10-02
+published: 2025-10-02
 howlongtobeat:
 difficulty:
 trophyGuide:

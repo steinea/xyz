@@ -7,7 +7,7 @@ title: The Callisto Protocol
 developer: Striking Distance Studios
 publisher: Krafton
 platform: PS5
-releaseDate: 2022-12-02
+published: 2022-12-02
 howlongtobeat: 16
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/15868-the-callisto-protocol-trophy-guide

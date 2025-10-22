@@ -7,7 +7,7 @@ title: "The Dark Pictures Anthology: The Devil in Me"
 developer: Supermassive Games
 publisher: Bandai Namco Entertainment
 platform: PS5
-releaseDate: 2022-11-18
+published: 2022-11-18
 howlongtobeat: 18
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/15797-the-dark-pictures-anthology-the-devil-in-me-trophy-guide

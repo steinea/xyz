@@ -6,7 +6,7 @@ title: Forza Motorsport 2
 developer: Turn 10 Studios
 publisher: Microsoft Game Studios
 platform: Xbox 360
-releaseDate: 2007-05-29
+published: 2007-05-29
 howlongtobeat: 75
 difficulty: --
 trophyGuide: --

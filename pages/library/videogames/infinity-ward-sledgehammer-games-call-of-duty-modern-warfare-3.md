@@ -6,7 +6,7 @@ title: "Call of Duty: Modern Warfare 3"
 developer: Infinity Ward and Sledgehammer Games
 publisher: Activision
 platform: Xbox 360
-releaseDate: 2011-11-08
+published: 2011-11-08
 howlongtobeat: 38
 difficulty: --
 trophyGuide: --

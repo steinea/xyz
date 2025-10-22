@@ -7,7 +7,7 @@ title: Dead Space 2
 developer: Visceral Games
 publisher: Electronic Arts
 platform: PS3
-releaseDate: 2011-01-25
+published: 2011-01-25
 howlongtobeat: 17
 difficulty: 9/20
 trophyGuide: https://psnprofiles.com/guide/5059-dead-space-2-trophy-guide

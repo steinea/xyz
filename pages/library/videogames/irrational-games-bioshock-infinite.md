@@ -6,7 +6,7 @@ title: BioShock Infinite
 developer: Irrational Games
 publisher: 2K
 platform: PS3
-releaseDate: 2013-03-26
+published: 2013-03-26
 howlongtobeat:
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/339-bioshock-infinite-trophy-guide

@@ -6,7 +6,7 @@ title: Tux and Fanny
 developer: Ghost Time Games
 publisher: Means Interactive
 platform: Steam
-releaseDate: 2022-09-08
+published: 2022-09-08
 howlongtobeat: 17
 difficulty: --
 trophyGuide: --

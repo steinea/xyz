@@ -6,13 +6,13 @@ title: Umurangi Generation
 developer: Origame Digital
 publisher: Origame Digital and Playism
 platform: Steam
-releaseDate: 2020-05-19
+published: 2020-05-19
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --
 durationHours: 5
 trophies: 23/23
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1223500/
 date: 2021-03-04
 ---

@@ -6,7 +6,7 @@ title: "Halo 3: ODST"
 developer: Bungie
 publisher: Microsoft Game Studios
 platform: Xbox 360
-releaseDate: 2009-09-22
+published: 2009-09-22
 howlongtobeat: 27
 difficulty: --
 trophyGuide: --

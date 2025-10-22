@@ -6,7 +6,7 @@ title: Jusant
 developer: Don't Nod
 publisher: Don't Nod
 platform: Xbox
-releaseDate: 2023-10-31
+published: 2023-10-31
 howlongtobeat: 8
 difficulty: 2/10
 trophyGuide: https://www.powerpyx.com/jusant-trophy-guide-roadmap/

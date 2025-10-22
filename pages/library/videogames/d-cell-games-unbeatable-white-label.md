@@ -6,13 +6,13 @@ title: 'Unbeatable: White Label'
 developer: D-CELL GAMES
 publisher: D-CELL GAMES
 platform: Steam
-releaseDate: 2021-05-07
+published: 2021-05-07
 howlongtobeat: 1
 difficulty: --
 trophyGuide: --
 durationHours: 1
 trophies: 3/3
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1290490/
 date: 2021-06-18
 ---

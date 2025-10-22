@@ -7,7 +7,7 @@ title: "Yakuza: Like a Dragon"
 developer: Ryu Ga Gotoku Studio
 publisher: Sega
 platform: PS5
-releaseDate: 2020-01-16
+published: 2020-01-16
 howlongtobeat: 103
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/13364-yakuza-like-a-dragon-trophy-guide

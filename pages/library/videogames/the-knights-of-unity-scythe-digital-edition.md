@@ -6,7 +6,7 @@ title: "Scythe: Digital Edition"
 developer: The Knights of Unity
 publisher: The Knights of Unity
 platform: Steam
-releaseDate: 2018-08-05
+published: 2018-08-05
 howlongtobeat: 67
 difficulty: --
 trophyGuide: --

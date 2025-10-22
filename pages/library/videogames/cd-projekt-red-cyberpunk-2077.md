@@ -6,13 +6,13 @@ title: Cyberpunk 2077
 developer: CD Projekt Red
 publisher: CD Projekt
 platform: Stadia
-releaseDate: 2020-12-10
+published: 2020-12-10
 howlongtobeat: 105
 difficulty: --
 trophyGuide: --
 durationHours: 74
 trophies: 44/44
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/cyberpunk-2077-stadia/achievements/#1889706
 date: 2021-01-27
 ---

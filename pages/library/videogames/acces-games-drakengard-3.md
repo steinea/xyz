@@ -7,7 +7,7 @@ title: Drakengard 3
 developer: Access Games
 publisher: Square Enix
 platform: PS3
-releaseDate: 2013-12-19
+published: 2013-12-19
 howlongtobeat: 41
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/2428-drakengard-3-trophy-guide

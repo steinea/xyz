@@ -6,7 +6,7 @@ title: The Elder Scrolls Online
 developer: ZeniMax Online Studios
 publisher: Bethesda Softworks
 platform: PS4
-releaseDate: 2014-04-04
+published: 2014-04-04
 howlongtobeat: 100
 difficulty: 9/10
 trophyGuide: https://psnprofiles.com/guide/16974-the-elder-scrolls-online-trophy-guide

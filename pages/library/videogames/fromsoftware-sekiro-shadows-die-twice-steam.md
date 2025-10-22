@@ -6,13 +6,13 @@ title: 'Sekiro: Shadows Die Twice'
 developer: FromSoftware
 publisher: Activision
 platform: Steam
-releaseDate: 2019-03-22
+published: 2019-03-22
 howlongtobeat: 70
 difficulty: --
 trophyGuide: --
 durationHours: 26
 trophies: 34/34
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/814380/
 date: 2022-05-28
 ---

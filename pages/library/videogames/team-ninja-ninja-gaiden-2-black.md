@@ -7,7 +7,7 @@ title: Ninja Gaiden 2 Black
 developer: Team Ninja
 publisher: Koei Tecmo
 platform: PS5
-releaseDate: 2025-01-23
+published: 2025-01-23
 howlongtobeat: 24
 difficulty:
 trophyGuide:

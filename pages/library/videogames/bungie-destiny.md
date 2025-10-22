@@ -6,7 +6,7 @@ title: Destiny
 developer: Bungie
 publisher: Activision
 platform: PS4
-releaseDate: 2014-09-09
+published: 2014-09-09
 howlongtobeat: 550
 difficulty: --
 trophyGuide: --

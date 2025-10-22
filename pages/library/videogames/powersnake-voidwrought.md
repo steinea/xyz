@@ -7,7 +7,7 @@ title: Voidwrought
 developer: Powersnake
 publisher: Kwalee
 platform: Steam
-releaseDate: 2024-10-24
+published: 2024-10-24
 howlongtobeat: 27
 difficulty:
 trophyGuide:

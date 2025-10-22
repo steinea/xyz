@@ -7,13 +7,13 @@ title: Hollow Knight
 developer: Team Cherry
 publisher: Team Cherry
 platform: Steam
-releaseDate: 2017-02-24
+published: 2017-02-24
 howlongtobeat: 64
 difficulty: --
 trophyGuide: --
 durationHours: 69
 trophies: 63/63
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/367520/
 date: 2020-06-23
 ---

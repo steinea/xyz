@@ -7,7 +7,7 @@ title: Dark Devotion
 developer: Hibernian Workshop
 publisher: The Arcade Crew
 platform: Steam
-releaseDate: 2019-04-25
+published: 2019-04-25
 howlongtobeat: 27
 difficulty:
 trophyGuide:

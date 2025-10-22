@@ -7,7 +7,7 @@ title: Biomass
 developer: Final Scene dev
 publisher: Final Scene dev
 platform: Steam
-releaseDate: 2020-10-12
+published: 2020-10-12
 howlongtobeat: 11
 difficulty:
 trophyGuide:

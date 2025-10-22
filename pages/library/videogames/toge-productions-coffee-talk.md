@@ -7,7 +7,7 @@ title: Coffee Talk
 developer: Toge Productions
 publisher: Toge Productions
 platform: PS5
-releaseDate: 2020-01-29
+published: 2020-01-29
 howlongtobeat: 8
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/9700-coffee-talk-trophy-guide

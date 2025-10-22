@@ -6,7 +6,7 @@ title: Bastion
 developer: Supergiant Games
 publisher: Warner Bros. Interactive Entertainment
 platform: Xbox 360
-releaseDate: 2011-07-20
+published: 2011-07-20
 howlongtobeat: 21
 difficulty: --
 trophyGuide: --

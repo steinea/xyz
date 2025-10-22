@@ -7,7 +7,7 @@ title: "Bloodstained: Curse of the Moon 2"
 developer: Inti Creates
 publisher: Inti Creates
 platform: PS4
-releaseDate: 2020-07-10
+published: 2020-07-10
 howlongtobeat: 15
 difficulty: 3/10
 trophyGuide: https://www.playstationtrophies.org/game/bloodstained-curse-of-the-moon-2/guide/

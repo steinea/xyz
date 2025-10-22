@@ -7,7 +7,7 @@ title: Rise of the Ronin
 developer: Team Ninja
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2024-03-22
+published: 2024-03-22
 howlongtobeat: 71
 difficulty: --
 trophyGuide: --

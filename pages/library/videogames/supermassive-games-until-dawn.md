@@ -7,7 +7,7 @@ title: Until Dawn
 developer: Supermassive Games
 publisher: Sony Computer Entertainment
 platform: PS4
-releaseDate: 2015-08-25
+published: 2015-08-25
 howlongtobeat: 19
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/3260-until-dawn-trophy-guide

@@ -7,7 +7,7 @@ title: Dead Space Remake
 developer: Motive Studio
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2023-01-27
+published: 2023-01-27
 howlongtobeat: 30
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/16087-dead-space-trophy-guide

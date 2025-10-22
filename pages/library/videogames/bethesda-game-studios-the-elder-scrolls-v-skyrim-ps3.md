@@ -6,7 +6,7 @@ title: "The Elder Scrolls V: Skyrim"
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 platform: PS3
-releaseDate: 2011-11-11
+published: 2011-11-11
 howlongtobeat: 234
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/1277-the-elder-scrolls-v-skyrim-trophy-guide

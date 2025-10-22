@@ -6,13 +6,13 @@ title: The Stanley Parable
 developer: Galactic Cafe
 publisher: Galactic Cafe
 platform: Steam
-releaseDate: 2013-10-17
+published: 2013-10-17
 howlongtobeat: 9
 difficulty: --
 trophyGuide: --
 durationHours: 28
 trophies: 10/10
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/221910/
 date: 2022-01-03
 ---

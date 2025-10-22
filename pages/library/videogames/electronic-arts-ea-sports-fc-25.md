@@ -6,7 +6,7 @@ title: EA Sports FC 25
 developer: EA Sports
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2024-09-27
+published: 2024-09-27
 howlongtobeat: 44
 difficulty: 5/10
 trophyGuide: https://www.powerpyx.com/ea-sports-fc25-trophy-guide-roadmap/

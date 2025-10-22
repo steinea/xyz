@@ -7,7 +7,7 @@ title: "13 Sentinels: Aegis Rim"
 developer: Vanillaware
 publisher: Atlus
 platform: PS4
-releaseDate: 2020-09-22
+published: 2020-09-22
 howlongtobeat: 38
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/15854-13-sentinels-aegis-rim-trophy-guide

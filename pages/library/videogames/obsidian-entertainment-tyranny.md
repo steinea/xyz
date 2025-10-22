@@ -7,7 +7,7 @@ title: Tyranny
 developer: Obsidian Entertainment
 publisher: Paradox Interactive
 platform: GOG Galaxy
-releaseDate: 2016-11-10
+published: 2016-11-10
 howlongtobeat: 56
 difficulty:
 trophyGuide:

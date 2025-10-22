@@ -7,7 +7,7 @@ title: "The Legend of Zelda: Tears of the Kingdom"
 developer: Nintendo
 publisher: Nintendo
 platform: Switch
-releaseDate: 2023-05-12
+published: 2023-05-12
 howlongtobeat: 248
 difficulty:
 trophyGuide:

@@ -7,7 +7,7 @@ title: Nier Replicant ver.1.22474487139…
 developer: Toylogic
 publisher: Square Enix
 platform: PS4
-releaseDate: 2021-04-22
+published: 2021-04-22
 howlongtobeat: 69
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/12106-nier-replicant-ver122474487139-trophy-guide

@@ -7,13 +7,13 @@ title: Ashen
 developer: A44 Games
 publisher: Annapurna Interactive
 platform: Steam
-releaseDate: 2018-12-07
+published: 2018-12-07
 howlongtobeat: 26
 difficulty: --
 trophyGuide: --
 durationHours: 54
 trophies: 34/34
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/649950/
 date: 2021-08-11
 ---

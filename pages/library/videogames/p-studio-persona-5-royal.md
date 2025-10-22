@@ -7,7 +7,7 @@ title: Persona 5 Royal
 developer: P-Studio
 publisher: Sega
 platform: PS5
-releaseDate: 2019-10-31
+published: 2019-10-31
 howlongtobeat:
 difficulty: 142
 trophyGuide:

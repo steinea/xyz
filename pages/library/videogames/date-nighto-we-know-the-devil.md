@@ -6,13 +6,13 @@ title: We Know the Devil
 developer: Date Nighto
 publisher: Date Nighto
 platform: Steam
-releaseDate: 2015-09-12
+published: 2015-09-12
 howlongtobeat: 2
 difficulty: --
 trophyGuide: --
 durationHours: 2
 trophies: 5/5
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/435300/
 date: 2022-04-06
 ---

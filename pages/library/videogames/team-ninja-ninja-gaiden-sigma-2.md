@@ -7,7 +7,7 @@ title: Ninja Gaiden Sigma 2
 developer: Team Ninja
 publisher: Koei Tecmo
 platform: PS3
-releaseDate: 2009-09-29
+published: 2009-09-29
 howlongtobeat: 110
 difficulty: 10/10
 trophyGuide: https://psnprofiles.com/guide/1004-ninja-gaiden-%CF%832-trophy-guide

@@ -7,7 +7,7 @@ title: The Last Faith
 developer: Kumi Souls Games
 publisher: Playstack
 platform: Steam
-releaseDate: 2023-11-15
+published: 2023-11-15
 howlongtobeat: 25
 difficulty:
 trophyGuide:

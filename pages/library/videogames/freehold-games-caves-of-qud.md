@@ -6,7 +6,7 @@ title: Caves of Qud
 developer: Freehold Games
 publisher: Kitfox Games
 platform: Steam
-releaseDate: 2015-07-15
+published: 2015-07-15
 howlongtobeat: 56
 difficulty: --
 trophyGuide: --

@@ -6,13 +6,13 @@ title: Inside
 developer: Playdead
 publisher: Playdead
 platform: Steam
-releaseDate: 2016-06-29
+published: 2016-06-29
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --
 durationHours: 3
 trophies: 14/14
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/304430/
 date: 2022-09-15
 ---

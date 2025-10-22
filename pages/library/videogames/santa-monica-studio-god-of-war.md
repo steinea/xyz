@@ -7,7 +7,7 @@ title: God of War
 developer: Santa Monica Studio
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2018-04-20
+published: 2018-04-20
 howlongtobeat: 51
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/7347-god-of-war-trophy-guide

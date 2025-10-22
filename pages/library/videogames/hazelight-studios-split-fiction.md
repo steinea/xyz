@@ -7,7 +7,7 @@ title: Split Fiction
 developer: Hazelight Studios
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2025-03-06
+published: 2025-03-06
 howlongtobeat: 16
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/21784-split-fiction-trophy-guide

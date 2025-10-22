@@ -6,7 +6,7 @@ title: 'The Elder Scrolls V: Skyrim'
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 platform: 360
-releaseDate: 2011-11-11
+published: 2011-11-11
 howlongtobeat: 234
 difficulty: --
 trophyGuide: --

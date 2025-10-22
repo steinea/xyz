@@ -7,7 +7,7 @@ title: GreedFall
 developer: Spiders
 publisher: Focus Home Interactive
 platform: PS4
-releaseDate: 2019-09-10
+published: 2019-09-10
 howlongtobeat: 60
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/9923-greedfall-trophy-guide

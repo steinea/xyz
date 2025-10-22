@@ -7,7 +7,7 @@ title: The Evil Within
 developer: Tango Gameworks
 publisher: Bethesda Softworks
 platform: PS4
-releaseDate: 2014-10-14
+published: 2014-10-14
 howlongtobeat: 41
 difficulty: 9/10
 trophyGuide: https://psnprofiles.com/guide/1785-the-evil-within-trophy-guide

@@ -7,7 +7,7 @@ title: Silent Hill 2 Remake
 developer: Bloober Team
 publisher: Konami Digital Entertainment
 platform: PS5
-releaseDate: 2024-10-08
+published: 2024-10-08
 howlongtobeat: 31
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/20635-silent-hill-2-trophy-guide

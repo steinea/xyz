@@ -7,7 +7,7 @@ title: "Death Stranding 2: On the Beach"
 developer: Kojima Productions
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2025-06-26
+published: 2025-06-26
 howlongtobeat:
 difficulty:
 trophyGuide:

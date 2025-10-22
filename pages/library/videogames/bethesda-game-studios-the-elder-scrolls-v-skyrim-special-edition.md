@@ -6,13 +6,13 @@ title: 'The Elder Scrolls V: Skyrim Special Edition'
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 platform: PS4
-releaseDate: 2011-11-11
+published: 2011-11-11
 howlongtobeat: 206
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/1277-the-elder-scrolls-v-skyrim-trophy-guide
 durationHours: 118
 trophies: 76/76
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/5507-the-elder-scrolls-v-skyrim/barrelofjuice
 date: 2017-01-06
 ---

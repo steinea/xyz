@@ -7,7 +7,7 @@ title: Tunic
 developer: Isometricorp Games
 publisher: Finji
 platform: Xbox
-releaseDate: 2022-03-16
+published: 2022-03-16
 howlongtobeat: 21
 difficulty: --
 trophyGuide: --

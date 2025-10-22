@@ -7,7 +7,7 @@ title: Death of a Wish
 developer: melessthanthree
 publisher: Syndicate Atomic
 platform: Steam
-releaseDate: 2024-03-11
+published: 2024-03-11
 howlongtobeat: 12
 difficulty:
 trophyGuide:

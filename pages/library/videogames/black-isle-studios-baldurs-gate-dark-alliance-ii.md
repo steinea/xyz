@@ -7,7 +7,7 @@ title: "Baldur's Gate: Dark Alliance II"
 developer: Black Isle Studios
 publisher: Interplay Entertainment
 platform:
-releaseDate: 2004-01-20
+published: 2004-01-20
 howlongtobeat: 56
 difficulty:
 trophyGuide:

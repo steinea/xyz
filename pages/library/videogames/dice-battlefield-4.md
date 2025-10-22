@@ -6,7 +6,7 @@ title: Battlefield 4
 developer: DICE
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2013-10-29
+published: 2013-10-29
 howlongtobeat: 18
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/1462-battlefield-4-trophy-guide

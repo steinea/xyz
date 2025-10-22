@@ -6,7 +6,7 @@ title: The Jackbox Party Pack 9
 developer: Jackbox Games
 publisher: Jackbox Games
 platform: PS5
-releaseDate: 2022-10-20
+published: 2022-10-20
 howlongtobeat: 3
 difficulty: --
 trophyGuide: --

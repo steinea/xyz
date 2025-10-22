@@ -7,7 +7,7 @@ title: "Dragon’s Dogma: Dark Arisen"
 developer: Capcom
 publisher: Capcom
 platform: PS4
-releaseDate: 2013-04-23
+published: 2013-04-23
 howlongtobeat: 113
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/591-dragons-dogma-dark-arisen-trophy-guide

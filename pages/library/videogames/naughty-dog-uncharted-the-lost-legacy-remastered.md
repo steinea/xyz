@@ -7,7 +7,7 @@ title: "Uncharted: The Lost Legacy Remastered"
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2017-08-22
+published: 2017-08-22
 howlongtobeat: 18
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/6375-uncharted-the-lost-legacy-trophy-guide

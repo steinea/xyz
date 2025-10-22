@@ -7,7 +7,7 @@ title: "Wo Long: Fallen Dynasty"
 developer: Team Ninja
 publisher: Koei Tecmo
 platform: PS5
-releaseDate: 2023-03-03
+published: 2023-03-03
 howlongtobeat: 46
 difficulty: 6/10
 trophyGuide: https://www.powerpyx.com/wo-long-fallen-dynasty-trophy-guide-roadmap/

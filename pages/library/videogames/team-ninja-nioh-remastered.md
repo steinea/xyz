@@ -7,7 +7,7 @@ title: Nioh Remastered
 developer: Team Ninja
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2017-02-07
+published: 2017-02-07
 howlongtobeat: 143
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/5830-nioh-trophy-guide

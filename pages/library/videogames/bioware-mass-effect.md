@@ -6,7 +6,7 @@ title: Mass Effect
 developer: BioWare
 publisher: Microsoft Game Studios
 platform: Xbox 360
-releaseDate: 2007-11-20
+published: 2007-11-20
 howlongtobeat: 43
 difficulty: --
 trophyGuide: --

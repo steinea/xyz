@@ -6,13 +6,13 @@ title: Never Alone
 developer: Upper One Games
 publisher: E-Line Media
 platform: PS4
-releaseDate: 2014-11-18
+published: 2014-11-18
 howlongtobeat: 4
 difficulty:  2/10
 trophyGuide: https://psnprofiles.com/guide/2209-never-alone-trophy-guide
 durationHours: 7
 trophies: 19/19
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/3154-never-alone/barrelofjuice
 date: 2015-07-29
 ---

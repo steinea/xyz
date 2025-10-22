@@ -7,7 +7,7 @@ title: "Cronos: The New Dawn"
 developer: Bloober Team
 publisher: Bloober Team
 platform: PS5
-releaseDate: 2025-09-05
+published: 2025-09-05
 howlongtobeat:
 difficulty:
 trophyGuide:

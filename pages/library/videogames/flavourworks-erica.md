@@ -7,7 +7,7 @@ title: Erica
 developer: Flavourworks
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2019-08-19
+published: 2019-08-19
 howlongtobeat: 9
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/9027-erica-trophy-guide

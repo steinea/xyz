@@ -7,7 +7,7 @@ title: "The Dark Pictures Anthology: Man of Medan"
 developer: Supermassive Games
 publisher: Bandai Namco Entertainment
 platform: PS5
-releaseDate: 2019-08-30
+published: 2019-08-30
 howlongtobeat: 17
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/9192-the-dark-pictures-anthology-man-of-medan-trophy-guide

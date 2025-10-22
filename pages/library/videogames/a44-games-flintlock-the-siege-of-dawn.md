@@ -7,7 +7,7 @@ title: "Flintlock: The Siege of Dawn"
 developer: A44 Games
 publisher: Kepler Interactive
 platform: Steam
-releaseDate: 2024-07-18
+published: 2024-07-18
 howlongtobeat: 21
 difficulty:
 trophyGuide:

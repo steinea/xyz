@@ -7,7 +7,7 @@ title: "Like a Dragon: Ishin!"
 developer: Ryu Ga Gotoku Studio
 publisher: Sega
 platform: PS5
-releaseDate: 2023-02-21
+published: 2023-02-21
 howlongtobeat: 122
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/16230-like-a-dragon-ishin-trophy-guide

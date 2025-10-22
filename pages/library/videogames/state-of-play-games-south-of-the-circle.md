@@ -6,7 +6,7 @@ title: South of the Circle
 developer: State of Play Games
 publisher: 11 Bit Studios
 platform: Steam
-releaseDate: 2020-10-30
+published: 2020-10-30
 howlongtobeat: 4
 difficulty: --
 trophyGuide: --

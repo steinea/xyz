@@ -7,7 +7,7 @@ title: Neverwinter Nights 2
 developer: Obsidian Entertainment
 publisher: Atari Interactive
 platform: GOG Galaxy
-releaseDate: 2006-10-31
+published: 2006-10-31
 howlongtobeat: 113
 difficulty:
 trophyGuide:

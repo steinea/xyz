@@ -7,7 +7,7 @@ title: Steelrising
 developer: Spiders
 publisher: Nacon
 platform: Steam
-releaseDate: 2022-09-08
+published: 2022-09-08
 howlongtobeat: 30
 difficulty:
 trophyGuide:

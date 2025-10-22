@@ -6,7 +6,7 @@ title: Army of Two
 developer: EA Montreal
 publisher: Electronic Arts
 platform: Xbox 360
-releaseDate: 2008-03-04
+published: 2008-03-04
 howlongtobeat: 11
 difficulty: --
 trophyGuide: --

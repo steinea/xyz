@@ -7,7 +7,7 @@ title: Icewind Dale
 developer: Black Isle Studios
 publisher: Interplay Entertainment
 platform: GOG Galaxy
-releaseDate: 2000-06-29
+published: 2000-06-29
 howlongtobeat: 52
 difficulty:
 trophyGuide:

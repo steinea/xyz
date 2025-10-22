@@ -6,7 +6,7 @@ title: Splitgate
 developer: 1047 Games
 publisher: 1047 Games
 platform: Steam
-releaseDate: 2019-05-24
+published: 2019-05-24
 howlongtobeat: 145
 difficulty: --
 trophyGuide: --

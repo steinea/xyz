@@ -7,7 +7,7 @@ title: Saros
 developer: Housemarque
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: TBD
+published: TBD
 howlongtobeat:
 difficulty:
 trophyGuide:

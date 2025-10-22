@@ -7,7 +7,7 @@ title: Subnautica
 developer: Unknown Worlds Entertainment
 publisher: Unknown Worlds Entertainment
 platform: PS5
-releaseDate: 2021-05-14
+published: 2021-05-14
 howlongtobeat: 40
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/10701-subnautica-trophy-guide

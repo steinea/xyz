@@ -7,7 +7,7 @@ title: The Casting of Frank Stone
 developer: Supermassive Games
 publisher: Behaviour Interactive
 platform: PS5
-releaseDate: 2024-09-03
+published: 2024-09-03
 howlongtobeat: 28
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/20477-the-casting-of-frank-stone-trophy-guide

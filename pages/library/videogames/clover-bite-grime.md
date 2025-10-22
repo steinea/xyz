@@ -7,7 +7,7 @@ title: Grime
 developer: Clover Bite
 publisher: Akupara Games
 platform: Steam
-releaseDate: 2021-08-02
+published: 2021-08-02
 howlongtobeat: 27
 difficulty: --
 trophyGuide: --

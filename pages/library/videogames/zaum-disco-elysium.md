@@ -6,7 +6,7 @@ title: Disco Elysium
 developer: 	ZA/UM
 publisher: 	ZA/UM
 platform: Steam
-releaseDate: 2019-10-15
+published: 2019-10-15
 howlongtobeat: 47
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/12298-disco-elysium-trophy-guide

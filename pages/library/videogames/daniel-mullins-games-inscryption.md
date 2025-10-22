@@ -7,7 +7,7 @@ title: Inscryption
 developer: Daniel Mullins Games
 publisher: Devolver Digital
 platform: Steam
-releaseDate: 2021-10-19
+published: 2021-10-19
 howlongtobeat: 30
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/17026-inscryption-trophy-guide

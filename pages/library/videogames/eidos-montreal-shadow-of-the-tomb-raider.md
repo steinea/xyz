@@ -7,7 +7,7 @@ title: Shadow of the Tombraider
 developer: Eidos-Montréal
 publisher: Square Enix
 platform: PS4
-releaseDate: 2018-09-14
+published: 2018-09-14
 howlongtobeat: 30
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/7838-shadow-of-the-tomb-raider-trophy-guide

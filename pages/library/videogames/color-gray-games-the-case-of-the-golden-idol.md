@@ -6,7 +6,7 @@ title: The Case of the Golden Idol
 developer: Color Gray Games
 publisher: Playstack
 platform: Steam
-releaseDate: 2022-10-13
+published: 2022-10-13
 howlongtobeat: 8
 difficulty: --
 trophyGuide: --

@@ -7,13 +7,13 @@ title: Demon’s Souls
 developer: FromSoftware
 publisher: Sony Computer Entertainment
 platform: PS3
-releaseDate: 2009-02-05
+published: 2009-02-05
 howlongtobeat: 73
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/989-demons-souls-trophy-guide
 durationHours:
 trophies: 38/38
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/104-demons-souls/barrelofjuice
 date: 2019-04-01
 ---

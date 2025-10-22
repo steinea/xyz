@@ -7,7 +7,7 @@ title: Mass Effect Legendary Edition
 developer: BioWare
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2021-05-14
+published: 2021-05-14
 howlongtobeat: 109
 difficulty:
 trophyGuide:

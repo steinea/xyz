@@ -7,7 +7,7 @@ title: Salt and Sacrifice
 developer: Ska Studios
 publisher: Ska Studios
 platform: Steam
-releaseDate: 2022-05-10
+published: 2022-05-10
 howlongtobeat: 30
 difficulty:
 trophyGuide:

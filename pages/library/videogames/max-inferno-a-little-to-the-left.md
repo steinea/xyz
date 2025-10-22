@@ -6,7 +6,7 @@ title: A Little to the Left
 developer: Max Inferno
 publisher: 	Secret Mode
 platform: Steam
-releaseDate: 2022-11-08
+published: 2022-11-08
 howlongtobeat: 8
 difficulty: --
 trophyGuide: --

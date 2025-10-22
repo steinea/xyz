@@ -7,7 +7,7 @@ title: Red Dead Redemption
 developer: Rockstar San Diego
 publisher: Rockstar Games
 platform: PS4
-releaseDate: 2023-08-17
+published: 2023-08-17
 howlongtobeat: 61
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/17491-red-dead-redemption-trophy-guide

@@ -6,13 +6,13 @@ title: Unpacking
 developer: Witch Beam
 publisher: Humble Bundle
 platform: Xbox
-releaseDate: 2021-11-02
+published: 2021-11-02
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --
 durationHours: 3
 trophies: 25/25
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/unpacking-xbox/achievements/#2209141
 date: 2021-11-28
 ---

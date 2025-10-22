@@ -7,7 +7,7 @@ title: Enter the Gungeon
 developer: Dodge Roll
 publisher: Devolver Digital
 platform: PS4
-releaseDate: 2016-04-05
+published: 2016-04-05
 howlongtobeat: 70
 difficulty: 7/10
 trophyGuide: https://psnprofiles.com/guide/4287-enter-the-gungeon-trophy-guide

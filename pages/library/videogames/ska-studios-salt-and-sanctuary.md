@@ -7,7 +7,7 @@ title: Salt and Sanctuary
 developer: Ska Studios
 publisher: Ska Studios
 platform: Steam
-releaseDate: 2016-03-15
+published: 2016-03-15
 howlongtobeat: 32
 difficulty:
 trophyGuide:

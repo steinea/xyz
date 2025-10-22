@@ -7,7 +7,7 @@ title: "Persona 5: Dancing in Starlight"
 developer: P-Studio
 publisher: Atlus
 platform: PS4
-releaseDate: 2018-12-04
+published: 2018-12-04
 howlongtobeat: 14
 difficulty:
 trophyGuide:

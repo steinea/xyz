@@ -6,7 +6,7 @@ title: "Call of Duty 4: Modern Warfare"
 developer: Infinity Ward
 publisher: Activision
 platform: Xbox 360
-releaseDate: 2007-11-05
+published: 2007-11-05
 howlongtobeat: 17
 difficulty: --
 trophyGuide: --

@@ -7,7 +7,7 @@ title: Titanfall 2
 developer: Respawn Entertainment
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2016-10-26
+published: 2016-10-26
 howlongtobeat: 17
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/5263-titanfall-2-trophy-guide

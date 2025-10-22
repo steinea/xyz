@@ -7,7 +7,7 @@ title: Alan Wake II
 developer: Remedy Entertainment
 publisher: Epic Games Publishing
 platform: PS5
-releaseDate: 2023-10-27
+published: 2023-10-27
 howlongtobeat: 32
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/17938-alan-wake-ii-trophy-guide

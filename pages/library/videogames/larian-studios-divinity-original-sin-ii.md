@@ -7,7 +7,7 @@ title: "Divinity: Original Sin II"
 developer: Larian Studios
 publisher: Larian Studios
 platform: Steam
-releaseDate: 2017-09-14
+published: 2017-09-14
 howlongtobeat: 156
 difficulty:
 trophyGuide:

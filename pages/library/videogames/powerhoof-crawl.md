@@ -6,7 +6,7 @@ title: Crawl
 developer: Powerhoof
 publisher: Powerhoof
 platform: PS4
-releaseDate: 2017-04-11
+published: 2017-04-11
 howlongtobeat: 15
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/13020-crawl-trophy-guide

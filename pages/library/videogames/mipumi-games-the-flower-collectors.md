@@ -6,13 +6,13 @@ title: The Flower Collectors
 developer: Mi'pu'mi Games
 publisher: Mi'pu'mi Games
 platform: Steam
-releaseDate: 2020-04-21
+published: 2020-04-21
 howlongtobeat: 6
 difficulty: --
 trophyGuide: --
 durationHours: 6
 trophies: 13/13
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1034750/
 date: 2021-03-11
 ---

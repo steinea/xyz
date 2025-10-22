@@ -6,13 +6,13 @@ title: 'Hunt: Showdown'
 developer: Crytek
 publisher: Crytek
 platform: Steam
-releaseDate: 2019-08-27
+published: 2019-08-27
 howlongtobeat: 205
 difficulty: --
 trophyGuide: --
 durationHours: 535
 trophies: 37/37
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/594650/
 date: 2021-08-22
 ---

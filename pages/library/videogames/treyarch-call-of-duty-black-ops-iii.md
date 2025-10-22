@@ -6,7 +6,7 @@ subcategory: retired
 developer: Treyarch
 publisher: Activision
 platform: PS4
-releaseDate: 2015-11-06
+published: 2015-11-06
 howlongtobeat: 83
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/3557-call-of-duty-black-ops-iii-trophy-guide

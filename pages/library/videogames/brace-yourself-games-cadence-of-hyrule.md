@@ -7,7 +7,7 @@ title: Cadence of Hyrule
 developer: Brace Yourself Games
 publisher: Nintendo
 platform: Switch
-releaseDate: 2019-06-13
+published: 2019-06-13
 howlongtobeat: 11
 difficulty:
 trophyGuide:

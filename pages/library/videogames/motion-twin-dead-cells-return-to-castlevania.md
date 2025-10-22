@@ -7,7 +7,7 @@ title: "Dead Cells: Return to Castlevania"
 developer: Motion Twin
 publisher: Motion Twin
 platform: PS5
-releaseDate: 2023-03-06
+published: 2023-03-06
 howlongtobeat: 12
 difficulty: 7/10
 trophyGuide: https://psnprofiles.com/guide/16302-dead-cells-return-to-castlevania-dlc-trophy-guide

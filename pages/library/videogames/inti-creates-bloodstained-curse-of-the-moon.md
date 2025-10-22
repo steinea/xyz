@@ -7,7 +7,7 @@ title: "Bloodstained: Curse of the Moon"
 developer: Inti Creates
 publisher: Inti Creates
 platform: PS4
-releaseDate: 2018-05-24
+published: 2018-05-24
 howlongtobeat: 11
 difficulty: 4/10
 trophyGuide: https://www.playstationtrophies.org/game/bloodstained-curse-of-the-moon-ps4/guide/

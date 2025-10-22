@@ -7,7 +7,7 @@ title: "A Plague Tale: Requiem"
 developer: Asobo Studio
 publisher: Focus Home Interactive
 platform: PS5
-releaseDate: 2022-10-18
+published: 2022-10-18
 howlongtobeat: 28
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/15459-a-plague-tale-requiem-trophy-guide

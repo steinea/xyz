@@ -6,13 +6,13 @@ title: Absolver
 developer: Sloclap
 publisher: Devolver Digital
 platform: Steam
-releaseDate: 2017-08-29
+published: 2017-08-29
 howlongtobeat: 10
 difficulty: --
 trophyGuide: --
 durationHours: 42
 trophies: 22/22
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/473690/
 date: 2022-01-10
 ---

@@ -7,7 +7,7 @@ title: "Injustice: Gods Among Us"
 developer: NetherRealm Studios
 publisher: Warner Bros. Interactive Entertainment
 platform: PS4
-releaseDate: 2013-11-12
+published: 2013-11-12
 howlongtobeat: 90
 difficulty: 9/10
 trophyGuide: https://psnprofiles.com/guide/5278-injustice-gods-among-us-ultimate-edition-trophy-guide

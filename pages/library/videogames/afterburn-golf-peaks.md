@@ -6,13 +6,13 @@ title: Golf Peaks
 developer: Afterburn
 publisher: Afterburn
 platform: Google
-releaseDate: 2018-11-13
+published: 2018-11-13
 howlongtobeat: --
 difficulty: --
 trophyGuide: --
 durationHours:
 trophies: 12/12
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/golf-peaks-android/achievements/#1644034
 date: 2023-07-16
 ---

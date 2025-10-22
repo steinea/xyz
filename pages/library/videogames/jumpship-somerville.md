@@ -6,7 +6,7 @@ title: Somerville
 developer: Jumpship
 publisher: Jumpship
 platform: Xbox
-releaseDate: 2022-11-15
+published: 2022-11-15
 howlongtobeat: 4
 difficulty: --
 trophyGuide: --

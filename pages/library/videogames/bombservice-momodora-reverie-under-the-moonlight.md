@@ -7,7 +7,7 @@ title: "Momodora: Reverie Under the Moonlight"
 developer: Bombservice
 publisher: Playism
 platform: Steam
-releaseDate: 2016-03-04
+published: 2016-03-04
 howlongtobeat: 10
 difficulty: --
 trophyGuide: --

@@ -7,7 +7,7 @@ title: Eastern Exorcist
 developer: Wildfire Game
 publisher: Wildfire Game
 platform: Steam
-releaseDate: 2021-07-08
+published: 2021-07-08
 howlongtobeat: 16
 difficulty:
 trophyGuide:

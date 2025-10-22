@@ -7,7 +7,7 @@ title: Nioh 2 Remastered
 developer: Team Ninja
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2020-03-12
+published: 2020-03-12
 howlongtobeat: 129
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/10138-nioh-2-trophy-guide

@@ -7,7 +7,7 @@ title: Driveclub
 developer: Evolution Studios
 publisher: Sony Computer Entertainment
 platform: PS4
-releaseDate: 2014-10-07
+published: 2014-10-07
 howlongtobeat: 40
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/1813-driveclub-trophy-guide

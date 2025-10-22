@@ -7,7 +7,7 @@ title: Final Fantasy VII Rebirth
 developer: Square Enix
 publisher: Square Enix
 platform: PS5
-releaseDate: 2024-02-29
+published: 2024-02-29
 howlongtobeat: 95
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/18935-final-fantasy-vii-rebirth-trophy-guide

@@ -6,7 +6,7 @@ title: "Geometry Wars: Retro Evolved"
 developer: Bizarre Creation
 publisher: Microsoft Game Studios
 platform: Xbox 360
-releaseDate: 2005-11-22
+published: 2005-11-22
 howlongtobeat: 10
 difficulty: --
 trophyGuide: --

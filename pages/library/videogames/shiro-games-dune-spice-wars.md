@@ -7,7 +7,7 @@ title: "Dune: Spice Wars"
 developer: Shiro Games
 publisher: Funcom
 platform: Steam
-releaseDate: 2023-09-14
+published: 2023-09-14
 howlongtobeat: 69
 difficulty:
 trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=2802231028

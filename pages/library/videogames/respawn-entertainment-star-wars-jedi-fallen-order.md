@@ -6,13 +6,13 @@ title: 'Star Wars Jedi: Fallen Order'
 developer: Respawn Entertainment
 publisher: Electronic Arts
 platform: Stadia
-releaseDate: 2019-11-15
+published: 2019-11-15
 howlongtobeat: 32
 difficulty: --
 trophyGuide: --
 durationHours: 27
 trophies: 40/40
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/star-wars-jedi-fallen-order-stadia/achievements/#1889706
 date: 2021-05-20
 ---

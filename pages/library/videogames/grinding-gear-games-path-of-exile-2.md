@@ -7,7 +7,7 @@ title: Path of Exile 2
 developer: Grinding Gear Games
 publisher: Grinding Gear Games
 platform: Steam
-releaseDate: 2024-12-06
+published: 2024-12-06
 howlongtobeat: 110
 difficulty:
 trophyGuide:

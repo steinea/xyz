@@ -6,7 +6,7 @@ title: EA Sports FIFA 23
 developer: EA Sports
 publisher: Electronic Arts
 platform: Steam
-releaseDate: 2022-09-30
+published: 2022-09-30
 howlongtobeat: 111
 difficulty: --
 trophyGuide: --

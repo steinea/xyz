@@ -6,7 +6,7 @@ title: Alto’s Odyssey
 developer: Team Alto
 publisher: Noodlecake Studios
 platform: Google
-releaseDate: 2018-02-21
+published: 2018-02-21
 howlongtobeat: 21
 difficulty: --
 trophyGuide: --

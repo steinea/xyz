@@ -6,13 +6,13 @@ title: Moncage
 developer: Optillusion
 publisher: XD
 platform: Steam
-releaseDate: 2021-11-16
+published: 2021-11-16
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --
 durationHours: 2
 trophies: 15/15
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1195290/
 date: 2022-09-23
 ---

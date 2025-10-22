@@ -6,7 +6,7 @@ title: "Endling: Extinction is Forever"
 developer: Herobeat Studios
 publisher: HandyGames
 platform: PS5
-releaseDate: 2022-07-19
+published: 2022-07-19
 howlongtobeat: 6
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/17055-endling-extinction-is-forever-trophy-guide

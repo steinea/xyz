@@ -6,7 +6,7 @@ title: The Finals
 developer: Embark Studios
 publisher: Embark Studios
 platform: Steam
-releaseDate: 2023-12-07
+published: 2023-12-07
 howlongtobeat: 49
 difficulty: --
 trophyGuide: --

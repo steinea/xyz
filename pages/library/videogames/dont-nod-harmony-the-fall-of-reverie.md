@@ -6,7 +6,7 @@ title: "Harmony: The Fall of Reverie"
 developer: Don't Nod
 publisher: Don't Nod
 platform: Steam
-releaseDate: 2023-06-08
+published: 2023-06-08
 howlongtobeat: 12
 difficulty: --
 trophyGuide: --

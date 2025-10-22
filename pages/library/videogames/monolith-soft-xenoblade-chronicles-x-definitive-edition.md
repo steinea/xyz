@@ -7,7 +7,7 @@ title: "Xenoblade Chronicles X: Definitive Edition"
 developer: Monolith Soft
 publisher: Nintendo
 platform: Switch
-releaseDate: 2025-03-20
+published: 2025-03-20
 howlongtobeat: 136
 difficulty:
 trophyGuide:

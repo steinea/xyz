@@ -7,7 +7,7 @@ title: Marvel's Spider-Man
 developer: Insomniac Games
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2018-09-07
+published: 2018-09-07
 howlongtobeat: 45
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/7818-marvels-spider-man-trophy-guide

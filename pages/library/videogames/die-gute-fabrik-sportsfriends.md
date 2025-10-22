@@ -6,13 +6,13 @@ title: Sportsfriends
 developer: Die Gute Fabrik
 publisher: Die Gute Fabrik
 platform: PS4
-releaseDate: 2014-05-06
+published: 2014-05-06
 howlongtobeat: 4
 difficulty: 1/10
 trophyGuide: https://psnprofiles.com/guide/1676-sportsfriends-trophy-guide
 durationHours: 6
 trophies: 14/14
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/2593-sportsfriends/barrelofjuice
 date: 2015-07-31
 ---

@@ -7,7 +7,7 @@ title: Vampyr
 developer: Dontnod Entertainment
 publisher: Focus Home Interactive
 platform: PS4
-releaseDate: 2018-06-05
+published: 2018-06-05
 howlongtobeat: 35
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/7602-vampyr-trophy-guide

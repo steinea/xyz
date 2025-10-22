@@ -6,13 +6,13 @@ title: A Short Hike
 developer: Adam Robinson-Yu
 publisher: Adam Robinson-Yu
 platform: Steam
-releaseDate: 2019-07-30
+published: 2019-07-30
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --
 durationHours: 7
 trophies: 12/12
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1055540/
 date: 2022-01-05
 ---

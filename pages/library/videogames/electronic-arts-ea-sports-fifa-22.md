@@ -6,7 +6,7 @@ title: EA Sports FIFA 22
 developer: EA Sports
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2021-10-01
+published: 2021-10-01
 howlongtobeat: 243
 difficulty: --
 trophyGuide: --

@@ -6,7 +6,7 @@ title: Neva
 developer: Nomada Studio
 publisher: Devolver Digital
 platform: Steam
-releaseDate: 2024-10-15
+published: 2024-10-15
 howlongtobeat: 6
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/20721-neva-trophy-guide

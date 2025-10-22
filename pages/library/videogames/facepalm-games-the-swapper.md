@@ -7,7 +7,7 @@ title: The Swapper
 developer: Facepalm Games
 publisher: Facepalm Games
 platform: PS4
-releaseDate: 2014-08-05
+published: 2014-08-05
 howlongtobeat: 2
 difficulty: 1/10
 trophyGuide: https://psnprofiles.com/guide/2241-the-swapper-trophy-guide

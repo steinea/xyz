@@ -7,7 +7,7 @@ title: "God of War Ragnarok"
 developer: Santa Monica Studio
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2022-11-09
+published: 2022-11-09
 howlongtobeat: 55
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/15509-god-of-war-ragnar%C3%B6k-trophy-guide

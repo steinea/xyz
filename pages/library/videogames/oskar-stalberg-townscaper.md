@@ -6,13 +6,13 @@ title: Townscaper
 developer: Oskar Stålberg
 publisher: Oskar Stålberg
 platform: Xbox
-releaseDate: 2021-12-01
+published: 2021-12-01
 howlongtobeat: 1
 difficulty: --
 trophyGuide: --
 durationHours: 1
 trophies: 10/10
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/townscaper-xbox/achievements/#2209141
 date: 2022-01-16
 ---

@@ -7,7 +7,7 @@ title: Abzû
 developer: Giant Squid
 publisher: 505 Games
 platform: PS4
-releaseDate: 2016-08-02
+published: 2016-08-02
 howlongtobeat: 4
 difficulty: 1/10
 trophyGuide: https://psnprofiles.com/guide/4785-abz%C3%BB-trophy-guide

@@ -6,7 +6,7 @@ title: Starfield
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 platform: Xbox
-releaseDate: 2023-09-06
+published: 2023-09-06
 howlongtobeat: 145
 difficulty: --
 trophyGuide: --

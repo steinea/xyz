@@ -7,7 +7,7 @@ title: "Uncharted 2: Among Thieves Remastered"
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2009-10-13
+published: 2009-10-13
 howlongtobeat: 22
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/3423-uncharted-2-among-thieves-remastered-trophy-guide

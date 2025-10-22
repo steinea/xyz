@@ -6,13 +6,13 @@ title: Alto’s Adventure
 developer: Team Alto
 publisher: Noodlecake Studios
 platform: Google
-releaseDate: 2015-02-19
+published: 2015-02-19
 howlongtobeat: 44
 difficulty: --
 trophyGuide: --
 durationHours: 12
 trophies: 17/17
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/altos-adventure-android/achievements/#1644034
 date: 2024-01-12
 ---

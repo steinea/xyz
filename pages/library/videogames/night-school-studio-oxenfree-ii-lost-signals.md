@@ -6,7 +6,7 @@ title: "Oxenfree II: Lost Signals"
 developer: Night School Studio
 publisher: Netflix Games
 platform: Steam
-releaseDate: 2023-07-12
+published: 2023-07-12
 howlongtobeat: 16
 difficulty: 2/10
 trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?l=english&id=3008912729

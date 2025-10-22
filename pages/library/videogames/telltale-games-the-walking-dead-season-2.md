@@ -6,13 +6,13 @@ title: 'The Walking Dead: Season 2'
 developer: Telltale Games
 publisher: Telltale Games
 platform: PS4
-releaseDate: 2013-12-17
+published: 2013-12-17
 howlongtobeat: 10
 difficulty: 1/10
 trophyGuide: https://psnprofiles.com/guide/716-the-walking-dead-season-2-trophy-guide
 durationHours: 22
 trophies: 40/40
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/2971-the-walking-dead-season-2/barrelofjuice
 date: 2015-03-02
 ---

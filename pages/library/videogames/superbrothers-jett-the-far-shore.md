@@ -6,7 +6,7 @@ title: "Jett: The Far Shore"
 developer: Superbrothers
 publisher: Pine Scented Software
 platform: PS5
-releaseDate: 2021-10-05
+published: 2021-10-05
 howlongtobeat: 15
 difficulty: 2/10
 trophyGuide: https://www.playstationtrophies.org/game/jett-the-far-shore/guide/

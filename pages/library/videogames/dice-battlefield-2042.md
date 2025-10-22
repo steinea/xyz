@@ -6,7 +6,7 @@ title: Battlefield 2042
 developer: DICE
 publisher: Electronic Arts
 platform: Steam
-releaseDate: 2021-11-19
+published: 2021-11-19
 howlongtobeat: 85
 difficulty: --
 trophyGuide: --

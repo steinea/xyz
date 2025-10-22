@@ -6,7 +6,7 @@ title: Bastion
 developer: Supergiant Games
 publisher: Warner Bros. Interactive Entertainment
 platform: Steam
-releaseDate: 2011-07-20
+published: 2011-07-20
 howlongtobeat:
 difficulty:
 trophyGuide:

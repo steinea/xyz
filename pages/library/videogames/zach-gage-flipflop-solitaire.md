@@ -6,7 +6,7 @@ title: Flipflop Solitaire
 developer: Zach Gage
 publisher: Noodlecake
 platform: Google
-releaseDate: 2017-11-09
+published: 2017-11-09
 howlongtobeat: --
 difficulty: --
 trophyGuide: --

@@ -7,7 +7,7 @@ title: Alone in the Dark
 developer: Eden Games
 publisher: Atari Interactive
 platform: PS3
-releaseDate: 2008-11-18
+published: 2008-11-18
 howlongtobeat: 16
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/6378-alone-in-the-dark-inferno-trophy-guide

@@ -7,7 +7,7 @@ title: Demon's Souls Remake
 developer: Bluepoint Games
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2020-11-19
+published: 2020-11-19
 howlongtobeat: 59
 difficulty: 7/10
 trophyGuide: https://psnprofiles.com/guide/11225-demons-souls-trophy-guide

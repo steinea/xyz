@@ -6,7 +6,7 @@ title: VVVVVV
 developer: Terry Cavanagh
 publisher: Terry Cavanagh
 platform: Steam
-releaseDate: 2010-01-11
+published: 2010-01-11
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --

@@ -7,7 +7,7 @@ title: "Dragon Age: The Veilguard"
 developer: BioWare
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2024-10-31
+published: 2024-10-31
 howlongtobeat: 79
 difficulty:
 trophyGuide:

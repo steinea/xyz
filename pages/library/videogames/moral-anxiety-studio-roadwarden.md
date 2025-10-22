@@ -6,7 +6,7 @@ title: Roadwarden
 developer: Moral Anxiety Studio
 publisher: Assemble Entertainment
 platform: Steam
-releaseDate: 2022-09-12
+published: 2022-09-12
 howlongtobeat: 35
 difficulty: --
 trophyGuide: --

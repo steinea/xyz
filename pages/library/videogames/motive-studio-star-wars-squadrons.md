@@ -8,7 +8,7 @@ publisher: Electronic Arts
 platform:
   - Steam
   - PS4
-releaseDate: 2020-10-02
+published: 2020-10-02
 howlongtobeat: 29
 difficulty: --
 trophyGuide: --

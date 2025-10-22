@@ -6,7 +6,7 @@ title: Dance Central
 developer: Harmonix
 publisher: MTV Games
 platform: Xbox 360
-releaseDate: 2010-11-04
+published: 2010-11-04
 howlongtobeat: 14
 difficulty: --
 trophyGuide: --

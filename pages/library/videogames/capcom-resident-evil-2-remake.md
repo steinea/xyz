@@ -7,7 +7,7 @@ title: Resident Evil 2 Remake
 developer: Capcom
 publisher: Capcom
 platform: PS5
-releaseDate: 2019-01-25
+published: 2019-01-25
 howlongtobeat: 36
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/8293-resident-evil-2-trophy-guide

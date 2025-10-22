@@ -6,7 +6,7 @@ title: King of Dragon Pass
 developer: A Sharp
 publisher: A Sharp
 platform: Steam
-releaseDate: 1999
+published: 1999
 howlongtobeat: 28
 difficulty: --
 trophyGuide: --

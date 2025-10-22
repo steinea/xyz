@@ -7,7 +7,7 @@ title: Dead Space
 developer: EA Redwood Shores
 publisher: Electronic Arts
 platform: PS3
-releaseDate: 2008-10-13
+published: 2008-10-13
 howlongtobeat: 20
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/726-dead-space-trophy-guide

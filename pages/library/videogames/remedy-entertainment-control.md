@@ -7,7 +7,7 @@ title: Control
 developer: Remedy Entertainment
 publisher: 505 Games
 platform: PS5
-releaseDate: 2019-08-27
+published: 2019-08-27
 howlongtobeat: 39
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/9040-control-trophy-guide

@@ -7,7 +7,7 @@ title: The Last of Us
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
 platform: PS3
-releaseDate: 2013-06-14
+published: 2013-06-14
 howlongtobeat: 23
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/348-the-last-of-us-trophy-guide

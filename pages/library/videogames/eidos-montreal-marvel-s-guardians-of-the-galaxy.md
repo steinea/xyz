@@ -7,7 +7,7 @@ title: Marvel's Guardians of the Galaxy
 developer: Eidos Montreal
 publisher: Square Enix
 platform: PS5
-releaseDate: 2021-10-26
+published: 2021-10-26
 howlongtobeat: 26
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/13221-marvels-guardians-of-the-galaxy-trophy-guide

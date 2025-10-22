@@ -7,7 +7,7 @@ title: The Last of Us Part II Remastered
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2024-01-19
+published: 2024-01-19
 howlongtobeat: 10
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/18648-the-last-of-us-part-ii-remastered-no-return-dlc-trophy-guide

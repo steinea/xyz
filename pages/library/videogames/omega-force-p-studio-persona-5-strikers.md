@@ -7,7 +7,7 @@ title: Persona 5 Strikers
 developer: Omega Force, P-Studio
 publisher: Sega
 platform: PS4
-releaseDate: 2021-02-23
+published: 2021-02-23
 howlongtobeat: 71
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/11754-persona-5-strikers-trophy-guide

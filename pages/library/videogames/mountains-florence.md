@@ -6,13 +6,13 @@ title: Florence
 developer: Mountains
 publisher: Annapurna Interactive
 platform: Steam
-releaseDate: 2018-02-14
+published: 2018-02-14
 howlongtobeat: 1
 difficulty: --
 trophyGuide: --
 durationHours: 1
 trophies: 12/12
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1102130/
 date: 2022-01-21
 ---

@@ -6,7 +6,7 @@ title: "Call of Duty: Modern Warfare 2"
 developer: Infinity War
 publisher: Activision
 platform: Xbox 360
-releaseDate: 2009-11-10
+published: 2009-11-10
 howlongtobeat: 31
 difficulty: --
 trophyGuide: --

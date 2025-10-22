@@ -7,7 +7,7 @@ title: Titan Souls
 developer: Acid Nerve
 publisher: Devolver Digital
 platform: Steam
-releaseDate: 2015-04-14
+published: 2015-04-14
 howlongtobeat: 7
 difficulty:
 trophyGuide:

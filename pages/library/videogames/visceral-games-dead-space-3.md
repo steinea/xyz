@@ -7,7 +7,7 @@ title: Dead Space 3
 developer: Visceral Games
 publisher: Electronic Arts
 platform: PS3
-releaseDate: 2013-02-05
+published: 2013-02-05
 howlongtobeat: 25
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/8226-dead-space-3-trophy-guide

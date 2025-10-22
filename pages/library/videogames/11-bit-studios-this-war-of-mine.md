@@ -6,7 +6,7 @@ title: This War of Mine
 developer: 11 Bit Studios
 publisher: 11 Bit Studios
 platform: Steam
-releaseDate: 2014-11-14
+published: 2014-11-14
 howlongtobeat: 40
 difficulty: --
 trophyGuide: --

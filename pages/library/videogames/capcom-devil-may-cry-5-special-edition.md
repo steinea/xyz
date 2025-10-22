@@ -7,7 +7,7 @@ title: "Devil May Cry 5: Special Edition"
 developer: Capcom
 publisher: Capcom
 platform: PS5
-releaseDate: 2019-03-08
+published: 2019-03-08
 howlongtobeat: 70
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/8989-devil-may-cry-5-trophy-guide

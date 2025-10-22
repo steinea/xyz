@@ -7,7 +7,7 @@ title: Dragon Age II
 developer: BioWare
 publisher: Electronic Arts
 platform: Xbox 360
-releaseDate: 2011-03-08
+published: 2011-03-08
 howlongtobeat: 54
 difficulty: --
 trophyGuide: --

@@ -7,7 +7,7 @@ title: "Crisis Core: Final Fantasy VII Reunion"
 developer: Square Enix
 publisher: Square Enix
 platform: PS5
-releaseDate: 2022-12-13
+published: 2022-12-13
 howlongtobeat: 47
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/15695-crisis-core-final-fantasy-vii-reunion-trophy-guide

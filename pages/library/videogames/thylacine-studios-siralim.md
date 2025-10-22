@@ -6,7 +6,7 @@ title: Siralim
 developer: Thylacine Studios
 publisher: Thylacine Studios
 platform: Steam
-releaseDate: 2015-04-24
+published: 2015-04-24
 howlongtobeat: 269
 difficulty: --
 trophyGuide: --

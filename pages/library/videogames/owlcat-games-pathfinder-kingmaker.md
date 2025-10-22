@@ -7,7 +7,7 @@ title: "Pathfinder: Kingmaker"
 developer: Owlcat Games
 publisher: Deep Silver
 platform: Steam
-releaseDate: 2018-09-25
+published: 2018-09-25
 howlongtobeat: 208
 difficulty:
 trophyGuide:

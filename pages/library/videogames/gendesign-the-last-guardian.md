@@ -6,7 +6,7 @@ title: The Last Guardian
 developer: GenDesign
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2016-12-06
+published: 2016-12-06
 howlongtobeat: 26
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/5539-the-last-guardian-trophy-guide

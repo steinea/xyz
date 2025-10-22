@@ -7,7 +7,7 @@ title: The Surge 2
 developer: Deck13 Interactive
 publisher: Focus Home Interactive
 platform: Steam
-releaseDate: 2019-09-24
+published: 2019-09-24
 howlongtobeat: 39
 difficulty:
 trophyGuide:

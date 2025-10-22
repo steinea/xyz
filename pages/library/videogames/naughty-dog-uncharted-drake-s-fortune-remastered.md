@@ -7,13 +7,13 @@ title: "Uncharted: Drake’s Fortune Remastered"
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
 platform: PS4
-releaseDate: 2007-11-19
+published: 2007-11-19
 howlongtobeat: 18
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/3418-uncharted-drakes-fortune-remastered-trophy-guide
 durationHours: 36
 trophies: 54/54
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/3938-uncharted-drakes-fortune-remastered/barrelofjuice
 date: 2016-12-08
 ---

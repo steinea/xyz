@@ -7,7 +7,7 @@ title: Crypt of the NecroDancer
 developer: Brace Yourself Games
 publisher: Brace Yourself Games
 platform: Steam
-releaseDate: 2015-04-23
+published: 2015-04-23
 howlongtobeat: 27
 difficulty:
 trophyGuide:

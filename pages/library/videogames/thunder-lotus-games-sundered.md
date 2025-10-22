@@ -7,7 +7,7 @@ title: "Sundered: Eldritch Edition"
 developer: Thunder Lotus Games
 publisher: Thunder Lotus Games
 platform: Steam
-releaseDate: 2017-07-28
+published: 2017-07-28
 howlongtobeat: 20
 difficulty:
 trophyGuide:

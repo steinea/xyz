@@ -7,7 +7,7 @@ title: Final Fantasy XVI
 developer: Square Enix
 publisher: Square Enix
 platform: PS5
-releaseDate: 2023-06-22
+published: 2023-06-22
 howlongtobeat: 79
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/17065-final-fantasy-xvi-trophy-guide

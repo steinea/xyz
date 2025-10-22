@@ -7,7 +7,7 @@ title: EA Sports NHL 21
 developer: EA Sports
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2020-10-16
+published: 2020-10-16
 howlongtobeat: 72
 difficulty:
 trophyGuide:

@@ -7,7 +7,7 @@ title: "Dragon Age: Inquisition"
 developer: BioWare
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2014-11-18
+published: 2014-11-18
 howlongtobeat: 150
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/2151-dragon-age-inquisition-trophy-guide

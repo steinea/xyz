@@ -7,7 +7,7 @@ title: The Quarry
 developer: Supermassive Games
 publisher: 2K
 platform: PS5
-releaseDate: 2022-06-10
+published: 2022-06-10
 howlongtobeat: 34
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/14683-the-quarry-trophy-guide

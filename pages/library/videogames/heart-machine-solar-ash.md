@@ -7,7 +7,7 @@ title: Solar Ash
 developer: Heart Machine
 publisher: Annapurna Interactive
 platform: PS5
-releaseDate: 2021-12-02
+published: 2021-12-02
 howlongtobeat: 15
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/13377-solar-ash-trophy-guide

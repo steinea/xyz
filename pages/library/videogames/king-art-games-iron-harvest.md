@@ -6,7 +6,7 @@ title: Iron Harvest
 developer: King Art Games
 publisher: Deep Silver
 platform: Steam
-releaseDate: 2020-09-01
+published: 2020-09-01
 howlongtobeat: 53
 difficulty: --
 trophyGuide: --

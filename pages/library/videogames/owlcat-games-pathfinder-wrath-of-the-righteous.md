@@ -7,7 +7,7 @@ title: "Pathfinder: Wrath of the Righteous"
 developer: Owlcat Games
 publisher: META Publishing
 platform: Steam
-releaseDate: 2021-09-02
+published: 2021-09-02
 howlongtobeat: 235
 difficulty:
 trophyGuide:

@@ -6,13 +6,13 @@ title: Gris
 developer: Nomada Studio
 publisher: Devolver Digital
 platform: Steam
-releaseDate: 2018-12-13
+published: 2018-12-13
 howlongtobeat: 7
 difficulty: --
 trophyGuide: --
 durationHours: 5
 trophies: 17/17
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/683320/?tab=achievements
 date: 2021-06-01
 ---

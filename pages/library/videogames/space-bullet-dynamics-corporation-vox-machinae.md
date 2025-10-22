@@ -6,7 +6,7 @@ title: Vox Machinae
 developer: Space Bullet Dynamics Corporation
 publisher: Space Bullet Dynamics Corporation
 platform: Steam
-releaseDate: 2022-05-13
+published: 2022-05-13
 howlongtobeat: --
 difficulty: --
 trophyGuide: --

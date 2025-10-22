@@ -6,7 +6,7 @@ title: Fable II
 developer: Lionhead Studios
 publisher: Microsoft Game Studios
 platform: Xbox 360
-releaseDate: 2008-10-21
+published: 2008-10-21
 howlongtobeat: 53
 difficulty: --
 trophyGuide: --

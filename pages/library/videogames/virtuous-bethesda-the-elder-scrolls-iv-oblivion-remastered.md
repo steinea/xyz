@@ -8,7 +8,7 @@ developer:
   - Bethesda Game Studios
 publisher: Bethesda Softworks
 platform: Xbox
-releaseDate: 2025-04-22
+published: 2025-04-22
 howlongtobeat: 80
 difficulty: 4/10
 trophyGuide: https://www.xboxachievements.com/game/the-elder-scrolls-4-oblivion-remastered/guide/

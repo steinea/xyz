@@ -7,13 +7,13 @@ title: 'Dark Souls: Remastered'
 developer: FromSoftware
 publisher: Namco Bandai Games
 platform: Steam
-releaseDate: 2018-05-23
+published: 2018-05-23
 howlongtobeat: 69
 difficulty: --
 trophyGuide: --
 durationHours: 131
 trophies: 41/41
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/570940/
 date: 2020-03-29
 ---

@@ -6,7 +6,7 @@ title: EA Sports UFC 4
 developer: EA Sports
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2020-08-14
+published: 2020-08-14
 howlongtobeat: 83
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/10755-ea-sports-ufc-4-trophy-guide

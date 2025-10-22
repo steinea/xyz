@@ -6,7 +6,7 @@ title: EA Sports FIFA 21
 developer: EA Sports
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2020-10-09
+published: 2020-10-09
 howlongtobeat: 478
 difficulty: --
 trophyGuide: --

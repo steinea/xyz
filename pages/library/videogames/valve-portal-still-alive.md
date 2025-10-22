@@ -6,7 +6,7 @@ title: "Portal: Still Alive"
 developer: Valve
 publisher: Valve
 platform: Xbox 360
-releaseDate: 2007-10-10
+published: 2007-10-10
 howlongtobeat: 10
 difficulty: --
 trophyGuide: --

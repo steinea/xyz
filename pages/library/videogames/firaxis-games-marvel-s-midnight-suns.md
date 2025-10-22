@@ -7,7 +7,7 @@ title: Marvel's Midnight Suns
 developer: Firaxis Games
 publisher: 2K
 platform: PS5
-releaseDate: 2022-12-02
+published: 2022-12-02
 howlongtobeat: 95
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/16379-marvels-midnight-suns-trophy-guide

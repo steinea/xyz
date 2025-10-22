@@ -7,7 +7,7 @@ title: BioShock 2 Remastered
 developer: Blind Squirrel Games
 publisher: 2K
 platform: PS4
-releaseDate: 2016-09-13
+published: 2016-09-13
 howlongtobeat: 32
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/4999-bioshock-2-trophy-guide

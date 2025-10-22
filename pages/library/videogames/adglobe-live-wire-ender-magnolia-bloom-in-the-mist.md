@@ -7,7 +7,7 @@ title: "Ender Magnolia: Bloom in the Mist"
 developer: Adglobe, Live Wire
 publisher: Binary Haze Interactive
 platform: Steam
-releaseDate: 2025-01-22
+published: 2025-01-22
 howlongtobeat: 21
 difficulty:
 trophyGuide:

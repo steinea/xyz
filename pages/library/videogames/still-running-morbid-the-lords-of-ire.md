@@ -7,7 +7,7 @@ title: "Morbid: The Lords of Ire"
 developer: Still Running
 publisher: Merge Games
 platform: Steam
-releaseDate: 2024-05-17
+published: 2024-05-17
 howlongtobeat: 12
 difficulty:
 trophyGuide:

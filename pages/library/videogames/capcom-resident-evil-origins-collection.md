@@ -7,7 +7,7 @@ title: Resident Evil Origins Collection
 developer: Capcom
 publisher: Capcom
 platform: PS4
-releaseDate: 2019-05-21
+published: 2019-05-21
 howlongtobeat: 25
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/2309-resident-evil-trophy-guide

@@ -7,7 +7,7 @@ title: "Ninja Gaiden 3: Razor's Edge"
 developer: Team Ninja
 publisher: Koei Tecmo
 platform: PS3
-releaseDate: 2013-04-02
+published: 2013-04-02
 howlongtobeat: 35
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/13541-ninja-gaiden-3-razors-edge-trophy-guide

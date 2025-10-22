@@ -7,7 +7,7 @@ title: "The Binding of Isaac: Rebirth"
 developer: Nicalis
 publisher: Nicalis
 platform: PS4
-releaseDate: 2014-11-04
+published: 2014-11-04
 howlongtobeat: 150
 difficulty: 9/10
 trophyGuide: https://psnprofiles.com/guide/4064-the-binding-of-isaac-rebirth-trophy-guide

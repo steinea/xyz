@@ -6,7 +6,7 @@ title: Dordogne
 developer: Un Je Ne Sais Quoi and Umanimation
 publisher: Focus Entertainment
 platform: Xbox
-releaseDate: 2023-06-13
+published: 2023-06-13
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --

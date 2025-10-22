@@ -7,7 +7,7 @@ title: Limbo
 developer: Playdead
 publisher: Microsoft Game Studios
 platform: PS4
-releaseDate: 2010-07-21
+published: 2010-07-21
 howlongtobeat: 10
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/2426-limbo-trophy-guide

@@ -6,7 +6,7 @@ title: Maquette
 developer: Graceful Decay
 publisher: Annapurna Interactive
 platform: Xbox
-releaseDate: 2021-03-02
+published: 2021-03-02
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --

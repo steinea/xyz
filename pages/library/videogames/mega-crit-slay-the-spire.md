@@ -7,7 +7,7 @@ title: Slay the Spire
 developer: Mega Crit
 publisher: Mega Crit
 platform: Steam
-releaseDate: 2019-01-23
+published: 2019-01-23
 howlongtobeat: 186
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/14674-slay-the-spire-trophy-guide

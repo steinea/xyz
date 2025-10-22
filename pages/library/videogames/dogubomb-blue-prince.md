@@ -7,7 +7,7 @@ title: Blue Prince
 developer: Dogubomb
 publisher: Raw Fury
 platform: Xbox
-releaseDate: 2025-04-10
+published: 2025-04-10
 howlongtobeat: 86
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/22419-blue-prince-trophy-guide

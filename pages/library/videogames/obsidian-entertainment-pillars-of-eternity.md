@@ -7,7 +7,7 @@ title: Pillars of Eternity
 developer: Obsidian Entertainment
 publisher: Paradox Interactive
 platform: GOG Galaxy
-releaseDate: 2015-03-26
+published: 2015-03-26
 howlongtobeat: 109
 difficulty:
 trophyGuide:

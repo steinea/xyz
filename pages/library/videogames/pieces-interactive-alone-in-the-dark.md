@@ -7,7 +7,7 @@ title: Alone in the Dark
 developer: Pieces Interactive
 publisher: THQ Nordic
 platform: PS5
-releaseDate: 2024-03-20
+published: 2024-03-20
 howlongtobeat: 21
 difficulty: 3/10
 trophyGuide: https://www.powerpyx.com/alone-in-the-dark-2024-trophy-guide-roadmap/

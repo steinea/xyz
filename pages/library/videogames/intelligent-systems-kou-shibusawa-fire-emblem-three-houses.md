@@ -7,7 +7,7 @@ title: "Fire Emblem: Three Houses"
 developer: Intelligent Systems, Kou Shibusawa
 publisher: Nintendo
 platform: Switch
-releaseDate: 2019-07-26
+published: 2019-07-26
 howlongtobeat: 210
 difficulty:
 trophyGuide:

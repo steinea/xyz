@@ -7,7 +7,7 @@ title: Broken Age
 developer: Double Fine Productions
 publisher: Double Fine Productions
 platform: PS4
-releaseDate: 2015-04-28
+published: 2015-04-28
 howlongtobeat: 10
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/2758-broken-age-trophy-guide

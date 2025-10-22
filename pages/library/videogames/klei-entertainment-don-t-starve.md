@@ -7,7 +7,7 @@ title: Don't Starve
 developer: Klei Entertainment
 publisher: Klei Entertainment
 platform: PS4
-releaseDate: 2013-04-23
+published: 2013-04-23
 howlongtobeat: 12
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/531-dont-starve-trophy-guide

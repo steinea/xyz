@@ -7,7 +7,7 @@ title: The Pathless
 developer: Giant Squid
 publisher: Annapurna Interactive
 platform: PS5
-releaseDate: 2020-11-12
+published: 2020-11-12
 howlongtobeat: 13
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/11808-the-pathless-trophy-guide

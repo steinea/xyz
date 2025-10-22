@@ -6,7 +6,7 @@ title: A Highland Song
 developer: Inkle
 publisher: Inkle
 platform: Steam
-releaseDate: 2023-12-05
+published: 2023-12-05
 howlongtobeat: 13
 difficulty:
 trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=3150754040

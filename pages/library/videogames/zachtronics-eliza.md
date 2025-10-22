@@ -6,13 +6,13 @@ title: Eliza
 developer: Zachtronics
 publisher: Zachtronics
 platform: Steam
-releaseDate: 2019-08-12
+published: 2019-08-12
 howlongtobeat: 8
 difficulty: --
 trophyGuide: --
 durationHours: 6
 trophies: 1/1
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/716500/
 date: 2021-06-06
 ---

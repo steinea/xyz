@@ -7,13 +7,13 @@ title: Elden Ring
 developer: FromSoftware
 publisher: Bandai Namco Entertainment
 platform: Steam
-releaseDate: 2022-02-25
+published: 2022-02-25
 howlongtobeat: 132
 difficulty: --
 trophyGuide: --
 durationHours: 136
 trophies: 42/42
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1245620/
 date: 2022-03-22
 ---

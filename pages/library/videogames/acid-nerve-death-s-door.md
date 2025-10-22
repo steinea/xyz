@@ -7,7 +7,7 @@ title: Death’s Door
 developer: Acid Nerve
 publisher: Devolver Digital
 platform: Xbox
-releaseDate: 2021-07-20
+published: 2021-07-20
 howlongtobeat: 15
 difficulty: --
 trophyGuide: --

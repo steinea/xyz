@@ -6,13 +6,13 @@ title: Far Cry 3
 developer: Ubisoft
 publisher: Ubisoft
 platform: PS3
-releaseDate: 2012-11-29
+published: 2012-11-29
 howlongtobeat: 37
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/9-far-cry-3-trophy-guide
 durationHours:
 trophies: 51/51
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/1741-far-cry-3/barrelofjuice
 date: 2014-08-12
 ---

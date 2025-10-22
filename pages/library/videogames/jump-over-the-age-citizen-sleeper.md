@@ -6,7 +6,7 @@ title: Citizen Sleeper
 developer: Jump Over the Age
 publisher: 	Fellow Traveller
 platform: Xbox
-releaseDate: 2022-05-05
+published: 2022-05-05
 howlongtobeat: 12
 difficulty: --
 trophyGuide: --

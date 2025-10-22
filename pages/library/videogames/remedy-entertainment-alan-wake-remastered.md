@@ -7,7 +7,7 @@ title: Alan Wake Remastered
 developer: Remedy Entertainment
 publisher: Microsoft Game Studios
 platform: PS5
-releaseDate: 2021-10-05
+published: 2021-10-05
 howlongtobeat: 25
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/13042-alan-wake-trophy-guide

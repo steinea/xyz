@@ -6,7 +6,7 @@ title: "Wingspan: Digital Edition"
 developer: Monster Couch
 publisher: Monster Couch
 platform: Steam
-releaseDate: 2020-09-17
+published: 2020-09-17
 howlongtobeat: 39
 difficulty: --
 trophyGuide: --

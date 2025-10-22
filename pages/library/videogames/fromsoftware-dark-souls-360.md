@@ -6,7 +6,7 @@ title: Dark Souls
 developer: FromSoftware
 publisher: Namco Bandai Games
 platform: Xbox 360
-releaseDate: 2011-09-22
+published: 2011-09-22
 howlongtobeat: 105
 difficulty: --
 trophyGuide: --

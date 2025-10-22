@@ -7,7 +7,7 @@ title: "Xenoblade Chronicles: Definitive Edition"
 developer: Monolith Soft
 publisher: Nintendo
 platform: Switch
-releaseDate: 2020-05-29
+published: 2020-05-29
 howlongtobeat: 142
 difficulty:
 trophyGuide:

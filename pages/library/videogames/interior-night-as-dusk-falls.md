@@ -6,7 +6,7 @@ title: As Dusk Falls
 developer: Interior Night
 publisher: Xbox Game Studios
 platform: Steam
-releaseDate: 2022-07-19
+published: 2022-07-19
 howlongtobeat: 14
 difficulty: --
 trophyGuide: --

@@ -6,7 +6,7 @@ title: Halo 4
 developer: 343 Industries
 publisher: Microsoft Studios
 platform: Xbox 360
-releaseDate: 2012-11-06
+published: 2012-11-06
 howlongtobeat: 29
 difficulty: --
 trophyGuide: --

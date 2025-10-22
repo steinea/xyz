@@ -6,7 +6,7 @@ title: Guitar Hero World Tour
 developer: Neversoft
 publisher: Activision
 platform: Xbox 360
-releaseDate: 2008-10-26
+published: 2008-10-26
 howlongtobeat: 32
 difficulty: --
 trophyGuide: --

@@ -6,7 +6,7 @@ title: Little Big Planet 3
 developer: Sumo Digital
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2014-11-18
+published: 2014-11-18
 howlongtobeat: 16
 difficulty: --
 trophyGuide: --

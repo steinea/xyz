@@ -6,7 +6,7 @@ title: Turok
 developer: Propaganda Games
 publisher: 	Disney Interactive Studios
 platform: Xbox 360
-releaseDate: 2008-02-05
+published: 2008-02-05
 howlongtobeat: 10
 difficulty: --
 trophyGuide: --

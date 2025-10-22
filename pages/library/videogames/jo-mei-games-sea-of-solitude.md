@@ -7,7 +7,7 @@ title: Sea of Solitude
 developer: Jo-Mei Games
 publisher: Electronic Arts
 platform: PS4
-releaseDate: 2019-07-05
+published: 2019-07-05
 howlongtobeat: 5
 difficulty: 2/10
 trophyGuide: https://www.playstationtrophies.org/game/sea-of-solitude-na/guide/

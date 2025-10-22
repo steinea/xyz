@@ -7,7 +7,7 @@ title: EA Sports FC 26
 developer: EA Sports
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2025-09-26
+published: 2025-09-26
 howlongtobeat:
 difficulty:
 trophyGuide:

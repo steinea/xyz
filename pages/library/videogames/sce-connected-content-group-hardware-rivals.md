@@ -7,7 +7,7 @@ title: "Hardware: Rivals"
 developer: SCE Connected Content Group
 publisher: Sony Computer Entertainment
 platform: PS4
-releaseDate: 2016-01-05
+published: 2016-01-05
 howlongtobeat: 30
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/3778-hardware-rivals-trophy-guide

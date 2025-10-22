@@ -7,7 +7,7 @@ title: Oblivion Override
 developer: Humble Mill
 publisher: Paleo
 platform: Steam
-releaseDate: 2024-01-25
+published: 2024-01-25
 howlongtobeat: 15
 difficulty:
 trophyGuide:

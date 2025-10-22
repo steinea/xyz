@@ -6,7 +6,7 @@ title: Fallout 3
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 platform: Xbox 360
-releaseDate: 2008-10-28
+published: 2008-10-28
 howlongtobeat: 114
 difficulty: --
 trophyGuide: --

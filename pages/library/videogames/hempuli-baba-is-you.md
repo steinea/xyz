@@ -6,13 +6,13 @@ title: Baba Is You
 developer: Hempuli
 publisher: Hempuli
 platform: Steam
-releaseDate: 2019-03-12
+published: 2019-03-12
 howlongtobeat: 46
 difficulty: --
 trophyGuide: --
 durationHours: 23
 trophies: 18/18
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/736260/
 date: 2020-09-25
 ---

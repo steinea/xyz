@@ -6,13 +6,13 @@ title: Dorfromantik
 developer: Toukana Interactive
 publisher: Toukana Interactive
 platform: Steam
-releaseDate: 2022-04-28
+published: 2022-04-28
 howlongtobeat: 18
 difficulty: --
 trophyGuide: --
 durationHours: 61
 trophies: 85/85
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1455840/
 date: 2022-12-13
 ---

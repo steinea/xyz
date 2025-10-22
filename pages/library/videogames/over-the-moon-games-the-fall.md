@@ -7,7 +7,7 @@ title: The Fall
 developer: Over the Moon Games
 publisher: Over the Moon Games
 platform: PS4
-releaseDate: 2015-07-14
+published: 2015-07-14
 howlongtobeat: 3
 difficulty: 2/10
 trophyGuide: https://www.playstationtrophies.org/forum/topic/252942-the-fall-~-trophy-guide-and-roadmap/

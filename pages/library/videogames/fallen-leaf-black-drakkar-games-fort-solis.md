@@ -7,7 +7,7 @@ title: Fort Solis
 developer: Fallen Leaf, Black Drakkar Games
 publisher: Dear Villagers
 platform: PS5
-releaseDate: 2023-08-22
+published: 2023-08-22
 howlongtobeat: 6
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/20800-fort-solis-trophy-guide

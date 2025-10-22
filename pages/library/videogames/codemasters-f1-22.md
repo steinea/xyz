@@ -6,7 +6,7 @@ title: F1 22
 developer: Codemasters
 publisher: EA Sports
 platform: Steam
-releaseDate: 2022-07-01
+published: 2022-07-01
 howlongtobeat: 88
 difficulty: --
 trophyGuide: --

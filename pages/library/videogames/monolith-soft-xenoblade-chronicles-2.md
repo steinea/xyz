@@ -7,7 +7,7 @@ title: "Xenoblade Chronicles 2"
 developer: Monolith Soft
 publisher: Nintendo
 platform: Switch
-releaseDate: 2017-12-01
+published: 2017-12-01
 howlongtobeat: 256
 difficulty:
 trophyGuide:

@@ -7,7 +7,7 @@ title: "Dynasty Warriors: Origins"
 developer: Omega Force
 publisher: Koei Tecmo
 platform: PS5
-releaseDate: 2025-01-17
+published: 2025-01-17
 howlongtobeat: 87
 difficulty:
 trophyGuide:

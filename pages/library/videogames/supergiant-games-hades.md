@@ -7,7 +7,7 @@ title: Hades
 developer: Supergiant Games
 publisher: Supergiant Games
 platform: PS5
-releaseDate: 2020-09-17
+published: 2020-09-17
 howlongtobeat: 96
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/13057-hades-trophy-guide

@@ -7,7 +7,7 @@ title: The Last of Us Part I
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2022-09-02
+published: 2022-09-02
 howlongtobeat: 23
 difficulty: --
 trophyGuide: https://psnprofiles.com/guide/15152-the-last-of-us-part-i-platinum-guide

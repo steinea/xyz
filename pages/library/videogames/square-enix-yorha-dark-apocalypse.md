@@ -7,7 +7,7 @@ title: "YoRHa: Dark Apocalypse"
 developer: Square Enix
 publisher: Square Enix
 platform: PS4
-releaseDate: 2019-10-29
+published: 2019-10-29
 howlongtobeat: 250
 difficulty: --
 trophyGuide: --

@@ -6,7 +6,7 @@ title: The Banished Vault
 developer: Lunar Division
 publisher: Bithell Games
 platform: Steam
-releaseDate: 2023-07-25
+published: 2023-07-25
 howlongtobeat: 6
 difficulty: --
 trophyGuide: --

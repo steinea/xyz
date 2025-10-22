@@ -6,7 +6,7 @@ title: "Halo: Reach"
 developer: Bungie
 publisher: Microsoft Game Studios
 platform: Xbox 360
-releaseDate: 2010-09-14
+published: 2010-09-14
 howlongtobeat: 50
 difficulty: --
 trophyGuide: --

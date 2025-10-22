@@ -7,7 +7,7 @@ title: Marvel's Wolverine
 developer: Insomniac Games
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: TBD
+published: TBD
 howlongtobeat:
 difficulty:
 trophyGuide:

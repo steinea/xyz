@@ -7,7 +7,7 @@ title: "Hyrule Warriors: Definitive Edition"
 developer: Omega Force, Team Ninja
 publisher: Nintendo
 platform: Switch
-releaseDate: 2018-05-18
+published: 2018-05-18
 howlongtobeat: 222
 difficulty:
 trophyGuide:

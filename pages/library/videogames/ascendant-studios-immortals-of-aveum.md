@@ -6,7 +6,7 @@ title: Immortals of Aveum
 developer: Ascendant Studios
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2023-08-22
+published: 2023-08-22
 howlongtobeat: 28
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/19291-immortals-of-aveum-trophy-guide

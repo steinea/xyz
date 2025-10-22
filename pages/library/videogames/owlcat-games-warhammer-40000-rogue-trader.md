@@ -7,7 +7,7 @@ title: "Warhammer 40,000: Rogue Trader"
 developer: Owlcat Games
 publisher: Owlcat Games
 platform: Steam
-releaseDate: 2023-12-07
+published: 2023-12-07
 howlongtobeat: 151
 difficulty:
 trophyGuide:

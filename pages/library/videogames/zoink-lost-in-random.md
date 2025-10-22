@@ -6,7 +6,7 @@ title: Lost in Random
 developer: Zoink
 publisher: Electronic Arts
 platform: PS5
-releaseDate: 2021-09-10
+published: 2021-09-10
 howlongtobeat: 18
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/12996-lost-in-random-trophy-guide

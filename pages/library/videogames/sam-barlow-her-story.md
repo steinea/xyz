@@ -6,13 +6,13 @@ title: Her Story
 developer: Sam Barlow
 publisher: Sam Barlow
 platform: Steam
-releaseDate: 2015-06-24
+published: 2015-06-24
 howlongtobeat: 4
 difficulty: --
 trophyGuide: --
 durationHours: 3
 trophies: 13/13
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/368370/?tab=achievements
 date: 2017-09-06
 ---

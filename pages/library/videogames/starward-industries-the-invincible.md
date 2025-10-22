@@ -7,7 +7,7 @@ title: The Invincible
 developer: Starward Industries
 publisher: 11 Bit Studios
 platform: PS5
-releaseDate: 2023-11-06
+published: 2023-11-06
 howlongtobeat: 11
 difficulty:
 trophyGuide:

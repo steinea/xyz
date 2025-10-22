@@ -6,7 +6,7 @@ title: Really Bad Chess
 developer: Zach Gage
 publisher: Noodlecake Studios
 platform: Google
-releaseDate: 2016-10-13
+published: 2016-10-13
 howlongtobeat: --
 difficulty: --
 trophyGuide: --

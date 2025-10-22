@@ -7,7 +7,7 @@ title: Road Not Taken
 developer: Spry Fox
 publisher: Spry Fox
 platform: PS4
-releaseDate: 2014-08-05
+published: 2014-08-05
 howlongtobeat: 15
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/3408-road-not-taken-trophy-guide

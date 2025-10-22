@@ -7,7 +7,7 @@ title: "Death Stranding: Director's Cut"
 developer: Kojima Productions
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2021-09-24
+published: 2021-09-24
 howlongtobeat: 100
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/9355-death-stranding-trophy-guide

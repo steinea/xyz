@@ -7,7 +7,7 @@ title: "The Legend of Zelda: Breath of the Wild"
 developer: Nintendo
 publisher: Nintendo
 platform: Switch
-releaseDate: 2017-03-03
+published: 2017-03-03
 howlongtobeat: 193
 difficulty:
 trophyGuide:

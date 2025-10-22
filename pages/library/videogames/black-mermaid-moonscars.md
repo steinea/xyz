@@ -7,7 +7,7 @@ title: Moonscars
 developer: Black Mermaid
 publisher: Humble Games
 platform: Steam
-releaseDate: 2022-09-27
+published: 2022-09-27
 howlongtobeat: 16
 difficulty:
 trophyGuide:

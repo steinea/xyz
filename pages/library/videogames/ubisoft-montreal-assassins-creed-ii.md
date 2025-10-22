@@ -6,7 +6,7 @@ title: Assassin's Creed II
 developer: Ubisoft Montréal
 publisher: Ubisoft
 platform: Xbox 360
-releaseDate: 2009-11-17
+published: 2009-11-17
 howlongtobeat: 36
 difficulty: --
 trophyGuide: --

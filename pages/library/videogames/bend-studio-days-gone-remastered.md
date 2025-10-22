@@ -7,7 +7,7 @@ title: Days Gone Remastered
 developer: Bend Studio
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2025-04-25
+published: 2025-04-25
 howlongtobeat: 62
 difficulty: 3/10
 trophyGuide: https://www.powerpyx.com/days-gone-trophy-guide-roadmap/

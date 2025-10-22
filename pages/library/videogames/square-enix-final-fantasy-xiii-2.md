@@ -7,7 +7,7 @@ title: Final Fantasy XIII-2
 developer: Square Enix
 publisher: Square Enix
 platform: PS3
-releaseDate: 2011-12-15
+published: 2011-12-15
 howlongtobeat: 72
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/3837-final-fantasy-xiii-2-trophy-guide

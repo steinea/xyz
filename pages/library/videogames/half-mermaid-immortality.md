@@ -6,13 +6,13 @@ title: Immortality
 developer: Half Mermaid Productions
 publisher: Half Mermaid Productions
 platform: Xbox
-releaseDate: 2022-08-30
+published: 2022-08-30
 howlongtobeat: 17
 difficulty: --
 trophyGuide: --
 durationHours: 16
 trophies: 27/27
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/immortality-xbox/achievements/#2209141
 date: 2023-08-19
 ---

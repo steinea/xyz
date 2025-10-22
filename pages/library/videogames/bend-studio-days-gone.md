@@ -7,7 +7,7 @@ title: Days Gone
 developer: Bend Studio
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2019-04-26
+published: 2019-04-26
 howlongtobeat: 66
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/8664-days-gone-trophy-guide

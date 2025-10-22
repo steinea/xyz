@@ -6,13 +6,13 @@ title: Papers, Please
 developer: Lucas Pope
 publisher: 3909 LLC
 platform: Steam
-releaseDate: 2013-08-08
+published: 2013-08-08
 howlongtobeat: 16
 difficulty: --
 trophyGuide: --
 durationHours: 13
 trophies: 13/13
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/239030/
 date: 2020-10-13
 ---

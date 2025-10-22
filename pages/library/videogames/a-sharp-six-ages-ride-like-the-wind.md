@@ -6,7 +6,7 @@ title: "Six Ages: Ride Like the Wind"
 developer: A Sharp
 publisher: Kitfox Games
 platform: Steam
-releaseDate: 2018-06-28
+published: 2018-06-28
 howlongtobeat: 13
 difficulty: --
 trophyGuide: --

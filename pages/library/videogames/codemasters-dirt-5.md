@@ -7,7 +7,7 @@ title: Dirt 5
 developer: Codemasters
 publisher: Codemasters
 platform: PS5
-releaseDate: 2020-11-06
+published: 2020-11-06
 howlongtobeat: 25
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/11801-dirt-5-trophy-guide

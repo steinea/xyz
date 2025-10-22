@@ -7,7 +7,7 @@ title: Afterimage
 developer: Aurogon Shanghai
 publisher: Maximum Entertainment
 platform: Steam
-releaseDate: 2023-04-25
+published: 2023-04-25
 howlongtobeat: 43
 difficulty:
 trophyGuide:

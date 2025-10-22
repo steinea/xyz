@@ -7,7 +7,7 @@ title: "Senua's Saga: Hellblade II"
 developer: Ninja Theory
 publisher: Xbox Game Studios
 platform: PS5
-releaseDate: 2024-05-21
+published: 2024-05-21
 howlongtobeat: 9
 difficulty:
 trophyGuide:

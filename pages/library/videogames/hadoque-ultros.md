@@ -7,7 +7,7 @@ title: Ultros
 developer: Hadoque
 publisher: Kepler Interactive
 platform: Steam
-releaseDate: 2024-02-13
+published: 2024-02-13
 howlongtobeat: 31
 difficulty:
 trophyGuide:

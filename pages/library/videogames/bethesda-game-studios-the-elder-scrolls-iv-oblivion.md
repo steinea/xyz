@@ -6,13 +6,13 @@ title: 'The Elder Scrolls IV: Oblivion'
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 platform: 360
-releaseDate: 2006-03-20
+published: 2006-03-20
 howlongtobeat: 175
 difficulty: --
 trophyGuide: --
 durationHours:
 trophies: 60/60
-percent: 100%
+percent: 100
 link: --
 date: 2011-11-05
 ---

@@ -6,13 +6,13 @@ title: Journey
 developer: Thatgamecompany
 publisher: Sony Computer Entertainment
 platform: PS4
-releaseDate: 2012-03-13
+published: 2012-03-13
 howlongtobeat: 6
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/1271-journey-trophy-guide
 durationHours: 10
 trophies: 14/14
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/3705-journey/barrelofjuice
 date: 2017-08-15
 ---

@@ -7,7 +7,7 @@ title: Returnal
 developer: Housemarque
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2021-04-30
+published: 2021-04-30
 howlongtobeat: 64
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/12324-returnal-trophy-guide

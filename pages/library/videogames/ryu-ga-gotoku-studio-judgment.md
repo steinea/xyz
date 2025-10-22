@@ -7,7 +7,7 @@ title: Judgment
 developer: Ryu Ga Gotoku Studio
 publisher: Sega
 platform: PS5
-releaseDate: 2018-12-13
+published: 2018-12-13
 howlongtobeat: 98
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/13909-judgment-trophy-guide

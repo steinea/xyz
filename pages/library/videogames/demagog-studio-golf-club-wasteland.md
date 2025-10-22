@@ -6,13 +6,13 @@ title: "Golf Club: Wasteland"
 developer: Demagog Studio
 publisher: Untold Tales
 platform: Google
-releaseDate: 2018-06-20
+published: 2018-06-20
 howlongtobeat: 6
 difficulty: --
 trophyGuide: --
 durationHours:
 trophies: 14/14
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/golf-club-wasteland-android/achievements/#1644034
 date: 2021-11-04
 ---

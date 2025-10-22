@@ -6,7 +6,7 @@ title: Manifold Garden
 developer: William Chyr Studio
 publisher: William Chyr Studio
 platform: Steam
-releaseDate: 2019-10-18
+published: 2019-10-18
 howlongtobeat: 9
 difficulty: --
 trophyGuide: --

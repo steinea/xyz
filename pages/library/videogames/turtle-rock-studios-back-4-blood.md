@@ -7,7 +7,7 @@ title: Back 4 Blood
 developer: Turtle Rock Studios
 publisher: Warner Bros. Games
 platform: PS5
-releaseDate: 2021-10-12
+published: 2021-10-12
 howlongtobeat: 101
 difficulty: 9/10
 trophyGuide: https://psnprofiles.com/guide/13154-back-4-blood-trophy-guide

@@ -7,7 +7,7 @@ title: Baldur's Gate 3
 developer: Larian Studios
 publisher: Larian Studios
 platform: Steam
-releaseDate: 2023-08-03
+published: 2023-08-03
 howlongtobeat: 174
 difficulty:
 trophyGuide:

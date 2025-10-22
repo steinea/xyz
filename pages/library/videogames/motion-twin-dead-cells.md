@@ -7,7 +7,7 @@ title: Dead Cells
 developer: Motion Twin
 publisher: Motion Twin
 platform: Steam
-releaseDate: 2018-08-07
+published: 2018-08-07
 howlongtobeat: 91
 difficulty: 7/10
 trophyGuide: https://psnprofiles.com/guide/8191-dead-cells-trophy-guide

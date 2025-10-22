@@ -7,7 +7,7 @@ title: The Surge
 developer: Deck13 Interactive
 publisher: Focus Home Interactive
 platform: Steam
-releaseDate: 2017-05-16
+published: 2017-05-16
 howlongtobeat: 50
 difficulty:
 trophyGuide:

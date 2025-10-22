@@ -7,7 +7,7 @@ title: Nier Reincarnation
 developer: Applibot
 publisher: Square Enix
 platform: Google
-releaseDate: 2021-02-18
+published: 2021-02-18
 howlongtobeat: 41
 difficulty: --
 trophyGuide: --

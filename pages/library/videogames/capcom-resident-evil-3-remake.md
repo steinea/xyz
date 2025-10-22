@@ -7,7 +7,7 @@ title: Resident Evil 3 Remake
 developer: Capcom
 publisher: Capcom
 platform: PS5
-releaseDate: 2020-04-03
+published: 2020-04-03
 howlongtobeat: 21
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/9962-resident-evil-3-trophy-guide

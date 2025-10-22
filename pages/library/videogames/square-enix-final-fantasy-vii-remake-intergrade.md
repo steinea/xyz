@@ -7,7 +7,7 @@ title: Final Fantasy VII Remake Intergrade
 developer: Square Enix
 publisher: Square Enix
 platform: PS5
-releaseDate: 2020-04-10
+published: 2020-04-10
 howlongtobeat: 86
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/9997-final-fantasy-vii-remake-trophy-guide

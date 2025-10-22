@@ -6,13 +6,13 @@ title: Dark Souls III
 developer: FromSoftware
 publisher: Bandai Namco Entertainment
 platform: Steam
-releaseDate: 2016-03-24
+published: 2016-03-24
 howlongtobeat: 100
 difficulty: --
 trophyGuide: --
 durationHours: 142
 trophies: 43/43
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/374320/
 date: 2020-05-10
 ---

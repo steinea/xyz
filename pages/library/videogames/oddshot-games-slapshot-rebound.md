@@ -6,7 +6,7 @@ title: "Slapshot: Rebound"
 developer: Oddshot Games
 publisher: Oddshot Games
 platform: Steam
-releaseDate: 2024-04-11
+published: 2024-04-11
 howlongtobeat: 9
 difficulty: --
 trophyGuide: --

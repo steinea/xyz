@@ -7,7 +7,7 @@ title: "Xenoblade Chronicles 3"
 developer: Monolith Soft
 publisher: Nintendo
 platform: Switch
-releaseDate: 2022-07-29
+published: 2022-07-29
 howlongtobeat: 172
 difficulty:
 trophyGuide:

@@ -6,7 +6,7 @@ title: EA Sports WRC
 developer: Codemasters
 publisher: EA Sports
 platform: PS5
-releaseDate: 2023-11-03
+published: 2023-11-03
 howlongtobeat: 37
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/17977-ea-sports-wrc-trophy-guide

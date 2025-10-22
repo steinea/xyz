@@ -7,7 +7,7 @@ title: Baldur's Gate
 developer: BioWare
 publisher: Black Isle Studios, Interplay Entertainment
 platform: GOG Galaxy
-releaseDate: 1998-12-21
+published: 1998-12-21
 howlongtobeat: 95
 difficulty: 7/10
 trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=745591313

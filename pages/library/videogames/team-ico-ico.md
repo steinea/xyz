@@ -7,13 +7,13 @@ title: Ico
 developer: Team Ico
 publisher: Sony Computer Entertainment
 platform: PS3
-releaseDate: 2001-09-25
+published: 2001-09-25
 howlongtobeat: 8
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/486-ico-trophy-guide
 durationHours:
 trophies: 31/31
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/1035-ico/barrelofjuice
 date: 2019-10-21
 ---

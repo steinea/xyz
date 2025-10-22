@@ -7,7 +7,7 @@ title: Secret Ponchos
 developer: Switchblade Monkeys
 publisher: Switchblade Monkeys
 platform: PS4
-releaseDate: 2014-12-02
+published: 2014-12-02
 howlongtobeat: 15
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/17033-secret-ponchos-trophy-guide

@@ -7,7 +7,7 @@ title: Castlevania Anniversary Collection
 developer: Konami
 publisher: Konami
 platform: PS4
-releaseDate: 2019-05-16
+published: 2019-05-16
 howlongtobeat: 27
 difficulty: 5/10
 trophyGuide: https://www.playstationtrophies.org/forum/topic/313715-castlevania-anniversary-collection-na-trophy-guide-and-roadmap/

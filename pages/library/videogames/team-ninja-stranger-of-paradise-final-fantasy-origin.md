@@ -7,7 +7,7 @@ title: "Stranger of Paradise: Final Fantasy Origin"
 developer: Team Ninja
 publisher: Square Enix
 platform: PS5
-releaseDate: 2022-03-14
+published: 2022-03-14
 howlongtobeat: 54
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/14060-stranger-of-paradise-final-fantasy-origin-trophy-guide

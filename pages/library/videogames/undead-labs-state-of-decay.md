@@ -6,7 +6,7 @@ title: State of Decay
 developer: Undead Labs
 publisher: Microsoft Studios
 platform: Xbox 360
-releaseDate: 2013-06-05
+published: 2013-06-05
 howlongtobeat: 37
 difficulty: --
 trophyGuide: --

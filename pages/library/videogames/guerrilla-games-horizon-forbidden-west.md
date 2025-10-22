@@ -7,7 +7,7 @@ title: Horizon Forbidden West
 developer: Guerrilla Games
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2022-02-18
+published: 2022-02-18
 howlongtobeat: 90
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/13933-horizon-forbidden-west-trophy-guide

@@ -7,7 +7,7 @@ title: "Clair Obscur: Expedition 33"
 developer: Sandfall Interactive
 publisher: Kepler Interactive
 platform: PS5
-releaseDate: 2025-04-24
+published: 2025-04-24
 howlongtobeat: 61
 difficulty:
 trophyGuide:

@@ -7,7 +7,7 @@ title: Final Fantasy XV Royal Edition
 developer: Luminous Productions
 publisher: Square Enix
 platform: PS4
-releaseDate: 2016-11-29
+published: 2016-11-29
 howlongtobeat: 115
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/5390-final-fantasy-xv-trophy-guide

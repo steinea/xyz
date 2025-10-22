@@ -7,7 +7,7 @@ title: Tails of Iron
 developer: Odd Bug Studio
 publisher: United Label
 platform: Steam
-releaseDate: 2021-09-17
+published: 2021-09-17
 howlongtobeat: 11
 difficulty:
 trophyGuide:

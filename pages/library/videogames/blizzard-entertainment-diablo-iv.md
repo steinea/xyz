@@ -7,7 +7,7 @@ title: Diablo IV
 developer: Blizzard Entertainment
 publisher: Blizzard Entertainment
 platform: Steam
-releaseDate: 2023-06-05
+published: 2023-06-05
 howlongtobeat: 173
 difficulty:
 trophyGuide:

@@ -6,13 +6,13 @@ title: Cloudpunk
 developer: Ion Lands
 publisher: Maple Whispering Limited
 platform: Steam
-releaseDate: 2020-04-23
+published: 2020-04-23
 howlongtobeat: 15
 difficulty: --
 trophyGuide: --
 durationHours: 11
 trophies: 79/79
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/746850/
 date: 2021-03-23
 ---

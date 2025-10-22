@@ -7,7 +7,7 @@ title: Final Fantasy XIV Online
 developer: Square Enix
 publisher: Square Enix
 platform: PS4
-releaseDate: 2013-08-27
+published: 2013-08-27
 howlongtobeat: 500
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/12584-final-fantasy-xiv-a-realm-reborn-trophy-guide

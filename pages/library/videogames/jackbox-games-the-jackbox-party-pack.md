@@ -6,7 +6,7 @@ title: The Jackbox Party Pack
 developer: Jackbox Games
 publisher: Telltale Publishing
 platform: PS4
-releaseDate: 2014-11-26
+published: 2014-11-26
 howlongtobeat: 16
 difficulty: --
 trophyGuide: --

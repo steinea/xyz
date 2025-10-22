@@ -6,7 +6,7 @@ title: Halo 3
 developer: Bungie
 publisher: Microsoft Game Studios
 platform: Xbox 360
-releaseDate:  2007-09-25
+published: 2007-09-25
 howlongtobeat: 23
 difficulty: --
 trophyGuide: --

@@ -6,13 +6,13 @@ title: Transistor
 developer: Supergiant Games
 publisher: Supergiant Games
 platform: PS4
-releaseDate: 2014-05-20
+published: 2014-05-20
 howlongtobeat: 16
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/944-transistor-trophy-guide
 durationHours: 13
 trophies: 34/34
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/2619-transistor/barrelofjuice
 date: 2014-06-03
 ---

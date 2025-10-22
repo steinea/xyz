@@ -7,7 +7,7 @@ title: Death Stranding
 developer: Kojima Productions
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2019-11-08
+published: 2019-11-08
 howlongtobeat: 113
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/9355-death-stranding-trophy-guide

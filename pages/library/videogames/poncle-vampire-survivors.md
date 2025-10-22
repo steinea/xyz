@@ -6,7 +6,7 @@ title: Vampire Survivors
 developer: Poncle
 publisher: Poncle
 platform: Xbox
-releaseDate: 2022-10-20
+published: 2022-10-20
 howlongtobeat: 50
 difficulty: --
 trophyGuide: --

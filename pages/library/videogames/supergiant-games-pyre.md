@@ -6,13 +6,13 @@ title: Pyre
 developer: Supergiant Games
 publisher: Supergiant Games
 platform: Steam
-releaseDate: 2017-07-25
+published: 2017-07-25
 howlongtobeat: 21
 difficulty: --
 trophyGuide: --
 durationHours: 19
 trophies: 51/51
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/462770/
 date: 2020-12-26
 ---

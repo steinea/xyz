@@ -6,7 +6,7 @@ title: Dustborn
 developer: Red Thread Games
 publisher: Spotlight by Quantic Dream
 platform: Steam
-releaseDate: 2024-08-20
+published: 2024-08-20
 howlongtobeat: 22
 difficulty:
 trophyGuide:

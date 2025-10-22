@@ -7,13 +7,13 @@ title: Bloodborne
 developer: FromSoftware
 publisher: Sony Computer Entertainment
 platform: PS4
-releaseDate: 2015-03-24
+published: 2015-03-24
 howlongtobeat: 76
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/2669-bloodborne-trophy-guide
 durationHours: 87
 trophies: 40/40
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/3431-bloodborne/barrelofjuice
 date: 2017-05-22
 ---

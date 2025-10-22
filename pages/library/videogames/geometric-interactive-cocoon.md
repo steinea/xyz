@@ -6,7 +6,7 @@ title: Cocoon
 developer: Geometric Interactive
 publisher: Annapurna Interactive
 platform: Xbox
-releaseDate: 2023-09-29
+published: 2023-09-29
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --

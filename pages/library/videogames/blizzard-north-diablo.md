@@ -7,7 +7,7 @@ title: Diablo
 developer: Blizzard North
 publisher: Blizzard Entertainment
 platform: GOG Galaxy
-releaseDate: 1997-01-03
+published: 1997-01-03
 howlongtobeat: 29
 difficulty:
 trophyGuide:

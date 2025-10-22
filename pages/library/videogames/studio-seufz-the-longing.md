@@ -6,13 +6,13 @@ title: The Longing
 developer: Studio Seufz
 publisher: Application Systems Heidelberg
 platform: Steam
-releaseDate: 2020-03-05
+published: 2020-03-05
 howlongtobeat: 55
 difficulty: --
 trophyGuide: --
 durationHours: 17
 trophies: 25/25
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/893850/
 date: 2021-02-10
 ---

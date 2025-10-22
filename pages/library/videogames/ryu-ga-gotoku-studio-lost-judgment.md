@@ -7,7 +7,7 @@ title: Lost Judgment
 developer: Ryu Ga Gotoku Studio
 publisher: Sega
 platform: PS5
-releaseDate: 2021-09-24
+published: 2021-09-24
 howlongtobeat: 106
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/17772-lost-judgment-trophy-guide

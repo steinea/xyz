@@ -6,7 +6,7 @@ title: Pako Caravan
 developer: Tree Men Games
 publisher: Tree Men Games
 platform: Google
-releaseDate: 2020-08-13
+published: 2020-08-13
 howlongtobeat: --
 difficulty: --
 trophyGuide: --

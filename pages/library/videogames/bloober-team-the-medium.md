@@ -7,7 +7,7 @@ title: The Medium
 developer: Bloober Team
 publisher: Bloober Team
 platform: PS5
-releaseDate: 2021-09-03
+published: 2021-09-03
 howlongtobeat: 10
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/14968-the-medium-trophy-guide

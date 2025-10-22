@@ -7,7 +7,7 @@ title: Resident Evil 4
 developer: Capcom
 publisher: Capcom
 platform: Steam
-releaseDate: 2005-01-11
+published: 2005-01-11
 howlongtobeat: 32
 difficulty: 5/10
 trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=1300813136

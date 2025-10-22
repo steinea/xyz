@@ -7,7 +7,7 @@ title: Path of Exile
 developer: Grinding Gear Games
 publisher: Grinding Gear Games
 platform: Steam
-releaseDate: 2013-10-23
+published: 2013-10-23
 howlongtobeat: 113
 difficulty:
 trophyGuide:

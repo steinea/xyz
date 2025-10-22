@@ -6,13 +6,13 @@ title: "Monument Valley: Panoramic Edition"
 developer: Ustwo Games
 publisher: Ustwo Games
 platform: Steam
-releaseDate: 2022-07-12
+published: 2022-07-12
 howlongtobeat: 3
 difficulty: --
 trophyGuide: --
 durationHours: 2
 trophies: 19/19
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/monument-valley-steam/achievements/#1624301
 date: 2024-07-12
 ---

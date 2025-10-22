@@ -7,7 +7,7 @@ title: "Chicory: A Colorful Tale"
 developer: Wishes Unlimited
 publisher: Finji
 platform: PS5
-releaseDate: 2021-06-10
+published: 2021-06-10
 howlongtobeat: 21
 difficulty:
 trophyGuide: https://psnprofiles.com/guide/17516-chicory-a-colorful-tale-platinum-walkthrough

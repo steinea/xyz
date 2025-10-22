@@ -6,7 +6,7 @@ title: I Am Alive
 developer: Ubisoft Shanghai
 publisher: Ubisoft
 platform: Xbox 360
-releaseDate: 2012-03-07
+published: 2012-03-07
 howlongtobeat: 8
 difficulty: --
 trophyGuide: --

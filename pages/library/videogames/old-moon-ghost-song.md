@@ -7,7 +7,7 @@ title: Ghost Song
 developer: Old Moon
 publisher: Humble Games
 platform: Steam
-releaseDate: 2022-11-03
+published: 2022-11-03
 howlongtobeat: 20
 difficulty:
 trophyGuide:

@@ -6,7 +6,7 @@ title: Into the Breach
 developer: Subset Games
 publisher: Subset Games
 platform: Steam
-releaseDate: 2018-02-27
+published: 2018-02-27
 howlongtobeat: 51
 difficulty: --
 trophyGuide: --

@@ -6,7 +6,7 @@ title: Fruit Ninja Kinect
 developer: Halfbrick
 publisher: Halfbrick
 platform: Xbox 360
-releaseDate: 2010-08-10
+published: 2010-08-10
 howlongtobeat: 7
 difficulty: --
 trophyGuide: --

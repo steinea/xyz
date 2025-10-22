@@ -7,7 +7,7 @@ title: Trine 2
 developer: Frozenbyte
 publisher: Frozenbyte
 platform: PS4
-releaseDate: 2011-12-07
+published: 2011-12-07
 howlongtobeat: 25
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/12615-trine-2-complete-story-trophy-guide

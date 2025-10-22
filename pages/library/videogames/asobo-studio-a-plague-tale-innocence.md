@@ -7,7 +7,7 @@ title: "A Plague Tale: Innocence"
 developer: Asobo Studio
 publisher: Focus Home Interactive
 platform: PS5
-releaseDate: 2019-05-14
+published: 2019-05-14
 howlongtobeat: 16
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/9822-a-plague-tale-innocence-trophy-guide

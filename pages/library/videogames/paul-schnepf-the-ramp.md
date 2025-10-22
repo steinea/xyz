@@ -6,13 +6,13 @@ title: The Ramp
 developer: Paul Schnepf
 publisher: hyperparadise
 platform: Steam
-releaseDate: 2021-08-03
+published: 2021-08-03
 howlongtobeat: --
 difficulty: --
 trophyGuide: --
 durationHours: 1
 trophies: 12/12
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1506510/
 date: 2022-02-21
 ---

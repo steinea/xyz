@@ -6,7 +6,7 @@ title: Saltsea Chronicles
 developer: Die Gute Fabrik
 publisher: Die Gute Fabrik
 platform: Steam
-releaseDate: 2023-10-12
+published: 2023-10-12
 howlongtobeat: 32
 difficulty: --
 trophyGuide: --

@@ -7,7 +7,7 @@ title: "Xenoblade Chronicles 2: Torna – The Golden Country"
 developer: Monolith Soft
 publisher: Nintendo
 platform: Switch
-releaseDate: 2018-09-14
+published: 2018-09-14
 howlongtobeat: 38
 difficulty:
 trophyGuide:

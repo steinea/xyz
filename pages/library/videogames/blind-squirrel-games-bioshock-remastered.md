@@ -7,7 +7,7 @@ title: BioShock Remastered
 developer: Blind Squirrel Games
 publisher: 2K
 platform: PS4
-releaseDate: 2016-09-13
+published: 2016-09-13
 howlongtobeat: 23
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/5341-bioshock-trophy-guide

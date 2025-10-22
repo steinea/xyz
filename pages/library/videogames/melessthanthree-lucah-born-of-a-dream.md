@@ -7,7 +7,7 @@ title: "Lucah: Born of a Dream"
 developer: melessthanthree
 publisher: Syndicate Atomic
 platform: Steam
-releaseDate: 2018-08-21
+published: 2018-08-21
 howlongtobeat: 22
 difficulty:
 trophyGuide:

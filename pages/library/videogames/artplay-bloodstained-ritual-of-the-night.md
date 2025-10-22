@@ -7,7 +7,7 @@ title: "Bloodstained: Ritual of the Night"
 developer: ArtPlay
 publisher: 505 Games
 platform: PS4
-releaseDate: 2019-06-18
+published: 2019-06-18
 howlongtobeat: 35
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/8805-bloodstained-ritual-of-the-night-trophy-guide

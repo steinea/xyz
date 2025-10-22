@@ -6,7 +6,7 @@ title: "Stray Gods: The Roleplaying Musical"
 developer: Summerfall Studios
 publisher: Humble Games
 platform: Steam
-releaseDate: 2023-04-10
+published: 2023-04-10
 howlongtobeat: 20
 difficulty: --
 trophyGuide: --

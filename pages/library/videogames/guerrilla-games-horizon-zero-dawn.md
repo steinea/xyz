@@ -7,7 +7,7 @@ title: Horizon Zero Dawn
 developer: Guerrilla Games
 publisher: Sony Interactive Entertainment
 platform: PS4
-releaseDate: 2017-02-28
+published: 2017-02-28
 howlongtobeat: 76
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/5810-horizon-zero-dawn-trophy-guide

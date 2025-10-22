@@ -7,7 +7,7 @@ title: "The Dark Pictures Anthology: House of Ashes"
 developer: Supermassive Games
 publisher: Bandai Namco Entertainment
 platform: PS5
-releaseDate: 2021-10-22
+published: 2021-10-22
 howlongtobeat: 17
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/13278-the-dark-pictures-anthology-house-of-ashes-trophy-guide

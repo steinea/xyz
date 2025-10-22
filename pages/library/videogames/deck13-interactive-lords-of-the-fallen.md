@@ -9,7 +9,7 @@ developer:
   - CI Games
 publisher: CI Games
 platform: PS4
-releaseDate: 2014-10-28
+published: 2014-10-28
 howlongtobeat: 46
 difficulty:
 trophyGuide:

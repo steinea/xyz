@@ -6,7 +6,7 @@ title: Stars Die
 developer: Eric Juvi
 publisher: Eric Juvi
 platform: Steam
-releaseDate: 2020-12-04
+published: 2020-12-04
 howlongtobeat: 3
 difficulty: --
 trophyGuide: --

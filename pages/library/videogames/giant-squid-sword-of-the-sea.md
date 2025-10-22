@@ -7,13 +7,13 @@ title: Sword of the Sea
 developer: Giant Squid
 publisher: Giant Squid
 platform: PS5
-releaseDate: 2025-08-19
+published: 2025-08-19
 howlongtobeat: 6
 difficulty: 4/10
 trophyGuide: https://www.powerpyx.com/sword-of-the-sea-trophy-guide-roadmap/
 durationHours: 11
 trophies: 48/48
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/35895-sword-of-the-sea/barrelofjuice
 backloggd:
 exophase:

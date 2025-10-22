@@ -7,7 +7,7 @@ title: "Blacklight: Retribution"
 developer: Hardsuit Labs
 publisher: Perfect World Entertainment
 platform: PS4
-releaseDate: 2013-11-15
+published: 2013-11-15
 howlongtobeat: 60
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/1147-blacklight-retribution-trophy-guide

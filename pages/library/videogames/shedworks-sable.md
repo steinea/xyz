@@ -6,7 +6,7 @@ title: Sable
 developer: Shedworks
 publisher: Raw Fury
 platform: Xbox
-releaseDate: 2021-09-23
+published: 2021-09-23
 howlongtobeat: 21
 difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/18412-sable-trophy-guide

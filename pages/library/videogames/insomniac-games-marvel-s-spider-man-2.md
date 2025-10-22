@@ -7,7 +7,7 @@ title: Marvel's Spider Man 2
 developer: Insomniac Games
 publisher: Sony Interactive Entertainment
 platform: PS5
-releaseDate: 2023-10-20
+published: 2023-10-20
 howlongtobeat: 29
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/17897-marvels-spider-man-2-trophy-guide

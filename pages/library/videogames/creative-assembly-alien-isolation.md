@@ -6,7 +6,7 @@ title: "Alien: Isolation"
 developer: Creative Assembly
 publisher: Sega
 platform: PS4
-releaseDate: 2014-10-06
+published: 2014-10-06
 howlongtobeat: 34
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/2570-alien-isolation-trophy-guide

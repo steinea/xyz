@@ -7,7 +7,7 @@ title: Resident Evil 4 Remake
 developer: Capcom
 publisher: Capcom
 platform: PS5
-releaseDate: 2023-03-24
+published: 2023-03-24
 howlongtobeat: 64
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/16426-resident-evil-4-trophy-guide

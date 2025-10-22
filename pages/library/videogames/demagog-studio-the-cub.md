@@ -6,13 +6,13 @@ title: The Cub
 developer: Demagog Studio
 publisher: Untold Tales
 platform: PS5
-releaseDate: 2024-01-19
+published: 2024-01-19
 howlongtobeat: 4
 difficulty: --
 trophyGuide: --
 durationHours: 5
 trophies: 20/20
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/25510-the-cub/barrelofjuice
 date: 2024-03-07
 ---

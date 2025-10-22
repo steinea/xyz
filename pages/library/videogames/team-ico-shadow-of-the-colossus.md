@@ -7,13 +7,13 @@ title: Shadow of the Colossus
 developer: Team Ico
 publisher: Sony Computer Entertainment
 platform: PS3
-releaseDate: 2005-10-18
+published: 2005-10-18
 howlongtobeat: 21
 difficulty: --
 trophyGuide: --
 durationHours:
 trophies: 31/31
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/1034-shadow-of-the-colossus/barrelofjuice
 date: 2020-01-19
 ---

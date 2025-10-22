@@ -7,7 +7,7 @@ title: Blasphemous
 developer: The Game Kitchen
 publisher: Team17
 platform: Steam
-releaseDate: 2019-09-10
+published: 2019-09-10
 howlongtobeat: 29
 difficulty: --
 trophyGuide: --

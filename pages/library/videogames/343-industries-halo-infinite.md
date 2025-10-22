@@ -6,7 +6,7 @@ title: Halo Infinite
 developer: 343 Industries
 publisher: Xbox Game Studios
 platform: Xbox
-releaseDate: 2021-12-08
+published: 2021-12-08
 howlongtobeat: 29
 difficulty:
 trophyGuide:

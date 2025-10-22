@@ -6,13 +6,13 @@ title: Pentiment
 developer: Obsidian Entertainment
 publisher: Xbox Game Studios
 platform: Xbox
-releaseDate: 2022-11-15
+published: 2022-11-15
 howlongtobeat: 27
 difficulty: --
 trophyGuide: --
 durationHours: 19
 trophies: 41/41
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/pentiment-xbox/achievements/#2209141
 date: 2023-09-05
 ---

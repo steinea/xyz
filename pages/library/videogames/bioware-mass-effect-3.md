@@ -6,7 +6,7 @@ title: Mass Effect 3
 developer: BioWare
 publisher: Electronic Arts
 platform: Xbox 360
-releaseDate: 2012-03-06
+published: 2012-03-06
 howlongtobeat: 51
 difficulty: --
 trophyGuide: --

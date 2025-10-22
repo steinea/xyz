@@ -7,7 +7,7 @@ title: "Atlas Fallen: Reign of Sand"
 developer: Deck13 Interactive
 publisher: Focus Entertainment
 platform: Steam
-releaseDate: 2023-08-09
+published: 2023-08-09
 howlongtobeat: 28
 difficulty:
 trophyGuide:

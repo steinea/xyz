@@ -6,7 +6,7 @@ title: The Pale Beyond
 developer: Bellular Studios
 publisher: Fellow Traveller
 platform: Steam
-releaseDate: 2023-02-24
+published: 2023-02-24
 howlongtobeat: 15
 difficulty: --
 trophyGuide: --

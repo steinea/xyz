@@ -6,13 +6,13 @@ title: Adios
 developer: Mischief
 publisher: Mischief
 platform: Steam
-releaseDate: 2021-03-17
+published: 2021-03-17
 howlongtobeat: 2
 difficulty: --
 trophyGuide: --
 durationHours: 2
 trophies: 25/25
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/1271400/
 date: 2021-06-05
 ---

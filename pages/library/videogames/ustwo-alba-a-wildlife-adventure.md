@@ -6,7 +6,7 @@ title: "Alba: A Wildlife Adventure"
 developer: Ustwo
 publisher: Ustwo
 platform: Steam
-releaseDate: 2020-12-11
+published: 2020-12-11
 howlongtobeat: 4
 difficulty: --
 trophyGuide: --

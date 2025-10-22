@@ -6,13 +6,13 @@ title: 'Superbrothers: Sword & Sworcery EP'
 developer: Superbrothers and Capybara Games
 publisher: Capybara Games
 platform: Steam
-releaseDate: 2011-03-24
+published: 2011-03-24
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --
 durationHours: 3
 trophies: 14/14
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/SuperbrothersSwordampSworceryEP
 date: 2020-08-24
 ---

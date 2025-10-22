@@ -7,7 +7,7 @@ title: Blasphemous 2
 developer: The Game Kitchen
 publisher: Team17
 platform: Steam
-releaseDate: 2023-04-23
+published: 2023-04-23
 howlongtobeat: 26
 difficulty:
 trophyGuide:

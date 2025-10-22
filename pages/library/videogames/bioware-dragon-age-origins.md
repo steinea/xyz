@@ -7,7 +7,7 @@ title: "Dragon Age: Origins"
 developer: BioWare
 publisher: Electronic Arts
 platform: Xbox 360
-releaseDate: 2009-11-03
+published: 2009-11-03
 howlongtobeat: 105
 difficulty: --
 trophyGuide: --

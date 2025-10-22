@@ -6,13 +6,13 @@ title: 'Valiant Hearts: The Great War'
 developer: Ubisoft Montpellier
 publisher: Ubisoft
 platform: PS4
-releaseDate: 2014-06-25
+published: 2014-06-25
 howlongtobeat: 9
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/2989-valiant-hearts-the-great-war-trophy-guide
 durationHours: 18
 trophies: 20/20
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/2663-valiant-hearts-the-great-war/barrelofjuice
 date: 2015-03-27
 ---

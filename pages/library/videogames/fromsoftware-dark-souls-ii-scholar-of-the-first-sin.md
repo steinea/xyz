@@ -7,13 +7,13 @@ title: 'Dark Souls II: Scholar of the First Sin'
 developer: FromSoftware
 publisher: Bandai Namco Games
 platform: PS4
-releaseDate: 2014-03-11
+published: 2014-03-11
 howlongtobeat: 104
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/357-dark-souls-ii-trophy-guide
 durationHours: 85
 trophies: 38/38
-percent: 100%
+percent: 100
 link: https://psnprofiles.com/trophies/3483-dark-souls-ii-scholar-of-the-first-sin/barrelofjuice
 date: 2018-01-14
 ---

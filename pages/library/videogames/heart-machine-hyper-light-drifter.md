@@ -7,13 +7,13 @@ title: Hyper Light Drifter
 developer: Heart Machine
 publisher: Heart Machine
 platform: Steam
-releaseDate: 2016-03-31
+published: 2016-03-31
 howlongtobeat: 27
 difficulty: --
 trophyGuide: ---
 durationHours: 18
 trophies: 23/23
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/257850/
 date: 2021-10-13
 ---

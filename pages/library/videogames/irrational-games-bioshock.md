@@ -6,7 +6,7 @@ title: BioShock
 developer: Irrational Games
 publisher: 2K
 platform: PS3
-releaseDate: 2007-08-21
+published: 2007-08-21
 howlongtobeat: 23
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/5341-bioshock-trophy-guide

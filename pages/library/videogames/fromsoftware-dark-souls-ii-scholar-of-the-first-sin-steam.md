@@ -6,13 +6,13 @@ title: 'Dark Souls II: Scholar of the First Sin'
 developer: FromSoftware
 publisher: Bandai Namco Games
 platform: Steam
-releaseDate: 2014-03-11
+published: 2014-03-11
 howlongtobeat: 104
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/357-dark-souls-ii-trophy-guide
 durationHours: 47
 trophies: 38/38
-percent: 100%
+percent: 100
 link: https://steamcommunity.com/id/steinea/stats/335300/
 date: 2023-04-02
 ---

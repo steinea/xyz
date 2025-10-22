@@ -6,13 +6,13 @@ title: Gone Home
 developer: The Fullbright Company
 publisher: Annapurna Interactive
 platform: Steam
-releaseDate: 2013-08-15
+published: 2013-08-15
 howlongtobeat:
 difficulty:
 trophyGuide:
 durationHours: 2
 trophies: 10/10
-percent: 100%
+percent: 100
 link: https://www.exophase.com/game/gone-home-steam/achievements/#1624301
 date: 2024-10-06
 ---

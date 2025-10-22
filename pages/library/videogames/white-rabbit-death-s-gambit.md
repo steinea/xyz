@@ -7,7 +7,7 @@ title: "Death's Gambit: Afterlife"
 developer: White Rabbit
 publisher: Adult Swim Games
 platform: Steam
-releaseDate: 2021-09-30
+published: 2021-09-30
 howlongtobeat: 40
 difficulty:
 trophyGuide:
