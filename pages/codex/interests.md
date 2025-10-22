@@ -1,6 +1,6 @@
 ---
 layout: default
-category: codex
+category: library
 title: "Interests <em>(manual list)</em>"
 ---
 
