@@ -1,0 +1,108 @@
+---
+layout: default
+category: inventory
+title: Models
+---
+
+<!-- Category Counts -->
+{% assign totalLego = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "lego" and page.subcategory != "wishlist" %}
+      {% assign totalLego = totalLego | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalGunpla = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "gunpla" and page.subcategory != "wishlist" %}
+      {% assign totalGunpla = totalGunpla | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalWarhammer = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "warhammer" and page.subcategory != "wishlist" %}
+      {% assign totalWarhammer = totalWarhammer | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalWishlist = 0 %}
+  {% for page in site.pages %}
+    {% if page.subcategory contains "wishlist" and page.category contains "lego" or page.category contains "gunpla" or page.category contains "warhammer" %}
+      {% assign totalWishlist = totalWishlist | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('lego')">Lego ({{ totalLego }})</button>
+  <button class="tablinks" onclick="openTab('gunpla')">Gunpla ({{ totalGunpla }})</button>
+  <button class="tablinks" onclick="openTab('warhammer')">Warhammer ({{ totalWarhammer }})</button>
+  <button class="tablinks" onclick="openTab('wishlist')">Wishlist ({{ totalWishlist }})</button>
+</div>
+
+<br>
+
+<!-- Lego Tab -->
+<div id="lego" class="tabcontent">
+  {% assign sorted = site.pages | sort: "Title" %}
+    {% for item in sorted %}
+      {% if item.category contains "lego" and item.subcategory != "wishlist" %}
+        <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+        <br>
+      {% endif %}
+    {% endfor %}
+</div>
+
+<!-- Gunpla Tab -->
+<div id="gunpla" class="tabcontent">
+  {% assign sorted = site.pages | sort: "Title" %}
+    {% for item in sorted %}
+      {% if item.category contains "gunpla" and item.subcategory != "wishlist" %}
+        <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+        <br>
+      {% endif %}
+    {% endfor %}
+</div>
+
+<!-- Warhammer Tab -->
+<div id="warhammer" class="tabcontent">
+  {% assign sorted = site.pages | sort: "Title" %}
+    {% for item in sorted %}
+      {% if item.category contains "warhammer" and item.subcategory != "wishlist" %}
+        <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+        <br>
+      {% endif %}
+    {% endfor %}
+</div>
+
+<!-- Wishlist Tab -->
+<div id="wishlist" class="tabcontent">
+  {% assign sorted = site.pages | sort: "Title" %}
+    {% for item in sorted %}
+      {% if item.subcategory contains "wishlist" and item.category contains "lego" or item.category contains "gunpla" or item.category contains "warhammer" %}
+        <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+        <br>
+      {% endif %}
+    {% endfor %}
+</div>
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('lego');
+</script>
