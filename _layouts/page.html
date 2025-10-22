@@ -58,7 +58,7 @@ layout: default
         <!-- Directors / Producers / Writers -->
         {% assign sorted = site.pages | sort: 'releaseDate' | reverse %}
         {% for item in sorted %}
-          {% if item.director contains codexAuthor or item.producer contains codexAuthor or item.writer contains codexAuthor %}
+          {% if item.director contains codexAuthor or item.producer contains codexAuthor or item.author contains codexAuthor %}
             {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
         {% endfor %}
