@@ -17,6 +17,8 @@ I am located in the Fraser Valley of British Columbia. I work and live on the tr
 
 Tracking for hobbies using liquid generators and frontmatter to produce activity feeds from pages in my inventory and garden. For a more high level summary, see my [Now](https://steinea.fyi/now/) page.
 
+<!-- Drinking, Listening, Sleeping, Traveling -->
+
 {% include activity.html %}
 
 <br>
