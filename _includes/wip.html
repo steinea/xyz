@@ -1,0 +1,7 @@
+<ul>
+  {% for page in site.pages %}
+    {% if page.category contains "wip" %}
+      <li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

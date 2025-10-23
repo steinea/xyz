@@ -1,7 +1,7 @@
 ---
 layout: default
-category: library
-title: "Interests <em>(manual list)</em>"
+category: codex
+title: Interests
 ---
 
 **A /**

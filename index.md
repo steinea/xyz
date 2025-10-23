@@ -66,6 +66,13 @@ Raw materials from my research, teaching, and creative practice.
 
 <br>
 
+
+#### WIP
+
+{% include wip.html %}
+
+<br>
+
 <hr>
 
 
