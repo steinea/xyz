@@ -3,11 +3,14 @@ layout: page
 category: videogame
 subcategory:
 tags:
+author:
 title:
+published:
+director:
+producer:
 developer:
 publisher:
 platform:
-releaseDate:
 howlongtobeat:
 difficulty:
 trophyGuide:
@@ -21,6 +24,8 @@ hltb:
 psnprofiles:
 steam:
 date:
+rating:
+price:
 ---
 
 From [Wikipedia]():

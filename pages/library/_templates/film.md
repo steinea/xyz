@@ -3,13 +3,13 @@ layout: page
 category: films
 subcategory: wishlist
 tags:
-title:
 author:
+title:
+published:
 director:
 producer:
-published:
+link:
 date: 1111-11-11
 rating:
 price:
-link:
 ---
