@@ -3,3 +3,10 @@ layout: default
 category: codex
 title: Platforms
 ---
+
+{% assign sorted = site.pages | sort: 'title' %}
+{% for item in sorted %}
+  {% if item.category contains "hardware" and item.tags contains "platform" %}
+    <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endif %}
+{% endfor %}
