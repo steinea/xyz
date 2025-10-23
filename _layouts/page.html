@@ -37,12 +37,12 @@ layout: default
     <div id="Codex">
       <h4>Codex</h4>
 
-        {% assign codexAuthor = page.title %}
+        {% assign codexSearch = page.title %}
 
         <!-- Authors > Commonplace -->
         {% assign sorted = site.posts | sort: 'date' | reverse %}
         {% for item in sorted %}
-          {% if item.category contains "commonplace" and item.publication contains codexAuthor %}
+          {% if item.category contains "commonplace" and item.publication contains codexSearch %}
             {{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
         {% endfor %}
@@ -50,7 +50,7 @@ layout: default
         <!-- Developers / Publishers -->
         {% assign sorted = site.pages | sort: 'published' | reverse %}
         {% for item in sorted %}
-          {% if item.developer contains codexAuthor or item.publisher contains codexAuthor %}
+          {% if item.developer contains codexSearch or item.publisher contains codexSearch %}
             {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
         {% endfor %}
@@ -58,7 +58,15 @@ layout: default
         <!-- Directors / Producers / Writers -->
         {% assign sorted = site.pages | sort: 'published' | reverse %}
         {% for item in sorted %}
-          {% if item.director contains codexAuthor or item.producer contains codexAuthor or item.author contains codexAuthor %}
+          {% if item.director contains codexSearch or item.producer contains codexSearch or item.author contains codexSearch %}
+            {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+          {% endif %}
+        {% endfor %}
+
+        <!-- Platforms -->
+        {% assign sorted = site.pages | sort: 'published' | reverse %}
+        {% for item in sorted %}
+          {% if item.platform contains codexSearch %}
             {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
         {% endfor %}
