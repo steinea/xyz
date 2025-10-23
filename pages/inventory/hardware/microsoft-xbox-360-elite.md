@@ -3,8 +3,10 @@ layout: page
 category: hardware
 subcategory: own
 tags:
+  - codex
   - gaming
-title: Xbox 360 Elite
+  - platform
+title: Xbox 360
 manufacturer: Microsoft
 format: Console
 date: 2007-04-29

@@ -3,8 +3,10 @@ layout: page
 category: hardware
 subcategory: own
 tags:
+  - codex
   - gaming
-title: PlayStation 3
+  - platform
+title: PS3
 manufacturer: Sony
 format: Console
 date: 2006-11-17

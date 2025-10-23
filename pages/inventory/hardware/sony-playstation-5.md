@@ -3,8 +3,10 @@ layout: page
 category: hardware
 subcategory: own
 tags:
+  - codex
   - gaming
-title: PlayStation 5
+  - platform
+title: PS5
 manufacturer: Sony
 format: Console
 date: 2020-11-12

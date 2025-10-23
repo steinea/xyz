@@ -3,7 +3,9 @@ layout: page
 category: hardware
 subcategory: own
 tags:
+  - codex
   - gaming
+  - platform
 title: Switch
 manufacturer: Nintendo
 format: Hybrid

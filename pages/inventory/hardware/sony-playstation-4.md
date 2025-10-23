@@ -3,8 +3,10 @@ layout: page
 category: hardware
 subcategory: own
 tags:
+  - codex
   - gaming
-title: PlayStation 4
+  - platform
+title: PS4
 manufacturer: Sony
 format: Console
 date: 2013-11-15
