@@ -4,7 +4,7 @@ category: activity
 title: Reading
 ---
 
-{% assign sorted = site.pages | sort: "date" | reverse %}
+{% assign sorted = site.pages | sort: "finished" | reverse %}
 {% for item in sorted %}
   {% if item.category contains "books" and item.rating != "exclude" %}
     {{ item.finished }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a> • <em>{{ item.rating }} stars</em><br>
