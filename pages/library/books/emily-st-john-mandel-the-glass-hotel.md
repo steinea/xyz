@@ -8,7 +8,7 @@ title: The Glass Hotel
 published: 2020
 started: 2024-04-07
 finished: 2024-04-14
-date: 2024-04-15
+date: 2024-04-14
 rating: 4
 toc: true
 ---
