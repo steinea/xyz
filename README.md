@@ -1,1 +1,25 @@
-# Hello, World!
+# Hello, World! 🌱
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/005f5f0e-c50a-42c0-bc92-8b415ca15ba3/deploy-status)](https://app.netlify.com/sites/neon-stardust-12b34a/deploys)
+
+*I am a web development hobbyist and by no means an expert. The following README describes the principles and choices that have guided my implementation of this website, as well as my other sites [steinea.ca](https://steinea.ca/), [steinea.fyi](https://steinea.fyi/), and [steinea.work](https://steinea.work/).*
+
+This site is built with [Jekyll](https://jekyllrb.com/), versioned with [GitHub](https://github.com/), deployed with [Netlify](https://www.netlify.com/), and hosted with [Hover](https://www.hover.com/).
+
+Jekyll is opinionated, and wherever possible I try to respect those opinions. Respecting Jekyll opinions means protecting site content from formal interference, allowing content to be ported to other sites or applications easily, and so ensuring the [sustainability and durability](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) of this content.
+
+Jekyll has three primary types of content: [posts](https://jekyllrb.com/docs/posts/), [pages](https://jekyllrb.com/docs/pages/), and [data](https://jekyllrb.com/docs/datafiles/).
+
+Posts and pages are differentiated by whether or not the file requires a date. Post files must be prefixed with an [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) date, using the format <code>YYYY-MM-DD-title.md</code>. Page files do not require a date prefix in the filename, and can simply be formatted as <code>title.md</code>.
+
+Originally, my sites used Jekyll [collections](https://jekyllrb.com/docs/collections/) to group related content types: the <code>_posts</code> collection included all dated content (blogs, articles, updates, etc.) and the <code>_pages</code> collection included all undated content (primarily wiki entries). However, this added a layer of interpretation that I wanted to avoid, so I have reverted the collections and am now just using posts and pages as their native Jekyll defaults (accessed via <code>site.posts</code> and <code>site.pages</code>), organizing these files with categories, subcategories, and tags in the [front matter](https://jekyllrb.com/docs/front-matter/).
+
+Permalinks for pages and posts are defined in the Defaults section of my <code>_config.yml</code>. All posts have a permalink in the format <code>/:year/:month/:day/:title/</code>, and all pages a permalink in the format <code>/:title/</code>. In the past, I have preserved the folder tree for post and page permalinks, but because [a cool URI is one which does not change](https://www.w3.org/Provider/Style/URI.html), I prefer to use strong canonical links relative to the site root to mitigate link rot due to site restructures. I use [trailing slashes](https://cdivilly.wordpress.com/2014/03/11/why-trailing-slashes-on-uris-are-important/) in my URIs because I have encountered issues with different hosts when I leave the trailing slash off, but all hosts seem to understand when it is present.
+
+Posts and pages are written in [Markdown](https://daringfireball.net/projects/markdown/). This site specifically uses the [CommonMark](https://commonmark.org/) syntax for Markdown to ensure content compatibility across apps and platforms. This means Markdown syntax flavours used by popular apps like Obsidian or Roam (especially elements like wiki links) are not used on this site, since these undermine the sustainability and durability of site content. Wherever possible, posts and pages should exclusively contain content, prioritizing [human readability](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
+
+Site formatting is handled with Jekyll [layouts](https://jekyllrb.com/docs/layouts/) and the [Liquid](https://shopify.github.io/liquid/) templating functionality, which is built into Jekyll. Layouts are separate <code>.html</code> files, stored in the <code>_layouts</code> directory in the site root, and are specified in post and page frontmatter to indicate to Jekyll how to wrap the file content. All critical HTML syntax is kept in the <code>default.html</code> layout. Other layouts should only include content-specific formatting.
+
+Unlike posts and pages, data files are <code>.yml</code>, <code>.yaml</code>, <code>.json</code>, <code>.tsv</code>, or <code>.csv</code> files, which can be used for a variety of purposes, but on my sites primarily for populating data content to posts or pages. Data files are stored in the <code>_data</code> directory in the site root.
+
+This site uses [native CSS](https://medium.com/@karstenbiedermann/goodbye-sass-welcome-back-native-css-b3beb096d2b4), as opposed to preprocessors like Sass or LESS, prioritizing transparent and traceable styles that allow for easy [DOM inspection](https://en.wikipedia.org/wiki/DOM_Inspector). This site also uses [microformats](https://microformats.org/wiki/about) wherever appropriate, which facilitate participation in the [IndieWeb](https://indieweb.org/).
