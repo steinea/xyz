@@ -1,0 +1,70 @@
+---
+layout: default
+category: workshop
+title: University
+---
+
+<!-- Category Counts -->
+{% assign totalStudy = 0 %}
+  {% for post in site.posts %}
+    {% if post.category contains "university" and post.subcategory contains "study" %}
+      {% assign totalStudy = totalStudy | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalTeaching = 0 %}
+  {% for post in site.posts %}
+    {% if post.category contains "university" and post.subcategory contains "teaching" %}
+      {% assign totalTeaching = totalTeaching | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('study')">Study ({{ totalStudy }})</button>
+  <button class="tablinks" onclick="openTab('teaching')">Teaching ({{ totalTeaching }})</button>
+</div>
+
+<br>
+
+<!-- Study Tab -->
+<div id="study" class="tabcontent">
+  {% assign sorted = site.posts | sort: "date" | reverse %}
+  {% for item in sorted %}
+    {% if item.category contains "university" and item.subcategory contains "study" %}
+      {{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}, {{ item.subtitle }}</a>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Teaching Tab -->
+<div id="teaching" class="tabcontent">
+  {% assign sorted = site.posts | sort: "date" | reverse %}
+  {% for item in sorted %}
+    {% if item.category contains "university" and item.subcategory contains "teaching" %}
+      {{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}, {{ item.subtitle }}</a>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('study');
+</script>
