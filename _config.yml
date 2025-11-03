@@ -12,7 +12,6 @@ github_username: steinea
 plugins:
   - jekyll_custom_permalink
   - jekyll-environment-variables
-  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-toc
