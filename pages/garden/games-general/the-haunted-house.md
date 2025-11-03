@@ -1,7 +1,7 @@
 ---
 layout: page
 category: wiki
-subcategory: small-games
+subcategory: games-general
 title: The Haunted House
 publication: Downpour
 link: https://downpour.games/~amanda_lee/240310

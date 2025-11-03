@@ -1,7 +1,7 @@
 ---
 layout: page
 category: wiki
-subcategory: small-games
+subcategory: games-general
 title: Solar Server
 publication: Web
 link: http://solarserver.games/

@@ -1,7 +1,7 @@
 ---
 layout: page
 category: wiki
-subcategory: small-games
+subcategory: games-general
 title: A Blue Flash of Light
 publication: ANMLY
 link: https://anmly.org/ap37/felix-lecocq/
