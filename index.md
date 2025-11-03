@@ -4,7 +4,7 @@ title: XYZ
 permalink: /
 ---
 
-Hello, world! Welcome to my laboratory. A counterpart to my other sites for [writing](https://steinea.ca/) and [identity](https://steinea.fyi/), this in turn is my [digital garden](https://maggieappleton.com/garden-history/), [memex](https://wiki.xxiivv.com/site/about.html), or [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet).
+Hello, world! Welcome to my miscellany. A counterpart to my other sites for [writing](https://steinea.ca/) and [identity](https://steinea.fyi/), this in turn is my [digital garden](https://maggieappleton.com/garden-history/), [memex](https://wiki.xxiivv.com/site/about.html), or [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet).
 
 I am a gameplay producer at Electronic Arts, a former game development instructor and current games researcher, a designer and publisher of tabletop games, and an occasional poet.
 
