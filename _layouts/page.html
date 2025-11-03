@@ -29,6 +29,30 @@ layout: default
   {% endif %}
 
 
+  <!-- Checks if page is tagged for Ludography -->
+  {% if page.tags contains "ludography" %}
+
+    <br>
+
+    <div id="Ludography">
+      <h4>Ludography</h4>
+
+        {% assign ludographyPage = page %}
+        {% assign ludographyTopic = ludographyPage.title | downcase | replace: " ", "-" %}
+
+        {% assign sorted = site.pages | sort: 'published' | reverse %}
+        {% for item in sorted %}
+          {% if item.category contains "videogame" and item.tags contains ludographyTopic %}
+            {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+          {% endif %}
+        {% endfor %}
+
+    </div>
+
+  {% endif %}
+
+
+
   <!-- Checks if page is tagged for Codex -->
   {% if page.tags contains "codex" %}
 
