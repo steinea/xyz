@@ -8,7 +8,7 @@ item: 75335
 pieces: 1062
 age: 14+
 link: https://www.lego.com/en-ca/product/bd-1-75335
-price: 2024-07-01
+date: 2024-07-01
 ---
 
 "_Star Wars Jedi: Fallen Order_ players can relive their epic adventures when they build and display this LEGO® _Star Wars™_ version of exploration droid BD-1 (75335). The head of this posable brick-built model can be tilted back, forward and sideways for maximum cuteness. Fans will be delighted by other authentic details, such as the translucent elements on the back of the head that indicate BD-1’s mood, plus a compartment for stim canister elements. An information sign and a BD-1 LEGO figure that can be attached next to the sign complete a charming centerpiece.
