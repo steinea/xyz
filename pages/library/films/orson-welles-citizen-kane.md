@@ -6,7 +6,7 @@ tags:
 author:
   - Orson Welles
   - Herman J. Mankiewicz
-title:
+title: Citizen Kane
 published: 1941
 director: Orson Welles
 producer: Orson Welles
