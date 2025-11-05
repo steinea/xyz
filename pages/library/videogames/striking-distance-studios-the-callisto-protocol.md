@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: horror-adventure
 title: The Callisto Protocol
 developer: Striking Distance Studios

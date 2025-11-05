@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: marvel-games
 title: Marvel's Midnight Suns
 developer: Firaxis Games

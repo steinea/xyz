@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: soulslike-legacies
 title: Lords of the Fallen
 developer: Hexworks
