@@ -17,8 +17,8 @@ layout: default
         {% assign bibliographyPage = page %}
         {% assign bibliographyTopic = bibliographyPage.title | downcase | replace: " ", "-" %}
 
-        {% assign ordered = site.pages | sort: 'published' | reverse %}
-        {% for item in ordered %}
+        {% assign sorted = site.pages | sort: 'published' | reverse %}
+        {% for item in sorted %}
           {% if item.category contains "books" and item.tags contains bibliographyTopic %}
             {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
@@ -40,8 +40,8 @@ layout: default
         {% assign ludographyPage = page %}
         {% assign ludographyTopic = ludographyPage.title | downcase | replace: " ", "-" %}
 
-        {% assign ordered = site.pages | sort: 'published' | reverse %}
-        {% for item in ordered %}
+        {% assign sorted = site.pages | sort: 'published' | reverse %}
+        {% for item in sorted %}
           {% if item.category contains "videogame" and item.tags contains ludographyTopic %}
             {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
@@ -64,32 +64,32 @@ layout: default
         {% assign codexSearch = page.title %}
 
         <!-- Authors > Commonplace -->
-        {% assign ordered = site.posts | sort: 'date' | reverse %}
-        {% for item in ordered %}
+        {% assign sorted = site.posts | sort: 'date' | reverse %}
+        {% for item in sorted %}
           {% if item.category contains "commonplace" and item.publication contains codexSearch %}
             {{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
         {% endfor %}
 
         <!-- Developers / Publishers -->
-        {% assign ordered = site.pages | sort: 'published' | reverse %}
-        {% for item in ordered %}
+        {% assign sorted = site.pages | sort: 'published' | reverse %}
+        {% for item in sorted %}
           {% if item.developer contains codexSearch or item.publisher contains codexSearch %}
             {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
         {% endfor %}
 
         <!-- Directors / Producers / Writers -->
-        {% assign ordered = site.pages | sort: 'published' | reverse %}
-        {% for item in ordered %}
+        {% assign sorted = site.pages | sort: 'published' | reverse %}
+        {% for item in sorted %}
           {% if item.director contains codexSearch or item.producer contains codexSearch or item.author contains codexSearch %}
             {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
         {% endfor %}
 
         <!-- Platforms -->
-        {% assign ordered = site.pages | sort: 'published' | reverse %}
-        {% for item in ordered %}
+        {% assign sorted = site.pages | sort: 'published' | reverse %}
+        {% for item in sorted %}
           {% if item.platform contains codexSearch %}
             {{ item.published }} <a href="{{ item.url }}">{{ item.title }}</a><br>
           {% endif %}
