@@ -10,9 +10,17 @@ title: Cards
     {% assign totalCollection = totalCollection | plus: 1 %}
   {% endfor %}
 
+{% assign totalDecks = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "deck" %}
+      {% assign totalDecks = totalDecks | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
 <!-- Category Tabs -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab('collection')">Collection ({{ totalCollection }} unique)</button>
+  <button class="tablinks" onclick="openTab('collection')">Collection</button>
+  <button class="tablinks" onclick="openTab('decks')">Decks ({{ totalDecks }})</button>
 </div>
 
 <br>
@@ -25,6 +33,19 @@ title: Cards
     <br>
   {% endfor %}
 </div>
+
+
+<!-- Decks Tab -->
+<div id="decks" class="tabcontent">
+  {% assign sortedDecks = site.pages | sort: "title" %}
+  {% for item in sortedDecks %}
+    {% if item.category contains "deck" %}
+      <a href="{{ item.link }}">{{ item.title }}</a>
+    <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
 
 <!-- Tab Javascript -->
 <script>
