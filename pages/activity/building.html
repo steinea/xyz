@@ -3,3 +3,72 @@ layout: default
 category: activity
 title: Building
 ---
+
+<!-- Category Counts -->
+{% assign totalBuilt = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "lego" and page.subcategory contains "built" %}
+      {% assign totalBuilt = totalBuilt | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalBacklog = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "lego" and page.subcategory contains "backlog" %}
+      {% assign totalBacklog = totalBacklog | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('built')">Built ({{ totalBuilt }})</button>
+  <button class="tablinks" onclick="openTab('backlog')">Backlog ({{ totalBacklog }})</button>
+</div>
+
+<br>
+
+
+<!-- Built Tab -->
+<div id="built" class="tabcontent">
+  {% assign sorted = site.pages | sort: "date" | reverse %}
+  {% for item in sorted %}
+    {% if item.category contains "lego" and item.subcategory contains "built" %}
+      {{ item.date | date: '%Y-%m-%d' }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+<!-- Backlog Tab -->
+<div id="backlog" class="tabcontent">
+  {% assign sorted = site.pages | sort: "pieces" %}
+  {% for item in sorted %}
+    {% if item.category contains "lego" and item.subcategory contains "backlog" %}
+      {{ item.pieces }} pieces <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('built');
+</script>
