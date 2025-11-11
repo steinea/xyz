@@ -40,7 +40,7 @@ title: Cards
   {% assign sortedDecks = site.pages | sort: "title" %}
   {% for item in sortedDecks %}
     {% if item.category contains "deck" %}
-      <a href="{{ item.link }}">{{ item.title }}</a>
+      <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
     <br>
     {% endif %}
   {% endfor %}
