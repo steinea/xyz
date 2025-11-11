@@ -9,7 +9,11 @@ title: Cards
 <!-- Category Counts -->
 {% assign totalCollection = 0 %}
   {% for card in site.data.cards %}
-    {% assign totalCollection = totalCollection | plus: 1 %}
+
+    {% assign cardMultiplier = card.Count %}
+    {% assign cardAddition = 1 | times: cardMultiplier %}
+
+    {% assign totalCollection = totalCollection | plus: cardAddition %}
   {% endfor %}
 
 {% assign totalDecks = 0 %}
@@ -21,7 +25,7 @@ title: Cards
 
 <!-- Category Tabs -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab('collection')">Collection</button>
+  <button class="tablinks" onclick="openTab('collection')">Collection ({{ totalCollection }})</button>
   <button class="tablinks" onclick="openTab('decks')">Decks ({{ totalDecks }})</button>
 </div>
 
