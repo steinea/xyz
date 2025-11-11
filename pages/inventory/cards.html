@@ -29,7 +29,7 @@ title: Cards
 <div id="collection" class="tabcontent">
   {% assign sorted = site.data.cards | sort: "Name" %}
   {% for item in sorted %}
-    <a href="https://scryfall.com/card/{{ item.Edition }}/{{ item.Collector }}/" target="_blank" rel="noopener noreferrer">{{ item.Name }}</a> x{{ item.Count }}
+    {{ item.Count }}x <a href="https://scryfall.com/card/{{ item.Edition }}/{{ item["Collector Number"] }}/" target="_blank" rel="noopener noreferrer">{{ item.Name }}</a>
     <br>
   {% endfor %}
 </div>
