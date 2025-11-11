@@ -2,6 +2,6 @@
 layout: post
 category: post
 subcategory: hike
-title: Outram
+title: Mount Outram
 date: 2006-07-01
 ---
