@@ -4,7 +4,7 @@ category: deck
 subcategory: magicthegathering
 format: "Angels: They're Just Like Us"
 identity: Grixis
-author:
+author: Secret Lair
 title: Mono White
 link: https://moxfield.com/decks/v-fihlreKkCPiK39pAGwig
 date:
