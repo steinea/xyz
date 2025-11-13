@@ -14,15 +14,15 @@ platform: Steam
 howlongtobeat: 75
 difficulty: 5/10
 trophyGuide: https://www.powerpyx.com/battlefield-6-trophy-guide-roadmap/
-durationHours: 14
-trophies: 21
-percent: 39
+durationHours: 23
+trophies: 28
+percent: 52
 link: https://steamcommunity.com/id/steinea/stats/2807960/achievements/
 backloggd: https://backloggd.com/u/steinea/logs/battlefield-6/
 exophase:
 psnprofiles:
 steam: https://steamcommunity.com/id/steinea/stats/2807960/achievements/
-date: 2025-11-08
+date: 2025-11-12
 rating:
 price:
 ---

@@ -20,7 +20,7 @@ backloggd: https://backloggd.com/u/steinea/logs/hollow-knight-silksong/
 exophase: https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#1624301
 psnprofiles:
 steam: https://steamcommunity.com/id/steinea/stats/1030300/achievements/
-date: 2025-11-07
+date: 2025-11-09
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong):
