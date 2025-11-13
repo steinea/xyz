@@ -4,7 +4,7 @@ category: wip
 title: "Ludographies <em>(generated from wiki tag 'ludography')</em>"
 ---
 
-{% assign sorted = site.pages | sort: "date" | reverse %}
+{% assign sorted = site.pages | sort: "title" %}
 {% for item in sorted %}
   {% if item.category contains "wiki" and item.tags contains "ludography" %}
     <a href="{{ item.url }}">{{ item.title }}</a><br>
