@@ -10,6 +10,7 @@ date: 2022-11-11
 * Rancière, *The Ignorant Schoolmaster*, 1987
 * Haraway, "Situated Knowledges," 1988
 * Morris, "Touching Intelligence," 2002
+* Harari, *Sapiens*, 2011
 * Bostrom, *Superintelligence*, 2014
 * Pasquinelli, *Augmented Intelligence Traumas*, 2015
 * Negarestani, *Intelligence and Spirit*, 2018
