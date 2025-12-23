@@ -48,6 +48,8 @@ The "purebred" is "biopolitical territory" (xi).
 
 The *word made flesh* "provides an important counterlogic for \[Haraway\] to a certain binding, hegemonic matrix of secularism, Protestantism, capitalism, and the state form in the history of the modern United States" (xiii).
 
+<br>
+
 ##### "A Cyborg Manifesto"
 
 *An Ironic Dream of a Common Language for Women in the Integrated Circuit*
