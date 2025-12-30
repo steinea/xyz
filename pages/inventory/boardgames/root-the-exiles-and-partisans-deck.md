@@ -10,7 +10,7 @@ releaseDate: 2020
 upc: Web
 link: https://ledergames.com/collections/full-catalog/products/root-the-exiles-and-partisans-deck
 date: 2025-01-11
-price: $10.00
+price: 10
 ---
 
 #### Citation

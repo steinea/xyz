@@ -10,7 +10,7 @@ releaseDate: 2019
 upc: Web
 link: https://matagot-friends.com/france/en/matagot/1228-inis-seasons-en-3760146644748.html
 date: 2025-01-05
-price: €36.00
+price: 42
 ---
 
 #### Citation

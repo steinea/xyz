@@ -10,7 +10,7 @@ releaseDate: 2025
 upc: Web
 link: https://www.cmon.com/products/nova-era/
 date: 2025-01-05
-price: Coming Soon
+price: TBD
 ---
 
 #### Citation

@@ -10,7 +10,7 @@ releaseDate: 2020
 upc: Web
 link: https://badgersfrommars.com/en-us/products/regicide-2nd-edition
 date: 2025-01-05
-price: $24
+price: 24
 ---
 
 #### Citation

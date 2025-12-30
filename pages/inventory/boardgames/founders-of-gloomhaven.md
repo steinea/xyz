@@ -10,7 +10,7 @@ releaseDate: 2018
 upc: Web
 link: https://cephalofair.com/collections/board-games/products/founder
 date: 2025-01-11
-price: $74.00
+price: 74
 ---
 
 #### Citation

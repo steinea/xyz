@@ -10,7 +10,7 @@ releaseDate: 2016
 upc: Web
 link: https://www.cmon.com/products/wulfsburg/
 date: 2025-01-05
-price: $60
+price: 60
 ---
 
 #### Citation

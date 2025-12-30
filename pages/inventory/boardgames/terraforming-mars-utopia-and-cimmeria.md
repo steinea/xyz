@@ -10,7 +10,7 @@ releaseDate: 2024
 upc: Web
 link: https://fryxgames.se/product/terraforming-mars-utopia-cimmeria/
 date: 2025-01-05
-price: $16.20
+price: 16
 ---
 
 #### Citation

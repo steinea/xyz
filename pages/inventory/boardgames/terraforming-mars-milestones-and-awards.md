@@ -10,7 +10,7 @@ releaseDate: 2024
 upc: Web
 link: https://fryxgames.se/product/terraforming-mars-milestones-awards/
 date: 2025-01-05
-price: $13.50
+price: 14
 ---
 
 #### Citation

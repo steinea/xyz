@@ -10,7 +10,7 @@ releaseDate: 2012
 upc: Web
 link: https://gamewright.com/product/Qwixx
 date: 2025-01-05
-price: $7.00
+price: 7
 ---
 
 #### Citation

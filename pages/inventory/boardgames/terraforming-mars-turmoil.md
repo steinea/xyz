@@ -10,7 +10,7 @@ releaseDate: 2019
 upc: Web
 link: https://fryxgames.se/product/terraforming-mars-turmoil/
 date: 2025-01-05
-price: $31.50
+price: 32
 ---
 
 #### Citation

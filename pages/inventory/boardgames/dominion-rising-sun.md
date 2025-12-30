@@ -10,7 +10,7 @@ releaseDate: 2024
 upc: 655132006699
 link: https://www.riograndegames.com/games/dominion-rising-sun/
 date: 2025-01-03
-price: $45
+price: 45
 ---
 
 #### Citation

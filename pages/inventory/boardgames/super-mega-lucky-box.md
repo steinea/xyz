@@ -10,7 +10,7 @@ releaseDate: 2021
 upc: BGG
 link: https://boardgamegeek.com/boardgame/341530/super-mega-lucky-box
 date: 2025-01-05
-price: $15.00
+price: 15
 ---
 
 #### Citation

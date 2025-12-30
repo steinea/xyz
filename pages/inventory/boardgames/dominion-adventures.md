@@ -10,7 +10,7 @@ releaseDate: 2015
 upc: 655132005104
 link: https://www.riograndegames.com/games/dominion-adventures/
 date: 2025-01-03
-price: $45
+price: 45
 ---
 
 #### Citation

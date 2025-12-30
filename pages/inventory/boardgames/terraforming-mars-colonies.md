@@ -10,7 +10,7 @@ releaseDate: 2018
 upc: Web
 link: https://fryxgames.se/product/terraforming-mars-colonies/
 date: 2025-01-05
-price: $27.00
+price: 27
 ---
 
 #### Citation

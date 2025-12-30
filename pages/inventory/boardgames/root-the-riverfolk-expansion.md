@@ -10,7 +10,7 @@ releaseDate: 2018
 upc: Web
 link: https://ledergames.com/products/root-the-riverfolk-expansion
 date: 2025-01-11
-price: $40.00
+price: 40
 ---
 
 #### Citation

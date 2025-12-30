@@ -10,7 +10,7 @@ releaseDate: 2025
 upc: BGG
 link: https://boardgamegeek.com/boardgame/418217/inis-nemed
 date: 2025-01-05
-price: Coming Soon
+price: TBD
 ---
 
 #### Citation

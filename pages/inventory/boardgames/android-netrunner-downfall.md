@@ -10,7 +10,7 @@ releaseDate: 2019
 upc: df
 link: https://nullsignal.games/products/downfall/
 date: 2025-01-05
-price: $66
+price: 66
 ---
 
 #### Citation

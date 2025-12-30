@@ -10,7 +10,7 @@ releaseDate: 2017
 upc: Web
 link: https://cephalofair.com/collections/board-games/products/gloomhaven-2nd-edition-solo-scenarios
 date: 2025-01-11
-price: $22.00
+price: 22
 ---
 
 #### Citation

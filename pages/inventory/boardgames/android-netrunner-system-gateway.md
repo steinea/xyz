@@ -10,7 +10,7 @@ releaseDate: 2021
 upc: sg
 link: https://nullsignal.games/products/system-gateway/
 date: 2025-01-05
-price: $66
+price: 66
 ---
 
 #### Citation

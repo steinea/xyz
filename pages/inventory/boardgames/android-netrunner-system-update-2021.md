@@ -10,7 +10,7 @@ releaseDate: 2021
 upc: su21
 link: https://nullsignal.games/products/system-update-2021/
 date: 2025-01-05
-price: $66
+price: 66
 ---
 
 #### Citation

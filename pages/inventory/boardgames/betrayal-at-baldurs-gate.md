@@ -10,7 +10,7 @@ releaseDate: 2017
 upc: BGG
 link: https://boardgamegeek.com/boardgame/228660/betrayal-at-baldurs-gate
 date: 2025-01-05
-price: $65
+price: 65
 ---
 
 #### Citation

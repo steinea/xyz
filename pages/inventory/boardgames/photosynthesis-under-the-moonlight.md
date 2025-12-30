@@ -10,7 +10,7 @@ releaseDate: 2020
 upc: Amazon
 link: https://www.amazon.ca/dp/B08H52FSBG/
 date: 2025-01-05
-price: $30
+price: 30
 ---
 
 #### Citation

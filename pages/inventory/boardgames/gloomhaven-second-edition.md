@@ -10,7 +10,7 @@ releaseDate: 2025
 upc: Web
 link: https://cephalofair.com/products/gloomhaven-2nd-edition-preorder
 date: 2025-01-08
-price: $263.00
+price: 263
 ---
 
 #### Citation

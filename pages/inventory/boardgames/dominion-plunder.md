@@ -10,7 +10,7 @@ releaseDate: 2022
 upc: 655132006316
 link: https://www.riograndegames.com/games/dthis-is-the-15th-expansion-to-dominion-it-has-500-cards-with-40-new-kingdom-cards-it-has-lots-of-treasures-and-durations-with-cards-that-give-you-loot-and-traits-that-modify-piles-events/
 date: 2025-01-03
-price: $45
+price: 45
 ---
 
 #### Citation

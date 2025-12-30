@@ -10,7 +10,7 @@ releaseDate: 2023
 upc: BGG
 link: https://boardgamegeek.com/boardgame/397390/betrayal-the-yuletide-tale-evil-reigns-in-the-wynt
 date: 2025-01-05
-price: $22
+price: 22
 ---
 
 #### Citation

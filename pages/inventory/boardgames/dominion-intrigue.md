@@ -9,7 +9,7 @@ publisher: Rio Grande Games
 releaseDate: 2016
 link: https://www.riograndegames.com/games/dominion-intrigue-2nd-edition/
 date: 2025-01-03
-price: $40
+price: 40
 ---
 
 #### Citation

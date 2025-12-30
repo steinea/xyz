@@ -9,7 +9,7 @@ publisher: Rio Grande Games
 releaseDate: 2022
 link: https://www.riograndegames.com/games/dominion-hinterlands/
 date: 2025-01-03
-price: $40
+price: 40
 ---
 
 #### Citation

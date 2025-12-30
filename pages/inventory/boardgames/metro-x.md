@@ -10,7 +10,7 @@ releaseDate: 2018
 upc: BGG
 link: https://boardgamegeek.com/boardgame/248861/metro-x
 date: 2025-01-05
-price: $16.00
+price: 16
 ---
 
 #### Citation

@@ -10,7 +10,7 @@ releaseDate: 2022
 upc: Web
 link: https://cephalofair.com/products/frosthaven-solo-scenarios
 date: 2025-01-11
-price: $22.00
+price: 22
 ---
 
 #### Citation

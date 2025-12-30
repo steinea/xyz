@@ -10,7 +10,7 @@ releaseDate: 2023
 upc: BGG
 link: https://boardgamegeek.com/boardgame/368348/betrayal-the-werewolfs-journey-blood-on-the-moon
 date: 2025-01-05
-price: $22
+price: 22
 ---
 
 #### Citation

@@ -9,7 +9,7 @@ publisher: Rio Grande Games
 releaseDate: 2011
 link: https://www.riograndegames.com/games/dominion-cornucopia-amp-guilds/
 date: 2025-01-03
-price: $45
+price: 45
 ---
 
 #### Citation

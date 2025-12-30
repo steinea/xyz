@@ -10,7 +10,7 @@ releaseDate: 2021
 upc: Amazon
 link: https://www.amazon.ca/Stardew-Valley-CAL100/dp/B09MDPKV5K
 date: 2025-01-05
-price: $85
+price: 85
 ---
 
 #### Citation

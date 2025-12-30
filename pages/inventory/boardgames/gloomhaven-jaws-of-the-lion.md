@@ -10,7 +10,7 @@ releaseDate: 2020
 upc: Web
 link: https://cephalofair.com/collections/board-games/products/gloomhaven-jaws-of-the-lion
 date: 2025-01-11
-price: $74.00
+price: 74
 ---
 
 #### Citation

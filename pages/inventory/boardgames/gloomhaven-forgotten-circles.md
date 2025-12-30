@@ -10,7 +10,7 @@ releaseDate: 2019
 upc: Web
 link: https://cephalofair.com/collections/board-games/products/gloomhaven-forgotten-circles
 date: 2025-01-11
-price: $59.00
+price: 59
 ---
 
 #### Citation

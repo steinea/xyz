@@ -10,7 +10,7 @@ releaseDate: 2024
 upc: Web
 link: https://devirgames.com/salton-sea
 date: 2025-01-05
-price: $40.00
+price: 40
 ---
 
 #### Citation

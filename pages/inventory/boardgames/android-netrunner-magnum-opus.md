@@ -10,7 +10,7 @@ releaseDate: 2019
 upc: mor
 link: https://nullsignal.games/products/magnumopus/
 date: 2025-01-05
-price: $10
+price: 10
 ---
 
 #### Citation

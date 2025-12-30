@@ -10,7 +10,7 @@ releaseDate: 2019
 upc: Web
 link: https://ledergames.com/collections/games/products/vast-the-haunted-hallways
 date: 2025-01-11
-price: $15.00
+price: 15
 ---
 
 #### Citation

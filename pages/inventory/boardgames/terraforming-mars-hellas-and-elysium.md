@@ -10,7 +10,7 @@ releaseDate: 2017
 upc: Web
 link: https://fryxgames.se/product/terraforming-mars-hellas-elysium/
 date: 2025-01-05
-price: $16.20
+price: 16
 ---
 
 #### Citation

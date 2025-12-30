@@ -10,7 +10,7 @@ releaseDate: 2024
 upc: rwr
 link: https://nullsignal.games/products/rebellion-without-rehearsal/
 date: 2025-01-05
-price: $66
+price: 66
 ---
 
 #### Citation

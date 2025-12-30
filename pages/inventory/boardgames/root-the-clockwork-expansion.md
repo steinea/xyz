@@ -10,7 +10,7 @@ releaseDate: 2020
 upc: Web
 link: https://ledergames.com/collections/full-catalog/products/root-the-clockwork-expansion
 date: 2025-01-11
-price: $40.00
+price: 40
 ---
 
 #### Citation

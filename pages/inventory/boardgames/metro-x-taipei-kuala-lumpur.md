@@ -10,7 +10,7 @@ releaseDate: 2021
 upc: BGG
 link: https://boardgamegeek.com/boardgame/340820/metro-x-expansion-taipei-kuala-lumpur
 date: 2025-01-05
-price: $16.00
+price: 16
 ---
 
 #### Citation

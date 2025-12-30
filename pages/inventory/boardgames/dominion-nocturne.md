@@ -10,7 +10,7 @@ releaseDate: 2017
 upc: 655132005500
 link: https://www.riograndegames.com/games/dominion-nocturne/
 date: 2025-01-03
-price: $45
+price: 45
 ---
 
 #### Citation

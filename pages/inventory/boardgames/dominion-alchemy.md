@@ -9,7 +9,7 @@ publisher: Rio Grande Games
 releaseDate: 2010
 link: https://www.riograndegames.com/games/dominion-alchemy/
 date: 2025-01-03
-price: $30
+price: 30
 ---
 
 #### Citation

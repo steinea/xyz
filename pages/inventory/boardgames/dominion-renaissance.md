@@ -10,7 +10,7 @@ releaseDate: 2018
 upc: 655132005586
 link: https://www.riograndegames.com/games/dominion-renaissance/
 date: 2025-01-03
-price: $45
+price: 45
 ---
 
 #### Citation

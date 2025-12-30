@@ -10,7 +10,7 @@ releaseDate: 2014
 upc: BGG
 link: https://boardgamegeek.com/boardgame/169654/deep-sea-adventure
 date: 2025-01-05
-price: $23.00
+price: 23
 ---
 
 #### Citation

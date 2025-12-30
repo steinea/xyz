@@ -10,7 +10,7 @@ releaseDate: 2022
 upc: Web
 link: https://ledergames.com/products/root-landmark-pack?_pos=55&_sid=299e2a5a1&_ss=r
 date: 2025-01-11
-price: $10.00
+price: 10
 ---
 
 #### Citation

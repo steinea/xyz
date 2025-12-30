@@ -10,7 +10,7 @@ releaseDate: 2022
 upc: ms
 link: https://nullsignal.games/products/midnight-sun/
 date: 2025-01-01
-price: $66
+price: 66
 ---
 
 #### Citation

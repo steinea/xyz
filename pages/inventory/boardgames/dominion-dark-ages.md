@@ -10,7 +10,7 @@ releaseDate: 2012
 upc: 655132004817
 link: https://www.riograndegames.com/games/dominion-dark-ages/
 date: 2025-01-03
-price: $45
+price: 45
 ---
 
 #### Citation

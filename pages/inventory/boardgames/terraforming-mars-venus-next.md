@@ -10,7 +10,7 @@ releaseDate: 2017
 upc: Web
 link: https://fryxgames.se/product/terraforming-mars-venus-next/
 date: 2025-01-05
-price: $22.50
+price: 22
 ---
 
 #### Citation

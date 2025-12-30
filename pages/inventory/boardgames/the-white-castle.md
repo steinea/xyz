@@ -10,7 +10,7 @@ releaseDate: 2023
 upc: 8436607940593
 link: https://devirgames.com/the-white-castle
 date: 2025-01-05
-price: $40
+price: 40
 ---
 
 #### Citation

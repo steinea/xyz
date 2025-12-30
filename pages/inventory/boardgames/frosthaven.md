@@ -10,7 +10,7 @@ releaseDate: 2022
 upc: Web
 link: https://cephalofair.com/collections/board-games/products/frosthaven-bundles
 date: 2025-01-08
-price: $365.00
+price: 365
 ---
 
 #### Citation

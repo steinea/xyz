@@ -10,7 +10,7 @@ releaseDate: 2024
 upc: Web
 link: https://fryxgames.se/product/terraforming-mars-amazonis-vastitas/
 date: 2025-01-05
-price: $22.50
+price: 22
 ---
 
 #### Citation

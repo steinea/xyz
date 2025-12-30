@@ -10,12 +10,12 @@ releaseDate: 2022
 upc: Web
 link: https://ledergames.com/products/root-the-clockwork-expansion-2
 date: 2025-01-11
-price: $40.00
+price: 40
 ---
 
 #### Citation
 
-Wehrle, Cole  and Benjamin Schmauss. *{{ page.title }}.* {{ page.location }}: {{ page.publisher }}, {{ page.releaseDate }}. [{{ page.upc }}]({{ page.link }}).
+Wehrle, Cole and Benjamin Schmauss. *{{ page.title }}.* {{ page.location }}: {{ page.publisher }}, {{ page.releaseDate }}. [{{ page.upc }}]({{ page.link }}).
 
 <br>
 

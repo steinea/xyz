@@ -10,7 +10,7 @@ releaseDate: 2022
 upc: 655132006125
 link: https://www.riograndegames.com/games/dominion-allies/
 date: 2025-01-03
-price: $45
+price: 45
 ---
 
 #### Citation

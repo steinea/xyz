@@ -10,7 +10,7 @@ releaseDate: 2016
 upc: 655132005302
 link: https://www.riograndegames.com/games/dominion-empires/
 date: 2025-01-03
-price: $50
+price: 50
 ---
 
 #### Citation

@@ -10,7 +10,7 @@ releaseDate: 2022
 upc: ph
 link: https://nullsignal.games/products/parhelion/
 date: 2025-01-05
-price: $66
+price: 66
 ---
 
 #### Citation

@@ -10,7 +10,7 @@ releaseDate: 2022
 upc: Web
 link: https://ledergames.com/products/root-riverfolk-hirelings-pack
 date: 2025-01-11
-price: $20.00
+price: 20
 ---
 
 #### Citation

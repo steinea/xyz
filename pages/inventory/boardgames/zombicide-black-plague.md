@@ -10,7 +10,7 @@ releaseDate: 2015
 upc: Web
 link: https://www.cmon.com/products/zombicide-black-plague/
 date: 2025-01-05
-price: $110
+price: 110
 ---
 
 #### Citation

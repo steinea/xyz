@@ -10,7 +10,7 @@ releaseDate: 2016
 upc: Web
 link: https://fryxgames.se/product/terraforming-mars/
 date: 2025-01-05
-price: $54.00
+price: 54
 ---
 
 #### Citation

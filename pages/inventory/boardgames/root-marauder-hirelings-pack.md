@@ -10,7 +10,7 @@ releaseDate: 2018
 upc: Web
 link: https://ledergames.com/products/root-marauder-hirelings-pack-hireling-box
 date: 2025-01-11
-price: $30.00
+price: 30
 ---
 
 #### Citation

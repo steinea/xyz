@@ -10,7 +10,7 @@ releaseDate: 2025
 upc: BGG
 link: https://boardgamegeek.com/boardgame/412963/regicide-legacy
 date: 2025-01-05
-price: Crowdfunding
+price: TBD
 ---
 
 #### Citation

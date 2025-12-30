@@ -10,7 +10,7 @@ releaseDate: 2020
 upc: 655132005913
 link: https://www.riograndegames.com/games/dominion-menagerie/
 date: 2025-01-03
-price: $45
+price: 45
 ---
 
 #### Citation

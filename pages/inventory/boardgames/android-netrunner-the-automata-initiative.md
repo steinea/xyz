@@ -10,7 +10,7 @@ releaseDate: 2023
 upc: tai
 link: https://nullsignal.games/products/the-automata-initiative/
 date: 2025-01-05
-price: $66
+price: 66
 ---
 
 #### Citation

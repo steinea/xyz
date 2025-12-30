@@ -10,7 +10,7 @@ releaseDate: 2022
 upc: Web
 link: https://ledergames.com/products/root-the-marauder-expansion
 date: 2025-01-11
-price: $50.00
+price: 50
 ---
 
 #### Citation

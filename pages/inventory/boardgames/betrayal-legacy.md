@@ -10,7 +10,7 @@ releaseDate: 2018
 upc: BGG
 link: https://boardgamegeek.com/boardgame/240196/betrayal-legacy
 date: 2025-01-05
-price: $155
+price: 155
 ---
 
 #### Citation

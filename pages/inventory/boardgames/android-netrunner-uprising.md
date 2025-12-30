@@ -10,7 +10,7 @@ releaseDate: 2019
 upc: ur
 link: https://nullsignal.games/products/uprising/
 date: 2025-01-05
-price: $66
+price: 66
 ---
 
 #### Citation

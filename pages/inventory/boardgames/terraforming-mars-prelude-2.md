@@ -10,7 +10,7 @@ releaseDate: 2024
 upc: Web
 link: https://fryxgames.se/product/terraforming-mars-prelude-2/
 date: 2025-01-05
-price: $18.00
+price: 18
 ---
 
 #### Citation
