@@ -1,7 +1,7 @@
 ---
 layout: page
 category: boardgame
-subcategory:
+subcategory: collection
 title: Scythe
 author: Jamey Stegmaier
 location: St. Louis, MO
@@ -12,7 +12,7 @@ link: https://boardgamegeek.com/boardgame/169786/scythe
 date:
 price:
 abstract: |
-  It is a time of unrest in 1920s Europa. The ashes from the first great war still darken the snow. The capitalistic city-state known simply as 'The Factory', which fueled the war with heavily armored mechs, has closed its doors, drawing the attention of several nearby countries.
+  "It is a time of unrest in 1920s Europa. The ashes from the first great war still darken the snow. The capitalistic city-state known simply as 'The Factory', which fueled the war with heavily armored mechs, has closed its doors, drawing the attention of several nearby countries.
 
   Scythe is an engine-building game set in a 1920s era, alternate-history. It is a time of farming and war, broken hearts and rusted gears, innovation and valor. In Scythe, each player controls one of five factions of Eastern Europe, all of which are attempting to earn their fortunes and claim their stakes in the land around the mysterious Factory. Players conquer territory, enlist new recruits, reap resources, gain villagers, build structures, and activate monstrous mechs.
 
