@@ -4,8 +4,7 @@ category: garden
 title: Heap
 ---
 
-{% for page in site.pages %}
-  {% if page.category contains "wiki" %}
-    <a href="{{ page.url }}">{{ page.title }}</a> •
-  {% endif %}
-{% endfor %}
+{% assign sorted = site.pages | where: "category", "wiki" | sort: "title" %}
+  {% for item in sorted %}
+    <a href="{{ item.url }}">{{ item.title }}</a>{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
