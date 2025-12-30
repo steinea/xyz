@@ -4,9 +4,9 @@ category: activity
 title: Wishing
 ---
 
-{% assign sorted = site.pages | sort: "price" %}
+<p><em>Aggregates wishlist items from <a href="/boardgames/">boardgames</a>, <a href="/books/">books</a>, <a href="/hardware/">hardware</a>, <a href="/jerseys/">jerseys</a>, <a href="/models/">models</a>, <a href="/vinyl/">vinyl</a>, and <a href="videogames">videogames</a>.</em></p>
+
+{% assign sorted = site.pages | where: "subcategory", "wishlist" | sort: "price" %}
 {% for item in sorted %}
-  {% if item.subcategory contains "wishlist" %}
     ${{ item.price }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
-  {% endif %}
 {% endfor %}
