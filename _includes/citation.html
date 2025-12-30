@@ -1,0 +1,18 @@
+<h4>Citation</h4>
+
+{% assign full_name = page.author %}
+{% assign name_parts = full_name | split: " " %}
+{% assign first_name = name_parts | first %}
+{% assign last_name = name_parts | last %}
+
+<p>
+  {{ last_name }}, {{ first_name }}. <em>{{ page.title }}</em>. {{ page.location }}: {{ page.publisher }}, {{ page.releaseDate }}. <a href="{{ page.link }}" title="{{ page.title }}">{{ page.upc }}</a>.
+</p>
+
+<br>
+
+<h4>Abstract</h4>
+
+<p>
+  "{{ page.abstract | markdownify }}"
+</p>
