@@ -104,4 +104,19 @@ layout: default
 
   {% endif %}
 
+  <!-- Add playing section to boardgame -->
+  {% if page.category contains "boardgame" %}
+
+    <br>
+
+    <div id="Plays">
+      <h4>Plays</h4>
+
+        {% assign plays = site.posts | where: "category", "playing" | where: "title", page.title %}
+          {% for item in plays %}
+            {{ item.date | date: "%Y-%m-%d" }}
+          {% endfor %}
+
+  {% endif %}
+
 </div></article>

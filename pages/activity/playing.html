@@ -3,3 +3,8 @@ layout: default
 category: activity
 title: Playing
 ---
+
+{% assign plays = site.posts | where: "category", "playing" %}
+  {% for item in plays %}
+    {{ item.date | date: "%Y-%m-%d" }} <a href="/{{ item.title | downcase }}/" title="{{ item.title }}">{{ item.title }}</a>
+  {% endfor %}
