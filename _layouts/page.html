@@ -114,7 +114,7 @@ layout: default
 
         {% assign plays = site.posts | where: "category", "playing" | where: "title", page.title %}
           {% for item in plays %}
-            {{ item.date | date: "%Y-%m-%d" }}
+            {{ item.date | date: "%Y-%m-%d" }}<br>
           {% endfor %}
 
   {% endif %}
