@@ -6,5 +6,5 @@ title: Playing
 
 {% assign plays = site.posts | where: "category", "playing" %}
   {% for item in plays %}
-    {{ item.date | date: "%Y-%m-%d" }} <a href="/{{ item.title | downcase }}/" title="{{ item.title }}">{{ item.title }}</a><br>
+    {{ item.date | date: "%Y-%m-%d" }} <a href="/{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
   {% endfor %}
