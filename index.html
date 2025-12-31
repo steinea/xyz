@@ -1,0 +1,43 @@
+---
+layout: default
+title: Eric Stein
+permalink: /
+---
+
+<p>Welcome to my digital garden! 🌱</p>
+
+<br>
+
+<!-- Add top level directories to array -->
+{% assign sorted = site.pages | where: "category", "directory" | sort: "title" %}
+
+  <!-- Create variable from directory page title -->
+  {% for item in sorted %}
+    {% assign directoryPage = item %}
+    {% assign directorySlug = directoryPage.title | downcase | replace: " ", "-" %}
+
+    <!-- Create section and heading for directory page -->
+    <div id="{{ directorySlug }}">
+      <p><strong title="{{ directoryPage.abstract }}">{{ directoryPage.title }} / </strong>
+
+        <!-- List pages in directory after directory heading -->
+        {% assign sortedDirectory = site.pages | where: "category", directorySlug | sort: "title" %}
+          {% for item in sortedDirectory %}
+            <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+      </p>
+
+  {% endfor %}
+
+<h4>WIP</h4>
+
+{% include wip.html %}
+
+<br>
+
+<hr>
+
+
+<h4>Colophon</h4>
+
+{% include colophon.html %}
