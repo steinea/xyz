@@ -1,13 +1,38 @@
 <h4>Citation</h4>
 
-{% assign full_name = page.author %}
-{% assign name_parts = full_name | split: " " %}
-{% assign first_name = name_parts | first %}
-{% assign last_name = name_parts | last %}
+
 
 <p>
-  {{ last_name }}, {{ first_name }}. <em>{{ page.title }}</em>. {{ page.location }}: {{ page.publisher }}, {{ page.releaseDate }}. <a href="{{ page.link }}" title="{{ page.title }}">{{ page.upc }}</a>.
+  <!-- Iterate over author arrays in YAML -->
+  {% for author in page.author %}
+
+    <!-- Check if first loop through iteration -->
+    {% if forloop.first %}
+
+      <!-- Assign variables for lastname/firstname flip -->
+      {% assign firstAuthor = page.author | first %}
+      {% assign nameParts = firstAuthor | split: " " %}
+      {% assign firstName = nameParts | first %}
+      {% assign lastName = nameParts | last %}
+
+      <!-- Invert first and last name of first author -->
+      {{ lastName }}, {{ firstName }}{% if forloop.length == 1 %}. {% else %}, {% endif %}
+
+    <!-- Additional loops through iteration -->
+    {% else %}
+
+      <!-- Iterate over additional authors -->
+      {% if forloop.last %} and {% endif %}{{ author }}{% unless forloop.last %}, {% endunless %}{% if forloop.last %}.{% endif %}
+
+    {% endif %}
+
+  {% endfor %}
+
+  <!-- Add remainder of citation -->
+  <em>{{ page.title }}</em>. {{ page.location }}: {{ page.publisher }}, {{ page.releaseDate }}. <a href="{{ page.link }}" title="{{ page.title }}">{{ page.upc }}</a>.
+
 </p>
+
 
 <br>
 
