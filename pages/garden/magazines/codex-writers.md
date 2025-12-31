@@ -2,7 +2,7 @@
 layout: page
 category: wiki
 subcategory: workshops
-title: Codex
+title: Codex Writers
 publication: Web
 link: https://www.codexwriters.com/
 date: 2022-11-20
