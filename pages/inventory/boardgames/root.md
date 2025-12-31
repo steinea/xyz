@@ -3,7 +3,8 @@ layout: page
 category: boardgame
 subcategory: collection
 title: Root
-author: Cole Wehrle
+author:
+  - Cole Wehrle
 location: Saint Paul, MN
 publisher: Leder Games
 releaseDate: 2018

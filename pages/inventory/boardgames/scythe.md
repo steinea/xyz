@@ -3,7 +3,8 @@ layout: page
 category: boardgame
 subcategory: collection
 title: Scythe
-author: Jamey Stegmaier
+author:
+  - Jamey Stegmaier
 location: St. Louis, MO
 publisher: Stonemaier Games
 releaseDate: 2016
