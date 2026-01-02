@@ -10,11 +10,11 @@ published: 2021-12-08
 howlongtobeat: 29
 difficulty:
 trophyGuide:
-durationHours: 354
-trophies: 134/144
-percent: 93
+durationHours: 363
+trophies: 141/144
+percent: 98%
 link: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141
-date: 2025-11-05
+date: 2025-12-28
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Halo_Infinite):
