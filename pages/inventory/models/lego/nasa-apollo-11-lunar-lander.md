@@ -1,14 +1,14 @@
 ---
 layout: page
 category: lego
-subcategory: backlog
+subcategory: built
 title: NASA Apollo 11 Lunar Lander
 series: Creator Expert
 item: 10266
 pieces: 1087
 age: 16+
 link: https://www.lego.com/en-ca/product/nasa-apollo-11-lunar-lander-10266
-date: 1999-01-01
+date: 2026-01-01
 price: 150
 ---
 
