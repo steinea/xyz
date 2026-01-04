@@ -1,20 +1,30 @@
 ---
 layout: page
 category: videogame
-subcategory: now
+subcategory: complete
+tags:
+author: 343 Industries
 title: Halo Infinite
+published: 2021-12-08
+director:
+producer:
 developer: 343 Industries
 publisher: Xbox Game Studios
 platform: Xbox
-published: 2021-12-08
-howlongtobeat: 29
+howlongtobeat:
 difficulty:
 trophyGuide:
-durationHours: 363
-trophies: 141/144
-percent: 98
+durationHours: 364
+trophies: 144/144
+percent: 100
 link: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141
-date: 2025-12-28
+backloggd: https://backloggd.com/u/steinea/logs/halo-infinite/
+exophase: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141
+psnprofiles:
+steam:
+date: 2026-01-03
+rating:
+price:
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Halo_Infinite):
