@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Em Reed
-title: Reframing Abundance: Open Tools, Free Games, Distributed Culture
+title: Open Tools, Free Games, Distributed Culture
 publication: Em Reed
 link: https://emreed.net/Reframing_Abundance
 date: 2026-01-10
