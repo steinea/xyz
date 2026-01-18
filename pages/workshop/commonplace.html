@@ -31,6 +31,67 @@ title: Commonplace
 		{% assign totalArchive = totalArchive | plus: 1 %}
 	{% endfor %}
 
+<!-- Commonplace Check Entries Block -->
+
+{% assign thirteenCount = 0 %}
+{% assign fourteenCount = 0 %}
+{% assign fifteenCount = 0 %}
+{% assign sixteenCount = 0 %}
+{% assign seventeenCount = 0 %}
+{% assign eighteenCount = 0 %}
+{% assign twentyOneCount = 0 %}
+{% assign twentyTwoCount = 0 %}
+{% assign twentyThreeCount = 0 %}
+{% assign twentyFourCount = 0 %}
+{% assign twentyFiveCount = 0 %}
+{% assign twentySixCount = 0 %}
+
+{% for item in read %}
+	{% assign check_date = item.date | date: "%Y" %}
+	{% if check_date == "2013" %}
+		{% assign thirteenCount = thirteenCount | plus: 1 %}
+	{% elsif check_date == "2014" %}
+		{% assign fourteenCount = fourteenCount | plus: 1 %}
+	{% elsif check_date == "2015" %}
+		{% assign fifteenCount = fifteenCount | plus: 1 %}
+	{% elsif check_date == "2016" %}
+		{% assign sixteenCount = sixteenCount | plus: 1 %}
+	{% elsif check_date == "2017" %}
+		{% assign seventeenCount = seventeenCount | plus: 1 %}
+	{% elsif check_date == "2018" %}
+		{% assign eighteenCount = eighteenCount | plus: 1 %}
+	{% elsif check_date == "2021" %}
+		{% assign twentyOneCount = twentyOneCount | plus: 1 %}
+	{% elsif check_date == "2022" %}
+		{% assign twentyTwoCount = twentyTwoCount | plus: 1 %}
+	{% elsif check_date == "2023" %}
+		{% assign twentyThreeCount = twentyThreeCount | plus: 1 %}
+	{% elsif check_date == "2024" %}
+		{% assign twentyFourCount = twentyFourCount | plus: 1 %}
+	{% elsif check_date == "2025" %}
+		{% assign twentyFiveCount = twentyFiveCount | plus: 1 %}
+	{% elsif check_date == "2026" %}
+		{% assign twentySixCount = twentySixCount | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
+<!--
+<p>
+	2013 Count: {{ thirteenCount }}
+	<br>2014 Count: {{ fourteenCount }}
+	<br>2015 Count: {{ fifteenCount }}
+	<br>2016 Count: {{ sixteenCount }}
+	<br>2017 Count: {{ seventeenCount }}
+	<br>2018 Count: {{ eighteenCount }}
+	<br>2021 Count: {{ twentyOneCount }}
+	<br>2022 Count: {{ twentyTwoCount }}
+	<br>2023 Count: {{ twentyThreeCount }}
+	<br>2024 Count: {{ twentyFourCount }}
+	<br>2025 Count: {{ twentyFiveCount }}
+	<br>2026 Count: {{ twentySixCount }}
+</p>
+-->
+
 <h4>Entries</h4>
 
 <!-- Category Tabs -->
