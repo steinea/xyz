@@ -1,6 +1,7 @@
 ---
 layout: entry
 category: commonplace
+subcategory:
 author:
 title:
 publication:
