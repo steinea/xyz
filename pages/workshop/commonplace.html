@@ -4,10 +4,74 @@ category: workshop
 title: Commonplace
 ---
 
-{% assign sorted = site.posts | sort: 'date' | reverse %}
-	{% for item in sorted %}
-		{% if item.category contains "commonplace" %}
-			{{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-			<br>
-		{% endif %}
+<p>This page operates in the long tradition of <a href="/commonplace-book/">commonplace books</a>, which "have been kept from antiquity, and were kept particularly during the Renaissance and in the nineteenth century," for the purpose of recording "notes, proverbs, adages, aphorisms, maxims, recipes, quotes, letters, poems, tables of weights and measures, prayers, legal formulas, and other professional references." This specific instantiation of the form collects the notes from my primarily digital reading, going back as far as 2013.</p>
+
+<p>I used <a href="https://en.wikipedia.org/wiki/Instapaper">Instapaper</a> for many years, first with an <a href="https://en.wikipedia.org/wiki/IFTTT">IFTTT</a> automation that sent highlights to <a href="https://en.wikipedia.org/wiki/Evernote">Evernote</a>, and then, upon exceeding IFTTT's automation bandwidth, and subsequently extracting my notes from Evernote's proprietary clutches, with Instapaper's built in note export to plaintext. Not having a good solution for organizing these notes, I resorted to storing the text files in <a href="https://en.wikipedia.org/wiki/Dropbox">Dropbox</a>, which remained the case until I started the first version of this site and converted them all to Markdown with YAML frontmatter.</p>
+
+<p>Around 2018, Instapaper broke its note export, causing notes to be pasted in a random order into the export file. With this vital functionality no longer useable, I stopped using Instapaper and was without a suitable replacement for some time. This can be seen in the rather large gap in commonplace entries from 2018 to 2022. During this period, I mostly tracked my reading with posts to Twitter of quotations with associated links (which I was able to save from the platform and archive on my <a href="/posting/">Posting</a> page). I was delivered from this sorry state of affairs with the launch of <a href="https://readwise.io/read">Reader</a> by Readwise in late 2022, which has been a fantastic tool for my purposes. Reader's note export includes customizable templates, which has allowed me to export notes directly into Markdown with YAML frontmatter prepopulated with article metadata. This has dramatically simplified my digital reading and notetaking process, and has allowed me to once again maintain a fairly continuous stream of entries for this page.</p>
+
+<p>As has always been my challenge, I save more articles than I can read, and so I have started to more aggressively prune my RSS inbox. However, because I may yet want to return to some of these items, I have set up an archiving flow to keep track of a parallel stream of "stubs" that directs not to notes, but directly to the original sources, in the off chance that I, or a reader of this site, may yet find something of interest there. I will be working on populating this stream with both my old Instapaper unreads, and with older unread items from my Reader inbox, over the coming months.</p>
+
+<p>Finally, I am also in the process of setting up a cross-reference between this feed and my <a href="/publications/">codex</a>, with the end goal of having distinct publication pages with sub-feeds of articles from my commonplace listed there, and likewise an index of publications, and perhaps authors, that can be used to navigate to my codex from here. This will hopefully help with useability as this page continues to grow.</p>
+
+<br>
+
+<!-- Post Array -->
+{% assign read = site.posts | where: "category", "commonplace" | where: "subcategory", nil | sort: "date" | reverse %}
+{% assign archive = site.posts | where: "category", "commonplace" | where: "subcategory", "stub" | sort: "date" | reverse %}
+
+<!-- Array Counters -->
+{% assign totalRead = 0 %}
+	{% for item in read %}
+		{% assign totalRead = totalRead | plus: 1 %}
 	{% endfor %}
+
+{% assign totalArchive = 0 %}
+	{% for item in archive %}
+		{% assign totalArchive = totalArchive | plus: 1 %}
+	{% endfor %}
+
+<h4>Entries</h4>
+
+<!-- Category Tabs -->
+<div class="tab">
+	<button class="tablinks" onclick="openTab('read')">Read ({{ totalRead }})</button>
+	<button class="tablinks" onclick="openTab('archive')">Archive ({{ totalArchive }})</button>
+</div>
+
+<br>
+
+<!-- List Array Items -->
+<div id="read" class="tabcontent">
+	{% for item in read %}
+		{{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+		<br>
+	{% endfor %}
+</div>
+
+<div id="archive" class="tabcontent">
+	{% for item in archive %}
+		{{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.link }}" title="{{ item.title }}">{{ item.title }}</a>
+		<br>
+	{% endfor %}
+</div>
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('read');
+</script>
