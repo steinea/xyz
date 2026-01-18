@@ -4,10 +4,7 @@ category: workshop
 title: Annotations
 ---
 
-{% assign sorted = site.pages | sort: 'date' | reverse %}
-	{% for item in sorted %}
-		{% if item.tags contains "annotations" %}
-			{{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-			<br>
-		{% endif %}
-	{% endfor %}
+{% assign sorted = site.pages | where: "category", "books" | where: "tags", "annotations" | sort: "date" | reverse %}
+{% for item in sorted %}
+    {{ item.date }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+{% endfor %}
