@@ -5,12 +5,12 @@ subcategory: wishlist
 tags: behaviour-driven-development
 author: John Ferguson Smart, Jan Molak
 title: BDD in Action
-published:
+published: 2023
 started:
 finished:
-date:
+date: 2023
 rating: exclude
-price:
+price: 80
 ---
 
 #### Citation
