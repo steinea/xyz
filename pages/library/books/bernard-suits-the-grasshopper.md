@@ -2,7 +2,10 @@
 layout: page
 category: books
 subcategory: read
-tags: annotations agency game-studies
+tags:
+  - annotations
+  - agency
+  - game-studies
 author: Bernard Suits
 title: The Grasshopper
 published: 1978
