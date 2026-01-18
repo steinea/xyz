@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Bret Devereaux
-title: Tolkien and Éowyn Between Two Wars (PPP Moot Keynote)
+title: Tolkien and Éowyn Between Two Wars
 publication: A Collection of Unmitigated Pedantry
 link: https://acoup.blog/2026/01/03/new-acquisitions-tolkien-and-eowyn-between-two-wars-ppp-moot-keynote/
 date: 2026-01-17
