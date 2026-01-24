@@ -1,0 +1,96 @@
+---
+layout: default
+category: inventory
+title: Gear
+---
+
+<!-- Sorted Category Arrays -->
+
+{% assign equipment = site.pages | where: "category", "equipment" | where_exp: "item", "item.subcategory != 'wishlist'" | sort: "title" %}
+{% assign hardware = site.pages | where: "category", "hardware" | where_exp: "item", "item.subcategory != 'wishlist'" | sort: "title" %}
+{% assign jerseys = site.pages | where: "category", "jersey" | where_exp: "item", "item.subcategory != 'wishlist'" | sort: "title" %}
+{% assign wishlist = site.pages | where_exp: "item", "item.category contains 'equipment' or item.category contains 'hardware' or item.category contains 'jersey'" | where: "subcategory", "wishlist" | sort: "title" %}
+
+<!-- Category Counts -->
+
+{% assign totalEquipment = 0 %}
+  {% for item in equipment %}
+      {% assign totalEquipment = totalEquipment | plus: 1 %}
+  {% endfor %}
+
+{% assign totalHardware = 0 %}
+  {% for item in hardware %}
+      {% assign totalHardware = totalHardware | plus: 1 %}
+  {% endfor %}
+
+{% assign totalJerseys = 0 %}
+  {% for item in jerseys %}
+      {% assign totalJerseys = totalJerseys | plus: 1 %}
+  {% endfor %}
+
+{% assign totalWishlist = 0 %}
+  {% for item in wishlist %}
+      {% assign totalWishlist = totalWishlist | plus: 1 %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('equipment')">Equipment ({{ totalEquipment }})</button>
+  <button class="tablinks" onclick="openTab('hardware')">Hardware ({{ totalHardware }})</button>
+  <button class="tablinks" onclick="openTab('jerseys')">Jerseys ({{ totalJerseys }})</button>
+  <button class="tablinks" onclick="openTab('wishlist')">Wishlist ({{ totalWishlist }})</button>
+</div>
+
+<br>
+
+<!-- Equipment Tab -->
+<div id="equipment" class="tabcontent">
+  {% for item in equipment %}
+    <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+    <br>
+  {% endfor %}
+</div>
+
+<!-- Hardware Tab -->
+<div id="hardware" class="tabcontent">
+  {% for item in hardware %}
+    <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+    <br>
+  {% endfor %}
+</div>
+
+<!-- Jerseys Tab -->
+<div id="jerseys" class="tabcontent">
+  {% for item in jerseys %}
+    {{ item.author }} {{ item.season }}, <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+    <br>
+  {% endfor %}
+</div>
+
+<!-- Wishlist Tab -->
+<div id="wishlist" class="tabcontent">
+  {% for item in wishlist %}
+    ${{ item.price }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+    <br>
+  {% endfor %}
+</div>
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('equipment');
+</script>
