@@ -2,7 +2,7 @@
 layout: page
 category: jersey
 subcategory: football
-author: Canada Women's National Team
+author: CANWNT
 title: Geometric Maple
 colours: Home
 season: "23/24"

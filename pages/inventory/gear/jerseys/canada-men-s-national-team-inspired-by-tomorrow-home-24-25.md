@@ -2,7 +2,7 @@
 layout: page
 category: jersey
 subcategory: football
-author: Canada Men's National Team
+author: CANMNT
 title: Inspired by Tomorrow
 colours: Home
 season: "24/25"
