@@ -4,7 +4,151 @@ category: activity
 title: Playing
 ---
 
-{% assign plays = site.posts | where: "category", "playing" %}
-  {% for item in plays %}
+<!-- Category Counts -->
+{% assign totalBoardGamePlays = 0 %}
+{% assign boardGamePlays = site.posts | where: "category", "playing" | where: "subcategory", "boardgame" %}
+  {% for item in boardGamePlays %}
+    {% assign totalBoardGamePlays = totalBoardGamePlays | plus: 1 %}
+  {% endfor %}
+
+{% assign totalTCGPlays = 0 %}
+{% assign tcgPlays = site.posts | where: "category", "playing" | where: "subcategory", "tcg" %}
+  {% for item in tcgPlays %}
+    {% assign totalTCGPlays = totalTCGPlays | plus: 1 %}
+  {% endfor %}
+
+{% assign totalTTRPGPlays = 0 %}
+{% assign ttrpgPlays = site.posts | where: "category", "playing" | where: "subcategory", "ttrpg" %}
+  {% for item in ttrpgPlays %}
+    {% assign totalTTRPGPlays = totalTTRPGPlays | plus: 1 %}
+  {% endfor %}
+
+{% assign totalVideoGamePlays = 0 %}
+{% assign videoGamePlays = site.pages | where: "category", "videogame" | where_exp: "item", "item.subcategory contains 'now' or item.subcategory contains 'complete' or item.subcategory contains 'retired'" %}
+  {% for item in videoGamePlays %}
+    {% assign totalVideoGamePlays = totalVideoGamePlays | plus: 1 %}
+  {% endfor %}
+
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('boardgames')">Board Games ({{ totalBoardGamePlays }})</button>
+  <button class="tablinks" onclick="openTab('tcgs')">TCGs ({{ totalTCGPlays }})</button>
+  <button class="tablinks" onclick="openTab('ttrpgs')">TTRPGs ({{ totalTTRPGPlays }})</button>
+  <button class="tablinks" onclick="openTab('videogames')">Video Games ({{ totalVideoGamePlays }})</button>
+</div>
+
+<br>
+
+
+<!-- Board Games Tab -->
+<div id="boardgames" class="tabcontent">
+  {% for item in boardGamePlays %}
     {{ item.date | date: "%Y-%m-%d" }} <a href="/{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
   {% endfor %}
+</div>
+
+
+<!-- TCGs Tab -->
+<div id="tcgs" class="tabcontent">
+  {% for item in tcgPlays %}
+    {{ item.date | date: "%Y-%m-%d" }} <a href="/{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+</div>
+
+
+<!-- TTRPGs Tab -->
+<div id="ttrpgs" class="tabcontent">
+  {% for item in ttrpgPlays %}
+    {{ item.date | date: "%Y-%m-%d" }} <a href="/{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+</div>
+
+
+<!-- Video Games Tab -->
+<div id="videogames" class="tabcontent">
+
+  {% assign totalInProgress = 0 %}
+  {% assign inProgress = site.pages | where: "category", "videogame" | where: "subcategory", "now" | sort: "percent" | reverse %}
+    {% for item in inProgress %}
+        {% assign totalInProgress = totalInProgress | plus: 1 %}
+    {% endfor %}
+
+  <span id="inProgress"><em>In Progress ({{ totalInProgress }})</em></span><br>
+  <p>
+    {% for item in inProgress %}
+      {{ item.percent }}% <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  {% assign totalComplete = 0 %}
+  {% assign complete = site.pages | where: "category", "videogame" | where: "subcategory", "complete" | sort: "date" | reverse %}
+    {% for item in complete %}
+        {% assign totalComplete = totalComplete | plus: 1 %}
+    {% endfor %}
+
+  <span id="complete"><em>Complete ({{ totalComplete }})</em></span><br>
+  <p>
+    {% for item in complete %}
+      {{ item.date | date: '%Y-%m-%d' }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  {% assign totalRetired = 0 %}
+  {% assign retired = site.pages | where: "category", "videogame" | where: "subcategory", "retired" | sort: "percent" | reverse %}
+    {% for item in retired %}
+        {% assign totalRetired = totalRetired | plus: 1 %}
+    {% endfor %}
+
+  <span id="retired"><em>Retired ({{ totalRetired }})</em></span><br>
+  <p>
+    {% for item in retired %}
+      {{ item.percent }}% <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  {% assign totalBacklog = 0 %}
+  {% assign backlog = site.pages | where: "category", "videogame" | where: "subcategory", "backlog" | sort: "howlongtobeat" %}
+    {% for item in backlog %}
+        {% assign totalBacklog = totalBacklog | plus: 1 %}
+    {% endfor %}
+
+  <span id="backlog"><em>Backlog ({{ totalBacklog }})</em></span><br>
+  <p>
+    {% for item in backlog %}
+      {{ item.howlongtobeat }}h <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+</div>
+
+
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('boardgames');
+</script>
