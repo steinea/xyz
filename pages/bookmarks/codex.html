@@ -1,0 +1,10 @@
+---
+layout: default
+category: bookmarks
+title: Codex
+---
+
+{% assign codex = site.pages | where: "category", "codex" | sort: "title" %}
+  {% for item in codex %}
+    <a href="/{{ item.title | downcase }}/">{{ item.title }}</a><br>
+  {% endfor %}
