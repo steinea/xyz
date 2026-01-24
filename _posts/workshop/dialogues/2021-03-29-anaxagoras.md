@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-subcategory: transcripts
+subcategory: dialogues
 title: Anaxagoras
 date: 2021-03-29
 ---

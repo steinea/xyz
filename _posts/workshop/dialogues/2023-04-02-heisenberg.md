@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-subcategory: transcripts
+subcategory: dialogues
 title: Heisenberg
 date: 2023-04-02
 ---

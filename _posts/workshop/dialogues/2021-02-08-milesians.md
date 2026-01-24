@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-subcategory: transcripts
+subcategory: dialogues
 title: Milesians
 date: 2021-02-08
 ---

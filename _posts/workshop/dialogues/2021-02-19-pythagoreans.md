@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-subcategory: transcripts
+subcategory: dialogues
 title: Pythagoreans
 date: 2021-02-19
 ---
