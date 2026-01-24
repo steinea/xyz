@@ -1,0 +1,10 @@
+---
+layout: default
+category: bookmarks
+title: Feed
+---
+
+{% assign feed = site.pages | where: "category", "wiki" | where_exp: "item", "item.subcategory != 'directory'" | sort: "date" | reverse %}
+{% for item in feed %}
+    {{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+{% endfor %}
