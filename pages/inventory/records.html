@@ -5,10 +5,10 @@ title: Records
 ---
 
 <!-- Category Counts -->
-{% assign totalCollection = 0 %}
+{% assign totalVinyl = 0 %}
   {% for page in site.pages %}
     {% if page.category contains "vinyl" and page.subcategory != "wishlist" %}
-      {% assign totalCollection = totalCollection | plus: 1 %}
+      {% assign totalVinyl = totalVinyl | plus: 1 %}
     {% endif %}
   {% endfor %}
 
@@ -21,14 +21,14 @@ title: Records
 
 <!-- Category Tabs -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab('collection')">Collection ({{ totalCollection }})</button>
+  <button class="tablinks" onclick="openTab('vinyl')">Vinyl ({{ totalVinyl }})</button>
   <button class="tablinks" onclick="openTab('wishlist')">Wishlist ({{ totalWishlist }})</button>
 </div>
 
 <br>
 
 <!-- Collection Tab -->
-<div id="collection" class="tabcontent">
+<div id="vinyl" class="tabcontent">
   {% assign sorted = site.pages | sort: "author" %}
   {% for item in sorted %}
     {% if item.category contains "vinyl" and item.subcategory != "wishlist" %}
@@ -66,5 +66,5 @@ title: Records
   }
 
   // Show the first tab by default
-  openTab('collection');
+  openTab('vinyl');
 </script>
