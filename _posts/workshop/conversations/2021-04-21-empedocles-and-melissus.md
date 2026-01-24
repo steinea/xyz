@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-subcategory: dialogues
+subcategory: conversation
 title: Empedocles and Melissus
 date: 2021-04-21
 ---

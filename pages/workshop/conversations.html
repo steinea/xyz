@@ -1,11 +1,11 @@
 ---
 layout: default
 category: workshop
-title: Dialogues
+title: Conversations
 ---
 
 {% for post in site.posts %}
-  {% if post.category contains "post" and post.subcategory contains "transcripts" %}
+  {% if post.category contains "post" and post.subcategory contains "conversation" %}
     {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
   {% endif %}
 {% endfor %}

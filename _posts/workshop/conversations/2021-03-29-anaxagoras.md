@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-subcategory: dialogues
+subcategory: conversation
 title: Anaxagoras
 date: 2021-03-29
 ---
