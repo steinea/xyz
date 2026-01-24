@@ -1,7 +1,7 @@
 ---
 layout: post
 category: playing
-subcategory: boardgame
+subcategory: tcg
 title: Bloomburrow Draft
 date: 2024-12-29
 ---
