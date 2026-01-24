@@ -32,5 +32,5 @@ defaults:
 # Exclusions
 exclude:	['/_posts/commonplace/template.md',
 		'/_posts/social/template.md',
-		'/pages/garden/template.md',
+		'/pages/bookmarks/template.md',
 		'/pages/inventory/_templates']
