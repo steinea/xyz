@@ -5,9 +5,9 @@ author:
   - Iman Ganji
   - Bahar Noorizadeh
 title: Iran's Three-Body Problem
-publication: n+1 
+publication: n+1
 link: https://www.nplusonemag.com/online-only/online-only/irans-three-body-problem/
-date:
+date: 2025-01-24
 ---
 
 "This is what we are dealing with now in Iran: Imperialist powers, led by the United States, are preparing the ground for an attack, portending bombardment, civil war, and immense destruction. At the same time, the Iranian state has sealed off the country, cut all lines of communication, and is killing those insid"
