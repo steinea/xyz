@@ -5,7 +5,7 @@ author: Kerry Howley
 title: The People vs. ICE
 publication: New York Magazine
 link: https://nymag.com/intelligencer/article/minneapolis-vs-donald-trump-ice-invasion.html?utm_medium=s1&utm_campaign=nym&utm_source=bluesky
-date: 2025-01-24
+date: 2026-01-24
 ---
 
 "If you grow up in New England the war made relentlessly real to you is the Revolutionary one. Men came to this land in ridiculous red coats and farmers in plainclothes drove them to humiliation and ruin. Minnesota, unlike most midwestern states, was founded by New Englanders, who brought their colleges and town squares and the moral rectitude some call sanctimony well west of Connecticut"

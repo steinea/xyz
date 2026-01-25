@@ -5,7 +5,7 @@ author: Kyla Scanlon
 title: Prediction Markets
 publication: New York Times
 link: https://www.nytimes.com/2026/01/23/opinion/prediction-markets-reality-democracy.html
-date: 2025-01-24
+date: 2026-01-24
 ---
 
 "Prediction markets have exploded into mainstream American life. Platforms like Polymarket and Kalshi now allow users to bet on virtually any outcome of a future event"

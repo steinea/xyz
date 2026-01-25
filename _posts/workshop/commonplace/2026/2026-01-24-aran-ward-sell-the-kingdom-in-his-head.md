@@ -5,7 +5,7 @@ author: Aran Ward Sell
 title: The Kingdom in His Head
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/titus-alone-peake-gormenghast-trilogy-review-essay/
-date: 2025-01-24
+date: 2026-01-24
 ---
 
 "*Titus Alone* (1959), the third and final novel featuring Titus Groan by the British author and artist Mervyn Peake. These works are now often referred to as the *Gormenghast* trilogy. The two prior novels, *Titus Groan* (1946) and *Gormenghast* (1950), are rightly hailed as classics of fantasy, gothicism, and midcentury literature writ large"

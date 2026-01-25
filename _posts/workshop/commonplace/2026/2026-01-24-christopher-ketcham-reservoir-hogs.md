@@ -5,7 +5,7 @@ author: Christopher Ketcham
 title: Reservoir Hogs
 publication: The Baffler
 link: https://thebaffler.com/salvos/reservoir-hogs-ketcham
-date: 2025-01-24
+date: 2026-01-24
 ---
 
 "the unfinished 190-million-gallon Sainte-Soline reservoir, a taxpayer-funded boondoggle intended to create a surplus of water for irrigated agriculture"

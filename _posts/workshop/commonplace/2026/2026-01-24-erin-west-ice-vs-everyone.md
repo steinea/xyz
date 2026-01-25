@@ -5,7 +5,7 @@ author: Erin West
 title: ICE vs. Everyone
 publication: n+1
 link: https://www.nplusonemag.com/online-only/online-only/ice-vs-everyone/
-date: 2025-01-24
+date: 2026-01-24
 ---
 
 "Minneapolis learned a lot from the George Floyd protests and it shows"

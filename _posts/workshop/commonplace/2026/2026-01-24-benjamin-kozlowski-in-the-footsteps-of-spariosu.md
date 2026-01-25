@@ -5,7 +5,7 @@ author: Benjamin Kozlowski
 title: In the Footsteps of Spariosu
 publication: Video Game Academy
 link: https://videogameacademia.org/2024/08/02/in-the-footsteps-of-spariosu-play-in-philosophy/
-date: 2025-01-24
+date: 2026-01-24
 ---
 
 "What if we were to read the philosophical tradition again from the top, noticing everywhere the ideas of ‘play’ and ‘games’ come up, and to try to give some account of how they are all related?"

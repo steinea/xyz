@@ -5,7 +5,7 @@ author: Jennifer Szalai
 title: Keeping Score
 publication: New York Times
 link: https://archive.is/EOtZT
-date: 2025-01-24
+date: 2026-01-24
 ---
 
 "Nguyen shows how scoring systems tantalize us by making certain measures of success seem undeniable"
