@@ -4,12 +4,17 @@ category: activity
 title: Watching
 ---
 
+<p>🚧 <em>Under construction. This page will be a more complicated one to finish and maintain, given the volume of data I intend to include. My plan is to use posts to log watches of <a href="/films/">Films</a> in my library, along with ratings and reviews associated with those watches, and list those posts in a feed akin to <a href="https://letterboxd.com">Letterboxd</a>. I have a record of films watched without ratings going back to around 2017 in <a href="https://trakt.tv/dashboard">Trakt</a>, and with ratings going back to 2023 in Letterboxd. The total is a few hundred, which is not unmanageable to convert into pages with cross-referenced posts.</em></p>
+
+<p><em>Television, on the other hand, is another matter altogether. At time of writing this, I have logged 7,601 episodes of TV across 219 different shows (with some issues in the early data that I need to resolve, which may push this number up or down). Shows will get individual Series pages under <a href="/television/">Television</a>, and completion status can be tracked with posts, in the same way that I intend to do for video games. This should be doable, but there is no way I can make individual posts for every episode of every series. The Episode tab's content will have to be generated from a data file exported from Trakt instead. I will then need to add filters to each Series page, which will list episodes with watch dates pulled from that data file.</em></p>
+
+<p><em>The last detail is cross-referencing with physical media, where appropriate. Blurays are collected under <a href="/discs/">Discs</a> in my inventory, but I don't yet have a clear plan for what cross-referencing watches of discs will look like.</em></p>
+
 <!-- Category Counts -->
-{% assign totalFilms = 0 %}
-  {% for page in site.pages %}
-    {% if page.category contains "film" and page.subcategory contains "watched" %}
-      {% assign totalFilms = totalFilms | plus: 1 %}
-    {% endif %}
+{% assign totalFilmWatches = 0 %}
+{% assign filmWatches = site.posts | where: "category", "watching" | where: "subcategory", "film" %}
+  {% for item in filmWatches %}
+    {% assign totalFilmWatches = totalFilmWatches | plus: 1 %}
   {% endfor %}
 
 {% assign totalEpisodes = 0 %}
@@ -29,7 +34,7 @@ title: Watching
 
 <!-- Category Tabs -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab('films')">Films ({{ totalFilms }})</button>
+  <button class="tablinks" onclick="openTab('films')">Films ({{ totalFilmWatches }})</button>
   <button class="tablinks" onclick="openTab('episodes')">Episodes ({{ totalEpisodes }})</button>
   <button class="tablinks" onclick="openTab('series')">Series ({{ totalSeries }})</button>
 </div>
@@ -39,12 +44,8 @@ title: Watching
 
 <!-- Films Tab -->
 <div id="films" class="tabcontent">
-  {% assign sorted = site.pages | sort: "date" | reverse %}
-  {% for item in sorted %}
-    {% if item.category contains "film" and item.subcategory contains "watched" %}
-      {{ item.date }} <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
-      <br>
-    {% endif %}
+  {% for item in filmWatches %}
+    {{ item.date | date: "%Y-%m-%d" }} <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a>, {{ item.rating }} stars<br>
   {% endfor %}
 </div>
 
@@ -62,7 +63,7 @@ title: Watching
 
 
 <!-- Series Tab -->
-<div id="films" class="tabcontent">
+<div id="series" class="tabcontent">
   {% assign sorted = site.pages | sort: "date" | reverse %}
   {% for item in sorted %}
     {% if item.category contains "series" and item.subcategory contains "watched" %}
@@ -71,3 +72,24 @@ title: Watching
     {% endif %}
   {% endfor %}
 </div>
+
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('films');
+</script>

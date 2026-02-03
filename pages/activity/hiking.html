@@ -4,6 +4,8 @@ category: activity
 title: Hiking
 ---
 
+<p>🚧 <em>Under construction. This page is built from posts that log my backcountry adventures. Currently, the posts listed here are only placeholders with dates and titles. I intend to update these posts with trip reports (where available), assets like photos and maps, and to cross-reference them with <a href="/gear/">Gear</a> in my inventory and <a href="/groups/#places">Places</a> in my bookmarks.</em></p>
+
 {% for post in site.posts %}
   {% if post.subcategory contains "hike" %}
     {{ post.date | date: '%Y-%m-%d' }} <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
