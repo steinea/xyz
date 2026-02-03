@@ -10,6 +10,8 @@ title: Watching
 
 <p><em>The last detail is cross-referencing with physical media, where appropriate. Blurays are collected under <a href="/discs/">Discs</a> in my inventory, but I don't yet have a clear plan for what cross-referencing watches of discs will look like.</em></p>
 
+<br>
+
 <!-- Category Counts -->
 {% assign totalFilmWatches = 0 %}
 {% assign filmWatches = site.posts | where: "category", "watching" | where: "subcategory", "film" %}
@@ -105,7 +107,7 @@ title: Watching
 
   <!-- Backlog Counter -->
   {% assign totalBacklog = 0 %}
-  {% assign backlog = seriesWatches | where: "subcategory", "backlog" | sort: "episodes" | reverse %}
+  {% assign backlog = seriesWatches | where: "subcategory", "backlog" | sort: "episodes" %}
     {% for item in backlog %}
       {% assign totalBacklog = totalBacklog | plus: 1 %}
     {% endfor %}
@@ -113,7 +115,7 @@ title: Watching
   <span id="retired"><em>Backlog ({{ totalBacklog }})</em></span><br>
   <p>
     {% for item in backlog %}
-      <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+      {{ item.episodes }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
     {% endfor %}
   </p>
 </div>
