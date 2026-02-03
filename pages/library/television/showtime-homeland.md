@@ -1,14 +1,12 @@
 ---
 layout: page
-category: wiki
-subcategory: television
-tags:
-  - retired
+category: television
+subcategory: retired
 title: Homeland
 publication: Showtime
 link: https://en.wikipedia.org/wiki/Homeland_(TV_series)
 episodes: 48/96
-percent: 50%
+percent: 50
 retired: Season 45
 date: 2014-12-21
 ---

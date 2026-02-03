@@ -24,19 +24,18 @@ title: Watching
     {% endif %}
   {% endfor %}
 
-{% assign totalSeries = 0 %}
-  {% for page in site.pages %}
-    {% if page.category contains "series" and page.subcategory contains "watched" %}
-      {% assign totalSeries = totalSeries | plus: 1 %}
-    {% endif %}
+{% assign totalSeriesWatches = 0 %}
+{% assign seriesWatches = site.pages | where: "category", "television" %}
+  {% for item in seriesWatches %}
+    {% assign totalSeriesWatches = totalSeriesWatches | plus: 1 %}
   {% endfor %}
 
 
 <!-- Category Tabs -->
 <div class="tab">
   <button class="tablinks" onclick="openTab('films')">Films ({{ totalFilmWatches }})</button>
+  <button class="tablinks" onclick="openTab('series')">Series ({{ totalSeriesWatches }})</button>
   <button class="tablinks" onclick="openTab('episodes')">Episodes ({{ totalEpisodes }})</button>
-  <button class="tablinks" onclick="openTab('series')">Series ({{ totalSeries }})</button>
 </div>
 
 <br>
@@ -50,24 +49,84 @@ title: Watching
 </div>
 
 
+<!-- Series Tab -->
+<div id="series" class="tabcontent">
+
+  <!-- In Progress Counter -->
+  {% assign totalInProgress = 0 %}
+  {% assign inProgress = seriesWatches | where: "subcategory", "now" | sort: "percent" | reverse %}
+    {% for item in inProgress %}
+      {% assign totalInProgress = totalInProgress | plus: 1 %}
+    {% endfor %}
+
+  <span id="inprogress"><em>In Progress ({{ totalInProgress }})</em></span><br>
+  <p>
+    {% for item in inProgress %}
+      {{ item.percent }}% <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  <!-- Complete Counter -->
+  {% assign totalComplete = 0 %}
+  {% assign complete = seriesWatches | where: "subcategory", "complete" | sort: "date" | reverse %}
+    {% for item in complete %}
+      {% assign totalComplete = totalComplete | plus: 1 %}
+    {% endfor %}
+
+  <span id="complete"><em>Complete ({{ totalComplete }})</em></span><br>
+  <p>
+    {% for item in complete %}
+      {{ item.date | date: '%Y-%m-%d' }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  <!-- Retired Counter -->
+  {% assign totalRetired = 0 %}
+  {% assign retired = seriesWatches | where: "subcategory", "retired" | sort: "percent" | reverse %}
+    {% for item in retired %}
+      {% assign totalRetired = totalRetired | plus: 1 %}
+    {% endfor %}
+
+  <span id="retired"><em>Retired ({{ totalRetired }})</em></span><br>
+  <p>
+    {% for item in retired %}
+      {{ item.percent }}% <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  <!-- Backlog Counter -->
+  {% assign totalBacklog = 0 %}
+  {% assign backlog = seriesWatches | where: "subcategory", "backlog" | sort: "episodes" | reverse %}
+    {% for item in backlog %}
+      {% assign totalBacklog = totalBacklog | plus: 1 %}
+    {% endfor %}
+
+  <span id="retired"><em>Backlog ({{ totalBacklog }})</em></span><br>
+  <p>
+    {% for item in backlog %}
+      <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
 <!-- Episodes Tab -->
 <div id="episodes" class="tabcontent">
   {% assign sorted = site.pages | sort: "date" | reverse %}
   {% for item in sorted %}
     {% if item.category contains "episodes" and item.subcategory contains "watched" %}
       {{ item.date }} <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
-      <br>
-    {% endif %}
-  {% endfor %}
-</div>
-
-
-<!-- Series Tab -->
-<div id="series" class="tabcontent">
-  {% assign sorted = site.pages | sort: "date" | reverse %}
-  {% for item in sorted %}
-    {% if item.category contains "series" and item.subcategory contains "watched" %}
-      {{ item.percent }}% <em><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></em>
       <br>
     {% endif %}
   {% endfor %}

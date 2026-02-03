@@ -1,14 +1,12 @@
 ---
 layout: page
-category: wiki
-subcategory: television
-tags:
-  - retired
+category: television
+subcategory: retired
 title: Hell on Wheels
 publication: AMC
 link: https://en.wikipedia.org/wiki/Hell_on_Wheels_(TV_series)
 episodes: 30/57
-percent: 53%
+percent: 53
 retired: Season 4
 date: 2013-10-05
 ---
