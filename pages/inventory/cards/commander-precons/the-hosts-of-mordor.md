@@ -2,7 +2,8 @@
 layout: page
 category: deck
 subcategory: magicthegathering
-format: Commander
+format: Commander Precon
+set: LTC
 identity: Grixis
 author: Wizards of the Coast
 title: The Hosts of Mordor

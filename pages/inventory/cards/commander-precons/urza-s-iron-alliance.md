@@ -2,7 +2,8 @@
 layout: page
 category: deck
 subcategory: magicthegathering
-format: Commander
+format: Commander Precon
+set: BRC
 identity: Esper
 author: Wizards of the Coast
 title: Urza's Iron Alliance

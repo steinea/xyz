@@ -2,7 +2,8 @@
 layout: page
 category: deck
 subcategory: magicthegathering
-format: Commander
+format: Commander Precon
+set: LCC
 identity: Naya
 author: Wizards of the Coast
 title: Veloci-Ramp-Tor

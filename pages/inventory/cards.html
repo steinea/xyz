@@ -4,37 +4,38 @@ category: inventory
 title: Cards
 ---
 
-<p><em>Data exported from <a href="https://moxfield.com/users/steinea" class="u-url" rel="me">Moxfield</a>.</em></p>
+<p>ℹ️ <em>I heavily rely upon <a href="https://moxfield.com/">Moxfield</a> and <a href="https://scryfall.com/">Scryfall</a> for managing my card collection and deck lists. The Cards tab is built from a CSV file exported from Moxfield, using Liquid to parse the data and procedurally generate links to the cards on Scryfall. The Decks tab looks for pages in my Inventory directory with the deck category, and then lists them here, grouped by format. These currently link out to the deck lists on Moxfield,  since deck export does not have a CSV option, only plain text. I may update these pages to directly host the plain text lists in the future.</em></p>
+
+<br>
 
 <!-- Category Counts -->
-{% assign totalCollection = 0 %}
-  {% for card in site.data.cards %}
-
-    {% assign cardMultiplier = card.Count %}
+{% assign totalCards = 0 %}
+{% assign cards = site.data.cards | sort: "Name" %}
+  {% for item in cards %}
+    {% assign cardMultiplier = item.Count %}
     {% assign cardAddition = 1 | times: cardMultiplier %}
-
-    {% assign totalCollection = totalCollection | plus: cardAddition %}
+    {% assign totalCards = totalCards | plus: cardAddition %}
   {% endfor %}
 
 {% assign totalDecks = 0 %}
-  {% for page in site.pages %}
-    {% if page.category contains "deck" %}
-      {% assign totalDecks = totalDecks | plus: 1 %}
-    {% endif %}
+{% assign decks = site.pages | where: "category", "deck" | sort: "title" %}
+  {% for item in decks %}
+    {% assign totalDecks = totalDecks | plus: 1 %}
   {% endfor %}
+
 
 <!-- Category Tabs -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab('collection')">Collection ({{ totalCollection }})</button>
+  <button class="tablinks" onclick="openTab('collection')">Collection ({{ totalCards }})</button>
   <button class="tablinks" onclick="openTab('decks')">Decks ({{ totalDecks }})</button>
 </div>
 
 <br>
 
+
 <!-- Collection Tab -->
 <div id="collection" class="tabcontent">
-  {% assign sorted = site.data.cards | sort: "Name" %}
-  {% for item in sorted %}
+  {% for item in cards %}
     {{ item.Count }}x <a href="https://scryfall.com/card/{{ item.Edition }}/{{ item["Collector Number"] }}/" target="_blank" rel="noopener noreferrer">{{ item.Name }}</a>
     <br>
   {% endfor %}
@@ -43,13 +44,92 @@ title: Cards
 
 <!-- Decks Tab -->
 <div id="decks" class="tabcontent">
-  {% assign sortedDecks = site.pages | sort: "title" %}
-  {% for item in sortedDecks %}
-    {% if item.category contains "deck" %}
-      <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
-    <br>
-    {% endif %}
-  {% endfor %}
+
+  <!-- Commander Counter -->
+  {% assign totalCommander = 0 %}
+  {% assign commander = decks | where: "format", "Commander" | sort: "title" %}
+    {% for item in commander %}
+      {% assign totalCommander = totalCommander | plus: 1 %}
+    {% endfor %}
+
+  <span id="commander"><em>Commander ({{ totalCommander }})</em></span><br>
+  <p>
+    {% for item in commander %}
+      <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  <!-- Commander Precon Counter -->
+  {% assign totalCommanderPrecons = 0 %}
+  {% assign commanderPrecons = decks | where: "format", "Commander Precon" | sort: "title" %}
+    {% for item in commanderPrecons %}
+      {% assign totalCommanderPrecons = totalCommanderPrecons | plus: 1 %}
+    {% endfor %}
+
+  <span id="commander-precons"><em>Commander Precons ({{ totalCommanderPrecons }})</em></span><br>
+  <p>
+    {% for item in commanderPrecons %}
+      <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  <!-- Draft Counter -->
+  {% assign totalDraft = 0 %}
+  {% assign draft = decks | where: "format", "Draft" | sort: "title" %}
+    {% for item in draft %}
+      {% assign totalDraft = totalDraft | plus: 1 %}
+    {% endfor %}
+
+  <span id="draft"><em> Draft ({{ totalDraft }})</em></span><br>
+  <p>
+    {% for item in draft %}
+      <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  <!-- Draft Upgrades Counter -->
+  {% assign totalDraftUpgrades = 0 %}
+  {% assign draftUpgrades = decks | where: "format", "Draft Upgrade" | sort: "title" %}
+    {% for item in draftUpgrades %}
+      {% assign totalDraftUpgrades = totalDraftUpgrades | plus: 1 %}
+    {% endfor %}
+
+  <span id="draft-upgrades"><em> Draft Upgrades ({{ totalDraftUpgrades }})</em></span><br>
+  <p>
+    {% for item in draftUpgrades %}
+      <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
+  <!-- Modern Counter -->
+  {% assign totalModern = 0 %}
+  {% assign modern = decks | where: "format", "Modern" | sort: "title" %}
+    {% for item in modern %}
+      {% assign totalModern = totalModern | plus: 1 %}
+    {% endfor %}
+
+  <span id="modern"><em> Modern ({{ totalModern }})</em></span><br>
+  <p>
+    {% for item in modern %}
+      <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a><br>
+    {% endfor %}
+  </p>
+
+  <br>
+
+
 </div>
 
 

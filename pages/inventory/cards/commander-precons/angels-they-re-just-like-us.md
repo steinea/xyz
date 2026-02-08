@@ -2,10 +2,11 @@
 layout: page
 category: deck
 subcategory: magicthegathering
-format: "Angels: They're Just Like Us"
-identity: Grixis
+format: Commander Precon
+set: SLD
+identity: Mono White
 author: Secret Lair
-title: Mono White
+title: "Angels: They're Just Like Us"
 link: https://moxfield.com/decks/v-fihlreKkCPiK39pAGwig
 date:
 ---

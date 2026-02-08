@@ -2,7 +2,8 @@
 layout: page
 category: deck
 subcategory: magicthegathering
-format: Commander
+format: Commander Precon
+set: CLB
 identity: Orzhov
 author: Wizards of the Coast
 title: Party Time
