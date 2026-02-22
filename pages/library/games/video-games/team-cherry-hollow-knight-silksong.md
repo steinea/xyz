@@ -12,15 +12,15 @@ published: 2025-09-04
 howlongtobeat: 31
 difficulty:
 trophyGuide:
-durationHours: 40
-trophies: 17/52
-percent: 33
+durationHours: 48
+trophies: 30/52
+percent: 58
 link: https://steamcommunity.com/id/steinea/stats/1030300/achievements/
 backloggd: https://backloggd.com/u/steinea/logs/hollow-knight-silksong/
 exophase: https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#1624301
 psnprofiles:
 steam: https://steamcommunity.com/id/steinea/stats/1030300/achievements/
-date: 2025-11-09
+date: 2026-02-22
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong):
