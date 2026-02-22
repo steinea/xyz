@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: CrimethInc
-title: Minneapolis Responds to the Murder of Alex Pretti
+title: The New World In Our Hearts
 publication: CrimethInc
 link: https://crimethinc.com/2026/01/25/minneapolis-responds-to-the-murder-of-alex-pretti-an-eyewitness-account
 date: 2026-02-02

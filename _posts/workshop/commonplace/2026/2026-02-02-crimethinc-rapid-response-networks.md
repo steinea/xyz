@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: CrimethInc
-title: Rapid Response Networks in the Twin Cities
+title: Rapid Response Networks
 publication: CrimethInc
 link: https://crimethinc.com/2026/01/15/rapid-response-networks-in-the-twin-cities-a-guide-to-an-updated-model
 date: 2026-02-02
