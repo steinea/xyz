@@ -4,4 +4,58 @@ category: activity
 title: Exercising
 ---
 
-<p>🚧 <em>Under construction. End goal is a straightforward physical activity tracker. Will comb through various apps used over the years and try to export or just manually save logs, which I will convert to posts and list here. Currently thinking of Freeletics, Ring Fit, Strava, and Peloton. Also intend to cross-reference these with <a href="/gear/">Gear</a> in my inventory.</em></p>
+<details>
+  <summary style="list-style: none; cursor: pointer;">ℹ️</summary>
+    <p>This page is built from an array of posts flagged with subcategory <code>exercise</code>, over which Jekyll then iterates and prints in reverse chronological order. A straightforward physical activity tracker, this page collects exercise records that I have pulled from fitness app histories, old text messages, and even my Google Timeline. This of course means that this is only a sample of my <a href="https://en.wikipedia.org/wiki/World_line">world line</a>, fragments of physical memory made possible by a digital paper trail. </p>
+    <p>Currently, all listed posts are placeholders with no activity details. I'm planning to experiment with some simple visualization next (perhaps a calendar and activity distribution chart), so to make that possible with minimal friction, I needed to get all the activities with dates logged sooner than the more tedious job of populating these posts with specifics.</p>
+    <p>Where applicable, I will cross-reference these records with <a href="/gear/">Gear</a> in my inventory, a small effort of material history.</p>
+</details>
+
+<br>
+
+<!-- Category Counts -->
+{% assign totalExercises = 0 %}
+{% assign exercises = site.posts | where: "subcategory", "exercise" %}
+  {% for item in exercises %}
+    {% assign totalExercises = totalExercises | plus: 1 %}
+  {% endfor %}
+
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('exercises')">Total ({{ totalExercises }})</button>
+</div>
+
+<br>
+
+
+<!-- Exercises Tab -->
+<div id="exercises" class="tabcontent">
+  {% for post in site.posts %}
+    {% if post.subcategory contains "exercise" %}
+      {{ post.date | date: '%Y-%m-%d' }} {{ post.activity }}, <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('exercises');
+</script>

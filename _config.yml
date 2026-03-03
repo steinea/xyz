@@ -30,7 +30,8 @@ defaults:
       permalink: /:year/:month/:day/:title/
 
 # Exclusions
-exclude:	['/_posts/workshop/commonplace/template.md',
+exclude:	['/_posts/activity/_templates',
+		'/_posts/workshop/commonplace/template.md',
 		'/_posts/workshop/correspondence/template.md',
 		'/pages/bookmarks/template.md',
 		'/pages/inventory/_templates']
