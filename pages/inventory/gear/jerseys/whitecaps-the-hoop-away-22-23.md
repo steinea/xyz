@@ -2,7 +2,7 @@
 layout: page
 category: jersey
 subcategory: football
-author: Vancouver Whitecaps
+author: Whitecaps
 title: The Hoop
 colours: Away
 season: "22/23"

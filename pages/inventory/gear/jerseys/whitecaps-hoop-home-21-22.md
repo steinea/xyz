@@ -2,7 +2,7 @@
 layout: page
 category: jersey
 subcategory: football
-author: Vancouver Whitecaps
+author: Whitecaps
 title: Hoop
 colours: Home
 season: "21/22"

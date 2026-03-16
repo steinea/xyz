@@ -2,7 +2,7 @@
 layout: page
 category: jersey
 subcategory: football
-author: Vancouver Whitecaps
+author: Whitecaps
 title: The Peak
 colours: Home
 season: "25/26"

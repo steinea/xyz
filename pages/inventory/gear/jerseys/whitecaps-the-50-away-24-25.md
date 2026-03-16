@@ -2,7 +2,7 @@
 layout: page
 category: jersey
 subcategory: football
-author: Vancouver Whitecaps
+author: Whitecaps
 title: The 50
 colours: Away
 season: "24/25"

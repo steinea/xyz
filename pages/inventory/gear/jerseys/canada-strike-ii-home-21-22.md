@@ -2,7 +2,7 @@
 layout: page
 category: jersey
 subcategory: football
-author: CANMNT
+author: Canada
 title: Strike II
 colours: Home
 season: "21/22"

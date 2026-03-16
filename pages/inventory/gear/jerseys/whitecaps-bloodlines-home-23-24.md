@@ -2,7 +2,7 @@
 layout: page
 category: jersey
 subcategory: football
-author: Vancouver Whitecaps
+author: Whitecaps
 title: Bloodlines
 colours: Home
 season: "23/24"
