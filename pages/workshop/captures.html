@@ -1,7 +1,7 @@
 ---
 layout: default
-category: wip
-title: Screenshots
+category: workshop
+title: Captures
 ---
 
 <!-- Explainer -->
@@ -14,24 +14,24 @@ title: Screenshots
 
 
 <!-- Category Counts -->
-{% assign totalScreenshots = 0 %}
-{% assign screenshots = site.static_files | where_exp: "file", "file.path contains '/screenshots/'" | sort: "name" | reverse %}
-  {% for item in screenshots %}
-    {% assign totalScreenshots = totalScreenshots | plus: 1 %}
+{% assign totalCaptures = 0 %}
+{% assign captures = site.static_files | where_exp: "file", "file.path contains '/captures/'" | sort: "name" | reverse %}
+  {% for item in captures %}
+    {% assign totalCaptures = totalCaptures | plus: 1 %}
   {% endfor %}
 
 
 <!-- Category Tabs -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab('screenshots')">Screenshots ({{ totalScreenshots }})</button>
+  <button class="tablinks" onclick="openTab('captures')">Captures ({{ totalCaptures }})</button>
 </div>
 
 <br>
 
 
-<!-- Screenshots Tab-->
-<div id="screenshots" class="tabcontent">
-  {% for item in screenshots %}
+<!-- Captures Tab-->
+<div id="captures" class="tabcontent">
+  {% for item in captures %}
     <a href="{{ item.path }}">{{ item.name }}</a><br>
   {% endfor %}
 </div>
@@ -54,5 +54,5 @@ title: Screenshots
   }
 
   // Show the first tab by default
-  openTab('screenshots');
+  openTab('captures');
 </script>
