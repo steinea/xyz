@@ -4,6 +4,7 @@ category: activity
 title: Hiking
 ---
 
+<!-- Explainer Box -->
 <details>
   <summary style="list-style: none; cursor: pointer;">🚧</summary>
   <p>This page is built from posts that log my backcountry adventures. Currently, the posts listed here are only placeholders with dates and titles. I intend to update these posts with trip reports (where available), assets like photos and maps, and to cross-reference them with <a href="/gear/">Gear</a> in my inventory and <a href="/groups/#places">Places</a> in my bookmarks.</p>
@@ -11,8 +12,50 @@ title: Hiking
 
 <br>
 
-{% for post in site.posts %}
-  {% if post.subcategory contains "hike" %}
-    {{ post.date | date: '%Y-%m-%d' }} <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
-  {% endif %}
-{% endfor %}
+
+<!-- Post Array -->
+{% assign hikes = site.posts | where: "subcategory", "hike" %}
+
+
+<!-- Array Counters -->
+{% assign totalHikes = 0 %}
+  {% for item in hikes %}
+    {% assign totalHikes = totalHikes | plus: 1 %}
+  {% endfor %}
+
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('hikes')">Total ({{ totalHikes }})</button>
+</div>
+
+<br>
+
+
+<!-- List Array Items -->
+<div id="hikes" class="tabcontent">
+  {% for item in hikes %}
+    {{ item.date | date: '%Y-%m-%d' }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+</div>
+
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('hikes');
+</script>
