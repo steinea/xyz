@@ -7,7 +7,7 @@ author:
   - Randy Flynn
 location: Seattle, WA
 publisher: Flatout Games
-releaseDate: 2024
+published: 2024
 upc: BGG
 link: https://boardgamegeek.com/boardgame/407318/cascadia-rolling-rivers
 date:
