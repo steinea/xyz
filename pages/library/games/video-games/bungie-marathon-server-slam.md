@@ -9,7 +9,7 @@ publisher:
   - Sony Interactive Entertainment
   - Bungie
 platform: Steam
-published: 206-02-26
+published: 2026-02-26
 howlongtobeat:
 difficulty:
 trophyGuide:
