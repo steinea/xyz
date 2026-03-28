@@ -1,7 +1,9 @@
 ---
 layout: post
-category: post
-subcategory: play
+category: activity
+subcategory: videogame
+tags:
+  - complete
 author: 343 Industries
 title: Halo Infinite
 durationHours: 364

@@ -18,7 +18,7 @@ title: Playing
 
 
 <!-- Post Arrays -->
-{% assign newVideoGamePlays = site.posts | where: "subcategory", "play" %}
+{% assign newVideoGamePlays = site.posts | where: "category", "activity" | where: "subcategory", "videogame" %}
 {% assign boardGamePlays = site.posts | where: "subcategory", "boardgame" %}
 {% assign tcgPlays = site.posts | where: "subcategory", "tcg" %}
 {% assign ttrpgPlays = site.posts | where: "subcategory", "ttrpg" %}
@@ -59,7 +59,6 @@ title: Playing
   <button class="tablinks" onclick="openTab('tcgs')">TCGs ({{ totalTCGPlays }})</button>
   <button class="tablinks" onclick="openTab('ttrpgs')">TTRPGs ({{ totalTTRPGPlays }})</button>
   <button class="tablinks" onclick="openTab('videogames')">Video Games ({{ totalVideoGamePlays }})</button>
-  <!-- ALERT IN PROGRESS TECH -->
 </div>
 
 <br>
@@ -67,9 +66,23 @@ title: Playing
 
 <!-- New Tab -->
 <div id="new" class="tabcontent">
-  {% for item in newVideoGamePlays %}
-    {{ item.date | date: '%Y-%m-%d' }} <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
-  {% endfor %}
+
+  <!-- New Tab Arrays -->
+  {% assign newComplete = site.posts | where: "category", "activity" | where: "subcategory", "videogame" | where: "tags", "complete" %}
+
+  <!-- New Tab Array Counters -->
+  {% assign newCompleteTotal = 0 %}
+    {% for item in newComplete %}
+      {% assign newCompleteTotal = newCompleteTotal | plus: 1 %}
+    {% endfor %}
+
+  <!-- New Tab List Arrays Items -->
+  <span id="complete"><em>Complete ({{ newCompleteTotal }})</em></span><br>
+    <p>
+      {% for item in newComplete %}
+        {{ item.date | date: '%Y-%m-%d' }} <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
+      {% endfor %}
+    </p>
 </div>
 
 
