@@ -16,27 +16,29 @@ title: Playing
 
 <br>
 
-<!-- Category Counts -->
+<!-- Post Arrays -->
+{% assign boardGamePlays = site.posts | where: "subcategory", "boardgame" %}
+{% assign tcgPlays = site.posts | where: "subcategory", "tcg" %}
+{% assign ttrpgPlays = site.posts | where: "subcategory", "ttrpg" %}
+{% assign videoGamePlays = site.pages | where: "category", "videogame" | where_exp: "item", "item.subcategory contains 'now' or item.subcategory contains 'complete' or item.subcategory contains 'retired'" %}
+
+<!-- Array Counters -->
 {% assign totalBoardGamePlays = 0 %}
-{% assign boardGamePlays = site.posts | where: "category", "playing" | where: "subcategory", "boardgame" %}
   {% for item in boardGamePlays %}
     {% assign totalBoardGamePlays = totalBoardGamePlays | plus: 1 %}
   {% endfor %}
 
 {% assign totalTCGPlays = 0 %}
-{% assign tcgPlays = site.posts | where: "category", "playing" | where: "subcategory", "tcg" %}
   {% for item in tcgPlays %}
     {% assign totalTCGPlays = totalTCGPlays | plus: 1 %}
   {% endfor %}
 
 {% assign totalTTRPGPlays = 0 %}
-{% assign ttrpgPlays = site.posts | where: "category", "playing" | where: "subcategory", "ttrpg" %}
   {% for item in ttrpgPlays %}
     {% assign totalTTRPGPlays = totalTTRPGPlays | plus: 1 %}
   {% endfor %}
 
 {% assign totalVideoGamePlays = 0 %}
-{% assign videoGamePlays = site.pages | where: "category", "videogame" | where_exp: "item", "item.subcategory contains 'now' or item.subcategory contains 'complete' or item.subcategory contains 'retired'" %}
   {% for item in videoGamePlays %}
     {% assign totalVideoGamePlays = totalVideoGamePlays | plus: 1 %}
   {% endfor %}

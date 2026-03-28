@@ -1,6 +1,6 @@
 ---
 layout: post
-category: playing
+category: post
 subcategory: boardgame
 title: Stack O' Cats
 date: 2026-01-25

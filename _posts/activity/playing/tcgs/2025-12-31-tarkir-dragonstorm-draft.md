@@ -1,6 +1,6 @@
 ---
 layout: post
-category: playing
+category: post
 subcategory: tcg
 title: "Tarkir: Dragonstorm Draft"
 date: 2025-12-31
