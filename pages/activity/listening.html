@@ -4,4 +4,34 @@ category: activity
 title: Listening
 ---
 
-<p>💡 <em>Early ideation. Some sort of activity tracker for music. I am currently still trapped in streaming-land, but have started rebuilding my physical music library (see <a href="/records/">Records</a> in my inventory) and am thinking about what sort of log might be meaningful and not too laborious to maintain here. Will likely cross-reference with <a href="/gear/">Gear</a> to track how my physical listening experience evolves over time.</em></p>
+<!-- Explainer Box -->
+<details>
+  <summary style="list-style: none; cursor: pointer;">💡</summary>
+  <p>Some sort of activity tracker for music. I am currently still trapped in streaming-land, but have started rebuilding my physical music library (see <a href="/records/">Records</a> in my inventory) and am thinking about what sort of log might be meaningful and not too laborious to maintain here. Will likely cross-reference with <a href="/gear/">Gear</a> to track how my physical listening experience evolves over time.</p>
+</details>
+
+<br>
+
+<!-- Post Array -->
+{% assign listens = site.posts | where: "subcategory", "listen" | sort: "date" | reverse %}
+
+<!-- Array Counters -->
+{% assign totalListens = 0 %}
+	{% for item in listens %}
+		{% assign totalListens = totalListens | plus: 1 %}
+	{% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+	<button class="tablinks" onclick="openTab('listens')">Listens ({{ totalListens }})</button>
+</div>
+
+<br>
+
+<!-- List Array Items -->
+<div id="read" class="tabcontent">
+	{% for item in listens %}
+		{{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+		<br>
+	{% endfor %}
+</div>
