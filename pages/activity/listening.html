@@ -12,8 +12,10 @@ title: Listening
 
 <br>
 
+
 <!-- Post Array -->
 {% assign listens = site.posts | where: "subcategory", "listen" | sort: "date" | reverse %}
+
 
 <!-- Array Counters -->
 {% assign totalListens = 0 %}
@@ -21,12 +23,14 @@ title: Listening
 		{% assign totalListens = totalListens | plus: 1 %}
 	{% endfor %}
 
+
 <!-- Category Tabs -->
 <div class="tab">
 	<button class="tablinks" onclick="openTab('listens')">Listens ({{ totalListens }})</button>
 </div>
 
 <br>
+
 
 <!-- List Array Items -->
 <div id="read" class="tabcontent">

@@ -4,6 +4,7 @@ category: activity
 title: Exercising
 ---
 
+<!-- Explainer Box -->
 <details>
   <summary style="list-style: none; cursor: pointer;">ℹ️</summary>
     <p>This page is built from an array of posts flagged with subcategory <code>exercise</code>, over which Jekyll then iterates and prints in reverse chronological order. A straightforward physical activity tracker, this page collects exercise records that I have pulled from fitness app histories, old text messages, and even my Google Timeline. This of course means that this is only a sample of my <a href="https://en.wikipedia.org/wiki/World_line">world line</a>, fragments of physical memory made possible by a digital paper trail. </p>
@@ -13,9 +14,13 @@ title: Exercising
 
 <br>
 
-<!-- Category Counts -->
-{% assign totalExercises = 0 %}
+
+<!-- Post Array -->
 {% assign exercises = site.posts | where: "subcategory", "exercise" %}
+
+
+<!-- Array Counters -->
+{% assign totalExercises = 0 %}
   {% for item in exercises %}
     {% assign totalExercises = totalExercises | plus: 1 %}
   {% endfor %}
@@ -29,7 +34,7 @@ title: Exercising
 <br>
 
 
-<!-- Exercises Tab -->
+<!-- List Array Items -->
 <div id="exercises" class="tabcontent">
   {% for post in site.posts %}
     {% if post.subcategory contains "exercise" %}
