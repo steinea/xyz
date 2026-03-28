@@ -4,11 +4,17 @@ category: activity
 title: Playing
 ---
 
-<p>🚧 <em>Under construction. This page is powered by two different systems under the hood, which I am working on unifying to ensure consistency and maintainability. Currently, the Board Games, TCGs, and TTRPGs tabs look for posts in my Activity directory, and then have some simple templating logic to link to <a href="/games/">Games</a> of the same title in my library. These pages, in turn, will list the dates played. However, these posts are very bare bones at present, not populated with the additional details that I track using the <a href="https://www.bgstatsapp.com/">Board Game Stats</a> app. I also have plays tracked in physical game boxes themselves, and not in the app, so there is some aggregation effort required to collect all of that data here.</em></p>
+<!-- Explainer Box -->
+<details>
+  <summary style="list-style: none; cursor: pointer;">🚧</summary>
+  <p>This page is powered by two different systems under the hood, which I am working on unifying to ensure consistency and maintainability. Currently, the Board Games, TCGs, and TTRPGs tabs look for posts in my Activity directory, and then have some simple templating logic to link to <a href="/games/">Games</a> of the same title in my library. These pages, in turn, will list the dates played. However, these posts are very bare bones at present, not populated with the additional details that I track using the <a href="https://www.bgstatsapp.com/">Board Game Stats</a> app. I also have plays tracked in physical game boxes themselves, and not in the app, so there is some aggregation effort required to collect all of that data here.</p>
 
-<p><em>The Video Games tab is different, and is in fact the original games tracker that I built. This is set up to check the metadata of <a href="/games/">Games</a> in my library and display the pertinent activity information here. However, this has become difficult to extend over time, especially with respect to games that I have replayed, and in some such cases, replayed across different platforms. Consequently, my plan is to split out video game activity into posts distinct from the root video game pages, which will allow me to log plays of the same game on different platforms, multiple completion dates, and even multiple ratings over time, if I decide I want to have star ratings here.</em></p>
+  <p>The Video Games tab is different, and is in fact the original games tracker that I built. This is set up to check the metadata of <a href="/games/">Games</a> in my library and display the pertinent activity information here. However, this has become difficult to extend over time, especially with respect to games that I have replayed, and in some such cases, replayed across different platforms. Consequently, my plan is to split out video game activity into posts distinct from the root video game pages, which will allow me to log plays of the same game on different platforms, multiple completion dates, and even multiple ratings over time, if I decide I want to have star ratings here.</p>
 
-<p><em>Lastly, unlike <a href="/books/">Books</a> and Video Games, the physical games in my library currently only use their title for their slug and permalink, while Books use author and title, and Video Games use developer and title. These need to be updated to align with the rest of the library, mitigating future name collision and link rot potential.</em></p>
+  <p>Lastly, unlike <a href="/books/">Books</a> and Video Games, the physical games in my library currently only use their title for their slug and permalink, while Books use author and title, and Video Games use developer and title. These need to be updated to align with the rest of the library, mitigating future name collision and link rot potential.</p>
+</details>
+
+<br>
 
 <!-- Category Counts -->
 {% assign totalBoardGamePlays = 0 %}
