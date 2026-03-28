@@ -112,10 +112,73 @@ layout: default
     <div id="Plays">
       <h4>Plays</h4>
 
-        {% assign plays = site.posts | where: "category", "playing" | where: "title", page.title %}
+        {% assign plays = site.posts | where: "category", "post" | where: "subcategory", "boardgame" | where: "title", page.title %}
           {% for item in plays %}
             {{ item.date | date: "%Y-%m-%d" }}<br>
           {% endfor %}
+
+  {% endif %}
+
+  <!-- Variant for video games -->
+  {% if page.subcategory contains "complete" %}
+
+    <br>
+
+    <div id="Progress">
+      <h4>Progress</h4>
+
+        <p>
+        {% assign plays = site.posts | where: "title", page.title %}
+          {% for item in plays %}
+            {{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.link }}">{{ item.percent }}%</a><br>
+          {% endfor %}
+        </p>
+
+    <br>
+
+    <div id="rating">
+      <h4>Rating</h4>
+
+        <p>
+        {% for item in plays %}
+          {% if item.rating == 1 %}
+            ★
+          {% elsif item.rating == 1.5 %}
+            ★⯨
+          {% elsif item.rating == 2 %}
+            ★★
+          {% elsif item.rating == 2.5 %}
+            ★★⯨
+          {% elsif item.rating == 3 %}
+            ★★★
+          {% elsif item.rating == 3.5 %}
+            ★★★⯨
+          {% elsif item.rating == 4 %}
+            ★★★★
+          {% elsif item.rating == 4.5 %}
+            ★★★★⯨
+          {% elsif item.rating == 5 %}
+            ★★★★★
+          {% endif %}
+        {% endfor %}
+        </p>
+
+  {% endif %}
+
+  <!-- Captures -->
+  {% if page.captures == true %}
+
+    <br>
+
+    <div id="Captures">
+      <h4>Captures</h4>
+
+        <p>
+        {% assign captures = site.static_files | where_exp: "file", "file.path contains 'halo-infinite'" | sort: "name" | reverse %}
+          {% for item in captures %}
+            <a href="{{ item.path }}">{{ item.name }}</a><br>
+          {% endfor %}
+        </p>
 
   {% endif %}
 
