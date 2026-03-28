@@ -36,13 +36,10 @@ title: Exercising
 
 <!-- List Array Items -->
 <div id="exercises" class="tabcontent">
-  {% for post in site.posts %}
-    {% if post.subcategory contains "exercise" %}
-      {{ post.date | date: '%Y-%m-%d' }} {{ post.activity }}, <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>
-    {% endif %}
+  {% for item in exercises %}
+    {{ item.date | date: '%Y-%m-%d' }} {{ item.activity }}, <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a><br>
   {% endfor %}
 </div>
-
 
 
 <!-- Tab Javascript -->
