@@ -1,7 +1,7 @@
 ---
 layout: post
 category: activity
-subcategory: videogame
+subcategory: video-game
 tags:
   -
 author:
