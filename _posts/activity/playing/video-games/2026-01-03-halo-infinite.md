@@ -6,6 +6,9 @@ tags:
   - complete
 author: 343 Industries
 title: Halo Infinite
+howlongtobeat:
+difficulty:
+trophyGuide:
 durationHours: 364
 trophies: 144/144
 percent: 100
