@@ -59,6 +59,7 @@ permalink: /playing/video-games/
   {% for item in complete %}
     {{ item.date | date: '%Y-%m-%d' }} <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
   {% endfor %}
+</div>
 
 
 <!-- Retired Tab -->
@@ -66,6 +67,7 @@ permalink: /playing/video-games/
   {% for item in retired %}
     {{ item.percent }}% <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
   {% endfor %}
+</div>
 
 
 <!-- Backlog Tab -->
@@ -73,6 +75,7 @@ permalink: /playing/video-games/
   {% for item in backlog %}
     {{ item.howlongtobeat }}h <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
   {% endfor %}
+</div>
 
 
 <!-- Tab Javascript -->
