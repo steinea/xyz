@@ -1,7 +1,7 @@
 ---
 layout: post
-category: post
-subcategory: boardgame
+category: activity
+subcategory: board-game
 title: "Cascadia: Rolling Rivers"
 date: 2025-05-17
 ---
