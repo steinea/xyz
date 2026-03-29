@@ -3,8 +3,8 @@ layout: page
 category: videogame
 subcategory: now
 title: Disco Elysium
-developer: 	ZA/UM
-publisher: 	ZA/UM
+developer: ZA/UM
+publisher: ZA/UM
 platform: Steam
 published: 2019-10-15
 howlongtobeat: 47
