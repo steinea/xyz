@@ -81,7 +81,7 @@ permalink: /
 
 <p>My library is a more robust version of my inventory, also consisting of sorted arrays of underlying pages, but these of materials requiring more thorough metadata, specifically those cultural objects that absorb much of my research focus, and also my general interest.</p>
 
-{% assign library = site.pages | where: "category", "library" | sort: "title" %}
+{% assign library = site.pages | where: "category", "library" | where: "subcategory", "directory" | sort: "title" %}
   <ul>
     {% for item in library %}
       <li><a href="/{{ item.title | downcase }}/">{{ item.title }}</a></li>
