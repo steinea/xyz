@@ -25,7 +25,7 @@ permalink: /playing/board-games/
 <br>
 
 
-<!-- Board Games Tab -->
+<!-- Plays Tab -->
 <div id="plays" class="tabcontent">
   {% for item in plays %}
     {{ item.date | date: "%Y-%m-%d" }} <a href="/{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
