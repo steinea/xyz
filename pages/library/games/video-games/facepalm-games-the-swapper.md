@@ -1,8 +1,9 @@
 ---
 layout: page
 category: library
-subcategory: videogame
+subcategory: video-game
 tags:
+  - collection
 title: The Swapper
 author:
   - Facepalm Games

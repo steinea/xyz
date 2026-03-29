@@ -1,8 +1,9 @@
 ---
 layout: page
 category: library
-subcategory: videogame
+subcategory: video-game
 tags:
+  - collection
 title: Halo Infinite
 author:
   - 343 Industries

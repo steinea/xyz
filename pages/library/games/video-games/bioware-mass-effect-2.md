@@ -1,8 +1,9 @@
 ---
 layout: page
 category: library
-subcategory: videogame
+subcategory: video-game
 tags:
+  - collection
 title: Mass Effect 2
 author:
   - BioWare

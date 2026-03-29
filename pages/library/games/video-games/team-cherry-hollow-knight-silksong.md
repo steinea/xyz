@@ -1,8 +1,9 @@
 ---
 layout: page
 category: library
-subcategory: videogame
+subcategory: video-game
 tags:
+  - collection
   - soulslike-legacies
 title: "Hollow Knight: Silksong"
 author:
