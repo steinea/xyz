@@ -105,7 +105,7 @@ layout: default
   {% endif %}
 
   <!-- Add playing section to boardgame -->
-  {% if page.category contains "boardgame" %}
+  {% if page.category contains "board-game" %}
 
     <br>
 
@@ -120,7 +120,7 @@ layout: default
   {% endif %}
 
   <!-- Variant for video games -->
-  {% if page.subcategory contains "complete" %}
+  {% if page.category contains "library" and page.subcategory contains "video-game" %}
 
     <br>
 
@@ -168,13 +168,15 @@ layout: default
   <!-- Captures -->
   {% if page.captures == true %}
 
+  {% assign slugsearch = page.title | slugify: "latin" %}
+
     <br>
 
     <div id="Captures">
       <h4>Captures</h4>
 
         <p>
-        {% assign captures = site.static_files | where_exp: "file", "file.path contains 'halo-infinite'" | sort: "name" | reverse %}
+        {% assign captures = site.static_files | where_exp: "file", "file.path contains slugsearch" | sort: "name" | reverse %}
           {% for item in captures %}
             <a href="{{ item.path }}">{{ item.name }}</a><br>
           {% endfor %}
