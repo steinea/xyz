@@ -4,3 +4,11 @@ category: library
 subcategory: directory
 title: Games
 ---
+
+<!-- Directory Generator -->
+{% assign games = site.pages | where: "category", "library" | where: "subcategory", "games" | sort: "title" %}
+  <ul>
+    {% for item in playing %}
+      <li><a href="/games/{{ item.title | slugify: 'latin' }}/">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
