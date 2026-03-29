@@ -1,0 +1,54 @@
+---
+layout: default
+category: activity
+subcategory: playing
+title: Board Games
+permalink: /playing/board-games/
+---
+
+<!-- Post Array -->
+{% assign plays = site.posts | where: "category", "activity" | where: "subcategory", "board-game" %}
+
+
+<!-- Array Counter -->
+{% assign totalPlays = 0 %}
+  {% for item in plays %}
+    {% assign totalPlays = totalPlays | plus: 1 %}
+  {% endfor %}
+
+
+<!-- Tab Button -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('plays')">Plays ({{ totalPlays }})</button>
+</div>
+
+<br>
+
+
+<!-- Board Games Tab -->
+<div id="plays" class="tabcontent">
+  {% for item in plays %}
+    {{ item.date | date: "%Y-%m-%d" }} <a href="/{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+</div>
+
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('plays');
+</script>
