@@ -14,24 +14,24 @@ permalink: /playing/video-games/
 
 
 <!-- Array Counters -->
-{% assign nowTotal = 0 %}
+{% assign totalNow = 0 %}
   {% for item in now %}
-    {% assign nowTotal = nowTotal | plus: 1 %}
+    {% assign totalNow = totalNow | plus: 1 %}
   {% endfor %}
 
-{% assign completeTotal = 0 %}
+{% assign totalComplete = 0 %}
   {% for item in complete %}
-    {% assign completeTotal = completeTotal | plus: 1 %}
+    {% assign totalComplete = totalComplete | plus: 1 %}
   {% endfor %}
 
-{% assign retiredTotal = 0 %}
+{% assign totalRetired = 0 %}
   {% for item in retired %}
-    {% assign retiredTotal = retiredTotal | plus: 1 %}
+    {% assign totalRetired = totalRetired | plus: 1 %}
   {% endfor %}
 
-{% assign backlogTotal = 0 %}
+{% assign totalBacklog = 0 %}
   {% for item in backlog %}
-    {% assign backlogTotal = backlogTotal | plus: 1 %}
+    {% assign totalBacklog = totalBacklog | plus: 1 %}
   {% endfor %}
 
 
