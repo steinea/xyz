@@ -12,6 +12,8 @@ trophyGuide:
 durationHours: 55
 trophies: 204/228
 percent: 89
+platform:
+  - PC Game Pass
 link: https://www.exophase.com/game/vampire-survivors-game-preview-xbox/achievements/#2209141
 backloggd:
 exophase:
