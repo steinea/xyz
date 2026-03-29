@@ -5,3 +5,92 @@ subcategory: playing
 title: Video Games
 permalink: /playing/video-games/
 ---
+
+<!-- Post Arrays -->
+{% assign now = site.posts | where: "category", "activity" | where: "subcategory", "video-game" | where: "tags", "now" | sort: "percent" | reverse %}
+{% assign complete = site.posts | where: "category", "activity" | where: "subcategory", "video-game" | where: "tags", "complete" | sort: "date" | reverse %}
+{% assign retired = site.posts | where: "category", "activity" | where: "subcategory", "video-game" | where: "tags", "retired" | sort: "percent" | reverse %}
+{% assign backlog = site.posts | where: "category", "activity" | where: "subcategory", "video-game" | where: "tags", "backlog" | sort: "howlongtobeat" %}
+
+
+<!-- Array Counters -->
+{% assign nowTotal = 0 %}
+  {% for item in now %}
+    {% assign nowTotal = nowTotal | plus: 1 %}
+  {% endfor %}
+
+{% assign completeTotal = 0 %}
+  {% for item in complete %}
+    {% assign completeTotal = completeTotal | plus: 1 %}
+  {% endfor %}
+
+{% assign retiredTotal = 0 %}
+  {% for item in retired %}
+    {% assign retiredTotal = retiredTotal | plus: 1 %}
+  {% endfor %}
+
+{% assign backlogTotal = 0 %}
+  {% for item in backlog %}
+    {% assign backlogTotal = backlogTotal | plus: 1 %}
+  {% endfor %}
+
+
+<!-- Tab Buttons -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('now')">Now ({{ totalNow }})</button>
+  <button class="tablinks" onclick="openTab('complete')">Complete ({{ totalComplete }})</button>
+  <button class="tablinks" onclick="openTab('retired')">Retired ({{ totalRetired }})</button>
+  <button class="tablinks" onclick="openTab('backlog')">Backlog ({{ totalBacklog }})</button>
+</div>
+
+<br>
+
+
+<!-- Now Tab -->
+<div id="now" class="tabcontent">
+  {% for item in now %}
+    {{ item.percent }}% <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+</div>
+
+
+<!-- Complete Tab -->
+<div id="complete" class="tabcontent">
+  {% for item in complete %}
+    {{ item.date | date: '%Y-%m-%d' }} <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+
+
+<!-- Retired Tab -->
+<div id="retired" class="tabcontent">
+  {% for item in retired %}
+    {{ item.percent }}% <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+
+
+<!-- Backlog Tab -->
+<div id="backlog" class="tabcontent">
+  {% for item in backlog %}
+    {{ item.howlongtobeat }}h <a href="/{{ item.author | slugify: 'latin'}}-{{ item.title | slugify: 'latin'}}/" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('now');
+</script>
