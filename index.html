@@ -37,7 +37,7 @@ permalink: /
 
 <p>My activity pages are built from lists of posts that are mapped to pages in my inventory and library. These pages emulate social progress tracking sites like Letterboxd, Goodreads, etc., but by hosting them here, allow me to own and preserve my own data.</p>
 
-{% assign activity = site.pages | where: "category", "activity" | sort: "title" %}
+{% assign activity = site.pages | where: "category", "activity" | where: "subcategory", "directory" | sort: "title" %}
   <ul>
     {% for item in activity %}
       <li><a href="/{{ item.title | downcase }}/">{{ item.title }}</a></li>
