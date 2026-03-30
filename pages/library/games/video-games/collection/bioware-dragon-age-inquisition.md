@@ -4,7 +4,7 @@ category: library
 subcategory: video-game
 tags:
   - collection
-title: "Dragon: Age Inquisition"
+title: "Dragon Age: Inquisition"
 author:
   - BioWare
 published: 2014-11-18
