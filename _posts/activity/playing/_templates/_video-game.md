@@ -13,7 +13,7 @@ durationHours:
 trophies:
 percent:
 platform:
-  - 
+  -
 link:
 backloggd:
 exophase:

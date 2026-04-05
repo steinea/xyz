@@ -21,5 +21,5 @@ exophase: https://www.exophase.com/game/monument-valley-psn/trophies/#1213131
 psnprofiles: https://psnprofiles.com/trophies/33216-monument-valley/barrelofjuice
 steam:
 date: 2025-12-27
-rating: 5
+rating: 4
 ---
