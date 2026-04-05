@@ -3,10 +3,10 @@ layout: page
 category: library
 subcategory: video-game
 tags:
-  - 
-title:
+  -
 author:
   -
+title:
 published:
 director:
 producer:
@@ -15,8 +15,8 @@ publisher:
 location:
 citation: true
 captures: false
-abstract: |
-  ""
 source:
 link:
+abstract: |
+  ""
 ---

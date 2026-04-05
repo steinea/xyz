@@ -12,6 +12,9 @@ trophyGuide:
 durationHours: 364
 trophies: 144/144
 percent: 100
+platform:
+  - PC Game Pass
+  - Digital
 link: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141
 backloggd: https://backloggd.com/u/steinea/logs/halo-infinite/
 exophase: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141

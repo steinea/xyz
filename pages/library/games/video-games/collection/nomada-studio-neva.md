@@ -14,7 +14,7 @@ developer: Nomada Studio
 publisher: Devolver Digital
 location: Steam
 citation: true
-captures: false
+captures: true
 abstract: |
   "Neva is a puzzle-platform game developed by Nomada Studio and published by Devolver Digital. It follows a young woman named Alba who must travel with her wolf companion Neva across four seasons in a world corrupted by darkness. The game was released for Windows, macOS, Nintendo Switch, PlayStation 4, PlayStation 5 and Xbox Series X/S in October 2024."
 source: Wikipedia
