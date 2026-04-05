@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Sam Barlow
-title: Immortality
+title: On <em>Immortality</em>
 publication: Xbox
 link: https://www.microsoft.com/store/productId/9PM1905P9LQ6
 date: 2022-11-13
