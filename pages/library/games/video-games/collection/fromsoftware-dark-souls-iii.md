@@ -1,0 +1,23 @@
+---
+layout: page
+category: library
+subcategory: video-game
+tags:
+  - collection
+  - soulslike-legacies
+author:
+  - FromSoftware
+title: Dark Souls III
+published: 2016-03-24
+director:
+producer:
+developer: FromSoftware
+publisher: Bandai Namco Entertainment
+location: Steam
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Dark_Souls_III
+abstract: |
+  "Dark Souls III is a 2016 action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment for PlayStation 4, Xbox One, and Windows. The third and final entry in the Dark Souls series, the game follows an unkindled character on a quest to prevent the end of the world. It is played in a third-person perspective, and players have access to various weapons, armour, magic, and consumables that they can use to fight their enemies. Hidetaka Miyazaki, the creator of the series, returned to direct the game after handing the development duties of Dark Souls II to others."
+---
