@@ -1,0 +1,22 @@
+---
+layout: page
+category: library
+subcategory: video-game
+tags:
+  - collection
+author:
+  - Ubisoft
+title: Far Cry 3
+published: 2012-11-29
+director:
+producer:
+developer: Ubisoft
+publisher: Ubisoft
+location: PlayStation
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Far_Cry_3
+abstract: |
+  "Far Cry 3 is a 2012 first-person shooter game developed by Ubisoft Montreal and published by Ubisoft. It is the third main installment in the Far Cry series after Far Cry 2. The game takes place on the fictional Rook Islands, a tropical archipelago which can be freely explored by players. Gameplay focuses on combat and exploration. Players can use a variety of weapons to defeat human enemies and hostile wildlife, and the game features elements found in role-playing games such as skill trees and experience. After a vacation goes awry, protagonist Jason Brody must save his friends, who have been kidnapped by pirates, and escape from the island and its unhinged inhabitants."
+---
