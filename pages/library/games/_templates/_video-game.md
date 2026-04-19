@@ -3,7 +3,7 @@ layout: page
 category: library
 subcategory: video-game
 tags:
-  - collection
+  - wishlist
 author:
   -
 title:
@@ -19,4 +19,5 @@ source:
 link:
 abstract: |
   ""
+price:
 ---
