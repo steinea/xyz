@@ -1,24 +1,25 @@
 ---
 layout: page
-category: videogame
-subcategory: wishlist
-tags: horror-adventure sony-prestige
+category: library
+subcategory: video-game
+tags:
+  - wishlist
+  - horror-adventure
+  - sony-prestige
+author:
+  - Bend Studio
 title: Days Gone Remastered
+published: 2025-04-25
+director:
+producer:
 developer: Bend Studio
 publisher: Sony Interactive Entertainment
-platform: PS5
-published: 2025-04-25
-howlongtobeat: 62
-difficulty: 3/10
-trophyGuide: https://www.powerpyx.com/days-gone-trophy-guide-roadmap/
-durationHours:
-trophies:
-percent:
-link:
-date: 1991-01-01
+location: PS5
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Days_Gone
+abstract: |
+  "Days Gone is a 2019 action-adventure video game developed by Bend Studio and published by Sony Interactive Entertainment. The game was released for the PlayStation 4 in April 2019, and Windows in May 2021. A remastered version for PlayStation 5 was released in April 2025."
 price: 65
 ---
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Days_Gone):
-
-"Days Gone is a 2019 action-adventure video game developed by Bend Studio and published by Sony Interactive Entertainment. The game was released for the PlayStation 4 in April 2019, and Windows in May 2021. A remastered version for PlayStation 5 was released in April 2025."

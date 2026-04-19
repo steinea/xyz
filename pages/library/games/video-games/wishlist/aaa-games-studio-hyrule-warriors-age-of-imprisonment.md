@@ -6,12 +6,12 @@ tags:
   - wishlist
   - nintendo-fantasy
 author:
-  - Omega Force
+  - AAA Games Studio
 title: "Hyrule Warriors: Age of Imprisonment"
 published: 2025-11-06
 director:
 producer:
-developer: Omega Force
+developer: AAA Games Studio
 publisher: Nintendo
 location: Switch
 citation: true
