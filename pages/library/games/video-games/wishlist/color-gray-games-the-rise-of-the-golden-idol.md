@@ -1,23 +1,23 @@
 ---
 layout: page
-category: videogame
-subcategory: wishlist
+category: library
+subcategory: video-game
+tags:
+  - wishlist
+author:
+  - Color Gray Games
 title: The Rise of the Golden Idol
+published: 2024-11-12
+director:
+producer:
 developer: Color Gray Games
 publisher: Playstack
-platform: Steam
-published: 2024
-howlongtobeat: 13
-difficulty: --
-trophyGuide: --
-durationHours: --
-trophies: --
-percent: --
-link: --
-date: 1999-01-01
+location: Steam
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/The_Rise_of_the_Golden_Idol
+abstract: |
+  "The Rise of the Golden Idol is a 2024 puzzle video game developed by Color Gray Games and published by Playstack for PC and console and Netflix Games for mobile platforms. It is the sequel to the 2022 game The Case of the Golden Idol. The game received generally positive reviews. Four downloadable expansions were released over 2025: The Sins of New Wells, The Lemurian Phoenix, The Age of Restraint, and The Curse of the Last Reaper."
 price: 26
 ---
-
-From [Steam](https://store.steampowered.com/app/2716400/The_Rise_of_the_Golden_Idol/):
-
-> The Award-winning detective saga returns. Uncover the truth behind 20 strange cases of crime, death and depravity in the 1970s. The world has changed dramatically - the sins of humanity have not.

@@ -1,24 +1,24 @@
 ---
 layout: page
-category: videogame
-subcategory: wishlist
-tags: soulslike-legacies
+category: library
+subcategory: video-game
+tags:
+  - wishlist
+  - soulslike-legacies
+author:
+  - Eneme Entertainment
 title: Eitr
+published: TBD
+director:
+producer:
 developer: Eneme Entertainment
 publisher: Devolver Digital
-platform: Steam
-published: TBD
-howlongtobeat:
-difficulty:
-trophyGuide:
-durationHours:
-trophies:
-percent:
-link:
-date: 1991-01-01
+location: Steam
+citation: true
+captures: false
+source: Steam
+link: https://store.steampowered.com/app/350050/EITR/
+abstract: |
+  "Eitr is an action RPG built around exceptional combat and formidable challenges set within a mythological Norse world."
 price: TBD
 ---
-
-From [Steam](https://store.steampowered.com/app/350050/EITR/):
-
-"Eitr is an action RPG built around exceptional combat and formidable challenges set within a mythological Norse world."
