@@ -6,7 +6,7 @@ tags:
   - wishlist
   - roleplaying-games
 author:
-  - inXile Entertainment
+  - InXile Entertainment
 title: "Torment: Tides of Numenara"
 published: 2017-02-28
 director:

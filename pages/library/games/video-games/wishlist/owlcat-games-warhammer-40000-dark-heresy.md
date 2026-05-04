@@ -1,24 +1,24 @@
 ---
 layout: page
-category: videogame
-subcategory: wishlist
-tags: roleplaying-games
+category: library
+subcategory: video-game
+tags:
+  - wishlist
+  - roleplaying-games
+author:
+  - Owlcat Games
 title: "Warhammer 40,000: Dark Heresy"
+published: TBD
+director:
+producer:
 developer: Owlcat Games
 publisher: Owlcat Games
-platform: Steam
-published: TBD
-howlongtobeat:
-difficulty:
-trophyGuide:
-durationHours:
-trophies:
-percent:
-link:
-date: 1991-01-01
-price: TBD
+location: Steam
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Warhammer_40,000:_Dark_Heresy
+abstract: |
+  "Warhammer 40,000: Dark Heresy is an upcoming role-playing video game developed and published by Owlcat Games. Based on the tabletop RPG of the same name, it is set to be released for PlayStation 5, Windows and Xbox Series X/S."
+price:
 ---
-
-From [Steam](https://store.steampowered.com/app/3710600/Warhammer_40000_Dark_Heresy/):
-
-"Become an acolyte of the Inquisition in this grim dark, party-based, story-driven cRPG. Lead investigations, uncover grand conspiracies, master tactical combat, and wage a secret war against heresy. Make tough choices as a conduit of the God-Emperor’s will."

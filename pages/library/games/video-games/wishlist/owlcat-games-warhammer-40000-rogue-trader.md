@@ -1,24 +1,24 @@
 ---
 layout: page
-category: videogame
-subcategory: wishlist
-tags: roleplaying-games
+category: library
+subcategory: video-game
+tags:
+  - wishlist
+  - roleplaying-games
+author:
+  - Owlcat Games
 title: "Warhammer 40,000: Rogue Trader"
+published: 2023-12-07
+director:
+producer:
 developer: Owlcat Games
 publisher: Owlcat Games
-platform: Steam
-published: 2023-12-07
-howlongtobeat: 151
-difficulty:
-trophyGuide:
-durationHours:
-trophies:
-percent:
-link:
-date: 1991-01-01
+location: Steam
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Warhammer_40,000:_Rogue_Trader_(video_game)
+abstract: |
+  "Warhammer 40,000: Rogue Trader is an isometric role-playing video game developed and published by Owlcat Games set in the Warhammer 40,000 universe. The game was released for Windows PC, macOS, PlayStation 5, and Xbox Series X and Series S in December 2023. A DLC, Void Shadows, was released on 24 September 2024"
 price: 65
 ---
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Warhammer_40,000:_Rogue_Trader_(video_game)):
-
-"Warhammer 40,000: Rogue Trader is an isometric role-playing video game developed and published by Owlcat Games set in the Warhammer 40,000 universe. The game was released for Windows PC, macOS, PlayStation 5, and Xbox Series X and Series S in December 2023. A DLC, Void Shadows, was released on 24 September 2024."

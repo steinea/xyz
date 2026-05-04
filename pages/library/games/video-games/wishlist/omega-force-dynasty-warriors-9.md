@@ -1,24 +1,24 @@
 ---
 layout: page
-category: videogame
-subcategory: wishlist
-tags: nintendo-fantasy
+category: library
+subcategory: video-game
+tags:
+  - wishlist
+  - nintendo-fantasy
+author:
+  - Omega Force
 title: Dynasty Warriors 9
+published: 2018-02-13
+director:
+producer:
 developer: Omega Force
 publisher: Koei Tecmo
-platform: PS4
-published: 2018-02-13
-howlongtobeat: 176
-difficulty:
-trophyGuide:
-durationHours:
-trophies:
-percent:
-link:
-date: 1991-01-01
+location: PS4
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Dynasty_Warriors_9
+abstract: |
+  "Dynasty Warriors 9 is a 2018 hack and slash game developed by Omega Force and published by Koei Tecmo. It was released in February 2018 for PlayStation 4, Windows and Xbox One."
 price: 35
 ---
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Dynasty_Warriors_9):
-
-"Dynasty Warriors 9 is a 2018 hack and slash game developed by Omega Force and published by Koei Tecmo. It was released in February 2018 for PlayStation 4, Windows and Xbox One."

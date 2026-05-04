@@ -1,24 +1,24 @@
 ---
 layout: page
-category: videogame
-subcategory: wishlist
-tags: roleplaying-games
+category: library
+subcategory: video-game
+tags:
+  - wishlist
+  - roleplaying-games
+author:
+  - Obsidian Entertainment
 title: "Pillars of Eternity II: Deadfire"
+published: 2018-05-08
+director:
+producer:
 developer: Obsidian Entertainment
 publisher: Versus Evil
-platform:
-published: 2018-05-08
-howlongtobeat: 97
-difficulty:
-trophyGuide:
-durationHours:
-trophies:
-percent:
-link:
-date: 1991-01-01
+location: Steam
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Pillars_of_Eternity_II:_Deadfire
+abstract: |
+  "Pillars of Eternity II: Deadfire is a 2018 role-playing video game developed by Obsidian Entertainment and published by Versus Evil. It is the sequel to 2015's Pillars of Eternity, and was released for Windows, Linux, macOS in May 2018, and for PlayStation 4 and Xbox One in January 2020. A version for the Nintendo Switch was originally announced in 2018, but has been ultimately cancelled in February 2022 after multiple delays. The game was announced in January 2017 with a crowdfunding campaign on Fig, where it reached its funding goal within a day."
 price: 44
 ---
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Eternity_II:_Deadfire):
-
-"Pillars of Eternity II: Deadfire is a 2018 role-playing video game developed by Obsidian Entertainment and published by Versus Evil. It is the sequel to 2015's Pillars of Eternity, and was released for Windows, Linux, macOS in May 2018, and for PlayStation 4 and Xbox One in January 2020. A version for the Nintendo Switch was originally announced in 2018, but has been ultimately cancelled in February 2022 after multiple delays. The game was announced in January 2017 with a crowdfunding campaign on Fig, where it reached its funding goal within a day."
