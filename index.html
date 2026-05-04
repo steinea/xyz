@@ -21,86 +21,102 @@ permalink: /
 
 <!-- Body Text -->
 
-<p>This site is a supplement to my primary domain at <a href="https://steinea.ca">steinea.ca</a>. Where that site collects the bulk of my published writings, this constitutes the background of that work, my <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/">garden</a>, my <a href="https://en.wikipedia.org/wiki/Memex">memex</a>, my <a href="https://discoelysium.fandom.com/wiki/Thought_Cabinet">thought cabinet</a>—a repository of all those <a href="https://en.wiktionary.org/wiki/mathom">mathoms</a> so vital to a career in letters.</p>
+<!-- <p>This site is a supplement to my primary domain at <a href="https://steinea.ca">steinea.ca</a>. Where that site collects the bulk of my published writings, this constitutes the background of that work, my <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/">garden</a>, my <a href="https://en.wikipedia.org/wiki/Memex">memex</a>, my <a href="https://discoelysium.fandom.com/wiki/Thought_Cabinet">thought cabinet</a>—a repository of all those <a href="https://en.wiktionary.org/wiki/mathom">mathoms</a> so vital to a career in letters.</p>
 
 <p>Built with the <a href="https://en.wikipedia.org/wiki/Static_site_generator">static site generator</a> <a href="https://jekyllrb.com/">Jekyll</a>, this site attempts to leverage the scaffolding of that tool to create a <a href="https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">durable, sustainable</a> miscellany of interlinked pages and posts, offering the author, and any readers who might stumble upon it, a variety of entrypoints to what has become quite a sizeable corpus: {{ totalPages }} pages and {{ totalPosts }} posts and counting! In so doing, I hope to both facilitate ease of reference for myself, and of exploration and discovery for the newcomer.</p>
 
 <p>This site has been through many iterations, and as it has grown and evolved I have progressively tried to improve its architecture, for instance by refining the <a href="https://shopify.github.io/liquid/">Liquid</a> generators for build efficiency, streamlining the file structure for modularity and portability, and identifying the elements and forms where I frequently <a href="https://en.wikipedia.org/wiki/Don%27t_repeat_yourself">repeat myself</a> across the codebase. I am an amateur at this kind of work, and it feels as though I will never perfect it, despite my best efforts... chaos is, of course, the constant attendant of complexity, and perhaps the necessarily human part of any such endeavour.</p>
 
-<p>I borrow the Tolkienism <a href="https://tolkiengateway.net/wiki/Mathoms">mathom</a> to describe the contents of this site because I hope readers will treat the pages herein as precisely such "treasures" and "trinkets" for which Tolkien uses the term: the odd-stuffs for which I have "no particular immediate use" but which I am "unwilling to throw away," and so leave for you here as <em>gifts</em>. If this site is of use to you in your own endeavours, please let me know (you can reach me via <a href="https://steinea.fyi">steinea.fyi</a>), and in the spirit of the gift as it was given, I only ask a citation in return. For all the extracts from other authors also to be found here, I host them in the spirit of fair use and make no claim of possession, simply hoping to continue this cycle of giftgiving yet a little while longer.</p>
-
-<br>
+<p>I borrow the Tolkienism <a href="https://tolkiengateway.net/wiki/Mathoms">mathom</a> to describe the contents of this site because I hope readers will treat the pages herein as precisely such "treasures" and "trinkets" for which Tolkien uses the term: the odd-stuffs for which I have "no particular immediate use" but which I am "unwilling to throw away," and so leave for you here as <em>gifts</em>. If this site is of use to you in your own endeavours, please let me know (you can reach me via <a href="https://steinea.fyi">steinea.fyi</a>), and in the spirit of the gift as it was given, I only ask a citation in return. For all the extracts from other authors also to be found here, I host them in the spirit of fair use and make no claim of possession, simply hoping to continue this cycle of giftgiving yet a little while longer.</p> -->
 
 <!-- Sections -->
 
-<h4 id="activity">⚡Activity</h4>
+<h4 id="activity">Activity</h4>
 
-<p>My activity pages are built from lists of posts that are mapped to pages in my inventory and library. These pages emulate social progress tracking sites like Letterboxd, Goodreads, etc., but by hosting them here, allow me to own and preserve my own data.</p>
+<!-- ⚡ <p>My activity pages are built from lists of posts that are mapped to pages in my inventory and library. These pages emulate social progress tracking sites like Letterboxd, Goodreads, etc., but by hosting them here, allow me to own and preserve my own data.</p> -->
 
 {% assign activity = site.pages | where: "category", "activity" | where: "subcategory", "directory" | sort: "title" %}
-  <ul>
+
+  <p>
     {% for item in activity %}
-      <li><a href="/{{ item.title | downcase }}/">{{ item.title }}</a></li>
+      <a href="/{{ item.title | downcase }}/">{{ item.title }}</a>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
-  </ul>
+  </p>
 
 <!-- Dreaming, Sleeping... -->
 
 <br>
 
 
-<h4 id="bookmarks">📌 Bookmarks</h4>
+<h4 id="bookmarks">Bookmarks</h4>
 
-<p>My bookmarks make up a substantial personal wiki or digital garden, bringing together numerous links to various online sources in a few different formats: crossreferenced in the codex, chronological in the feed, categorized in groups, and dumped in one long alphabetized heap.</p>
+<!-- 📌 <p>My bookmarks make up a substantial personal wiki or digital garden, bringing together numerous links to various online sources in a few different formats: crossreferenced in the codex, chronological in the feed, categorized in groups, and dumped in one long alphabetized heap.</p> -->
 
 {% assign bookmarks = site.pages | where: "category", "bookmarks" | sort: "title" %}
-  <ul>
+
+  <p>
     {% for item in bookmarks %}
-      <li><a href="/{{ item.title | downcase }}/">{{ item.title }}</a></li>
+      <a href="/{{ item.title | downcase }}/">{{ item.title }}</a>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
-  </ul>
+  </p>
 
 <br>
 
 
-<h4 id="inventory">📦 Inventory</h4>
+<h4 id="codex">Codex</h4>
 
-<p>My inventory is built from sorted arrays of underlying pages. These I use to keep track of the various collections of physical goods involved in the activities logged above, and for the research organized in my workshop.</p>
+{% assign codex = site.pages | where: "category", "codex" | sort: "title" %}
+
+  <p>
+    {% for item in codex %}
+      <a href="/{{ item.title | downcase }}/">{{ item.title }}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </p>
+
+<br>
+
+
+<h4 id="inventory">Inventory</h4>
+
+<!-- 📦 <p>My inventory is built from sorted arrays of underlying pages. These I use to keep track of the various collections of physical goods involved in the activities logged above, and for the research organized in my workshop.</p> -->
 
 {% assign inventory = site.pages | where: "category", "inventory" | sort: "title" %}
-  <ul>
+
+  <p>
     {% for item in inventory %}
-      <li><a href="/{{ item.title | downcase }}/">{{ item.title }}</a></li>
+      <a href="/{{ item.title | downcase }}/">{{ item.title }}</a>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
-  </ul>
+  </p>
 
 <br>
 
 
-<h4 id="library">📖 Library</h4>
+<h4 id="library">Library</h4>
 
-<p>My library is a more robust version of my inventory, also consisting of sorted arrays of underlying pages, but these of materials requiring more thorough metadata, specifically those cultural objects that absorb much of my research focus, and also my general interest.</p>
+<!-- 📖 <p>My library is a more robust version of my inventory, also consisting of sorted arrays of underlying pages, but these of materials requiring more thorough metadata, specifically those cultural objects that absorb much of my research focus, and also my general interest.</p> -->
 
 {% assign library = site.pages | where: "category", "library" | where: "subcategory", "directory" | sort: "title" %}
-  <ul>
+
+  <p>
     {% for item in library %}
-      <li><a href="/{{ item.title | downcase }}/">{{ item.title }}</a></li>
+      <a href="/{{ item.title | downcase }}/">{{ item.title }}</a>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
-  </ul>
+  </p>
 
 <br>
 
 
-<h4 id="workshop">🛠️ Workshop</h4>
+<h4 id="workshop">Workshop</h4>
 
-<p>My workshop organizes my research efforts, consisting of many posts and references to other pages on the site, which together make up the grey matter of my scholarly career.</p>
+<!-- 🛠️ <p>My workshop organizes my research efforts, consisting of many posts and references to other pages on the site, which together make up the grey matter of my scholarly career.</p> -->
 
 {% assign workshop = site.pages | where: "category", "workshop" | sort: "title" %}
-  <ul>
+
+  <p>
     {% for item in workshop %}
-      <li><a href="/{{ item.title | downcase }}/">{{ item.title }}</a></li>
+      <a href="/{{ item.title | downcase }}/">{{ item.title }}</a>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
-  </ul>
+  </p>
 
 <br>
 
