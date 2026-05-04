@@ -11,7 +11,7 @@ title: "Torment: Tides of Numenara"
 published: 2017-02-28
 director:
 producer:
-developer: inXile Entertainment
+developer: InXile Entertainment
 publisher: Techland Publishing
 location: Steam
 citation: true

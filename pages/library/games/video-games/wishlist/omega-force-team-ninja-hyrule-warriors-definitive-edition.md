@@ -6,14 +6,13 @@ tags:
   - wishlist
   - nintendo-fantasy
 author:
-  - Omega Force and Team Ninja
+  - Omega Force
+  - Team Ninja
 title: "Hyrule Warriors: Definitive Edition"
 published: 2018-05-18
 director:
 producer:
-developer:
-  - Omega Force
-  - Team Ninja
+developer: Omega Force and Team Ninja
 publisher: Nintendo
 location: Switch
 citation: true

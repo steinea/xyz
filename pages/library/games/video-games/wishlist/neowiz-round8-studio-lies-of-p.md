@@ -6,14 +6,13 @@ tags:
   - wishlist
   - soulslike-legacies
 author:
-  - Neowiz and Round8 Studio
+  - Neowiz
+  - Round8 Studio
 title: Lies of P
 published: 2023-09-18
 director:
 producer:
-developer:
-  - Neowiz
-  - Round8 Studio
+developer: Neowiz and Round8 Studio
 publisher: Neowiz
 location: Steam
 citation: true

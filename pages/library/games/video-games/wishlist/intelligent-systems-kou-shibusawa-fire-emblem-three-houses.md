@@ -6,14 +6,13 @@ tags:
   - wishlist
   - nintendo-fantasy
 author:
-  - Intelligent Systems and Kou Shibusawa
+  - Intelligent Systems
+  - Kou Shibusawa
 title: "Fire Emblem: Three Houses"
 published: 2019-07-26
 director:
 producer:
-developer:
-  - Intelligent Systems
-  - Kou Shibusawa
+developer: Intelligent Systems and Kou Shibusawa
 publisher: Nintendo
 location: Switch
 citation: true
