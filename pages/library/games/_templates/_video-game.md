@@ -3,7 +3,7 @@ layout: page
 category: library
 subcategory: video-game
 tags:
-  - wishlist
+  - collection
 author:
   -
 title:
