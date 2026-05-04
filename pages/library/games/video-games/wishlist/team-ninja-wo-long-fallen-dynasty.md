@@ -1,24 +1,25 @@
 ---
 layout: page
-category: videogame
-subcategory: wishlist
-tags: fantasy-action soulslike-legacies
+category: library
+subcategory: video-game
+tags:
+  - wishlist
+  - fantasy-action
+  - soulslike-legacies
+author:
+  - Team Ninja
 title: "Wo Long: Fallen Dynasty"
+published: 2023-03-03
+director:
+producer:
 developer: Team Ninja
 publisher: Koei Tecmo
-platform: PS5
-published: 2023-03-03
-howlongtobeat: 46
-difficulty: 6/10
-trophyGuide: https://www.powerpyx.com/wo-long-fallen-dynasty-trophy-guide-roadmap/
-durationHours: --
-trophies: --
-percent: --
-link: --
-date: 1999-01-01
+location: PS5
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Wo_Long:_Fallen_Dynasty
+abstract: |
+  "Wo Long: Fallen Dynasty is a historical fantasy action role-playing video game developed by Team Ninja and published by Koei Tecmo. The game was released on March 3, 2023 on PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S."
 price: 80
 ---
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Wo_Long:_Fallen_Dynasty):
-
-> Wo Long: Fallen Dynasty is a historical fantasy action role-playing video game developed by [[Team Ninja]] and published by [[Koei Tecmo]]. The game was released on March 3, 2023 on PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S.
