@@ -1,0 +1,23 @@
+---
+layout: page
+category: library
+subcategory: video-game
+tags:
+  - collection
+author:
+  - Graceful Decay
+title: Maquette
+published: 2021-03-02
+director:
+producer:
+developer: Graceful Decay
+publisher: Annapurna Interactive
+location: Xbox
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Maquette_(video_game)
+abstract: |
+  "Maquette is a puzzle-adventure video game developed by Graceful Decay and published by Annapurna Interactive. The game takes place in a recursive world where every action on a table is recreated in the larger area outside.[1] The game was released in March 2021 for PlayStation 4, PlayStation 5, and Windows, with a version for Nintendo Switch as well as Xbox One and Xbox Series X/S launching in May and July 2023, respectively."
+price:
+---
