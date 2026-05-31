@@ -1,0 +1,23 @@
+---
+layout: page
+category: library
+subcategory: video-game
+tags:
+  - collection
+author:
+  - Moral Anxiety Studio
+title: Roadwarden
+published: 2022-09-12
+director:
+producer:
+developer: Moral Anxiety Studio
+publisher: Assemble Entertainment
+location: Steam
+citation: true
+captures: false
+source: Wikipedia
+link: https://en.wikipedia.org/wiki/Roadwarden
+abstract: |
+  "Roadwarden is a 2022 text-based role-playing and interactive fiction adventure video game for Windows, macOS, and Linux. Developed by Moral Anxiety Studio, the game is set on a peninsula with multiple independent human settlements and features typical role-playing video game themes such as monsters and travelling bandits. The game centers on the player character, the "roadwarden" who is tasked with establishing trade and helping to secure the remote, dangerous peninsula, as well as investigating the disappearance of the previous roadwarden."
+price:
+---
