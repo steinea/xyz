@@ -7,8 +7,6 @@ title: Playing
 
 <!-- Directory Generator -->
 {% assign playing = site.pages | where: "category", "activity" | where: "subcategory", "playing" | sort: "title" %}
-  <ul>
-    {% for item in playing %}
-      <li><a href="/playing/{{ item.title | slugify: 'latin' }}/">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
+  {% for item in playing %}
+    <a href="/playing/{{ item.title | slugify: 'latin' }}/">{{ item.title }}</a><br>
+  {% endfor %}
