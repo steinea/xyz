@@ -5,7 +5,12 @@ subcategory: directory
 title: Reading
 ---
 
-<p>🚧 <em>Under construction. This page checks the metadata of <a href="/books/">Books</a> in my library, looking for completion and rating values by which to filter and then sort into an array, which in turn is listed out in reverse chronological order here, constituting a feed like one might have on <a href="https://www.goodreads.com/">Goodreads</a>, <a href="https://bookwyrm.social/">Bookwyrm</a>, or <a href="https://app.thestorygraph.com/">Storygraph</a>. However, because my reading activity is currently only tracked as YAML fields on the base Book pages, I cannot cleanly account for rereads, or produce a subscribable feed for progress updates, ratings, and any annotations or reviews that might come of a given reading. My plan is to create a new post type for reads, allowing me to split out activity data into those posts, which will then be cross-referenced with the Book page themselves, allowing for much greater modularity and extensibility in the future.</em></p>
+<details>
+  <summary style="list-style: none; cursor: pointer;">🚧</summary>
+  <p>Under construction. This page checks the metadata of <a href="/books/">Books</a> in my library, looking for completion and rating values by which to filter and then sort into an array, which in turn is listed out in reverse chronological order here, constituting a feed like one might have on <a href="https://www.goodreads.com/">Goodreads</a>, <a href="https://bookwyrm.social/">Bookwyrm</a>, or <a href="https://app.thestorygraph.com/">Storygraph</a>. However, because my reading activity is currently only tracked as YAML fields on the base Book pages, I cannot cleanly account for rereads, or produce a subscribable feed for progress updates, ratings, and any annotations or reviews that might come of a given reading. My plan is to create a new post type for reads, allowing me to split out activity data into those posts, which will then be cross-referenced with the Book page themselves, allowing for much greater modularity and extensibility in the future.</p>
+</details>
+
+<br>
 
 {% assign sorted = site.pages | where: "category", "books" | where_exp: "item", "item.rating != 'exclude'" | sort: "finished" | reverse %}
 {% for item in sorted %}
