@@ -5,4 +5,15 @@ subcategory: directory
 title: Tasting
 ---
 
-<p>🚧 <em>Under construction. The plan is to list the various wines, beers, and espressos that I try, along with tasting notes, ratings, and the like, all of which is currently locked up in apps like <a href="https://www.vivino.com">Vivino</a> and <a href="https://untappd.com/">Untappd</a>. Posts will be used to track the individual tastings, and pages for the beverages themselves (currently under <a href="/cellar/">Cellar</a>, though perhaps not so appropriate for an inventory of more than wine).</em></p>
+<details>
+  <summary style="list-style: none; cursor: pointer;">🚧</summary>
+    <p>Under construction. The plan is to list the various wines, beers, and espressos that I try, along with tasting notes, ratings, and the like, all of which is currently locked up in apps like <a href="https://www.vivino.com">Vivino</a> and <a href="https://untappd.com/">Untappd</a>. Posts will be used to track the individual tastings, and pages for the beverages themselves (currently under <a href="/cellar/">Cellar</a>, though perhaps not so appropriate for an inventory of more than wine).</p>
+</details>
+
+<br>
+
+<!-- Directory Generator -->
+{% assign playing = site.pages | where: "category", "activity" | where: "subcategory", "tasting" | sort: "title" %}
+  {% for item in playing %}
+    <a href="/tasting/{{ item.title | slugify: 'latin' }}/">{{ item.title }}</a><br>
+  {% endfor %}
