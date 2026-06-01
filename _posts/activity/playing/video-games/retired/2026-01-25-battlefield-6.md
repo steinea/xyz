@@ -3,7 +3,7 @@ layout: post
 category: activity
 subcategory: video-game
 tags:
-  - now
+  - retired
 author: Battlefield Studios
 title: Battlefield 6
 howlongtobeat: 75

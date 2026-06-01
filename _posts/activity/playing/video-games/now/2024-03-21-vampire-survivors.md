@@ -10,8 +10,8 @@ howlongtobeat: 50
 difficulty:
 trophyGuide:
 durationHours: 55
-trophies: 204/228
-percent: 89
+trophies: 204/243
+percent: 84
 platform:
   - PC Game Pass
   - Digital
