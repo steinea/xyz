@@ -4,6 +4,7 @@ category: library
 subcategory: video-game
 tags:
   - collection
+  - roleplaying-games
 title: "Dragon Age: Inquisition"
 author:
   - BioWare

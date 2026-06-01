@@ -4,6 +4,7 @@ category: library
 subcategory: video-game
 tags:
   - collection
+  - soulslike-legacies
 author:
   - FromSoftware
 title: "Dark Souls II: Scholar of the First Sin"

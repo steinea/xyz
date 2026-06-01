@@ -4,6 +4,7 @@ category: library
 subcategory: video-game
 tags:
   - collection
+  - soulslike-legacies
 author:
   - Melessthanthree
 title: "Lucah: Born of a Dream"
