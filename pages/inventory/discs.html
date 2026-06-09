@@ -4,6 +4,16 @@ category: inventory
 title: Discs
 ---
 
+<!-- Directory Generator -->
+{% assign discs = site.pages | where: "category", "inventory" | where: "subcategory", "discs" | sort: "title" %}
+  <ul>
+    {% for item in discs %}
+      <li><a href="/discs/{{ item.title | slugify: 'latin' }}/">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+<br>
+
 <!-- Category Counts -->
 {% assign totalPlaystation = 0 %}
   {% for disc in site.data.discs %}
