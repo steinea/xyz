@@ -80,7 +80,7 @@ permalink: /
 
 <!-- 📦 <p>My inventory is built from sorted arrays of underlying pages. These I use to keep track of the various collections of physical goods involved in the activities logged above, and for the research organized in my workshop.</p> -->
 
-{% assign inventory = site.pages | where: "category", "inventory" | sort: "title" %}
+{% assign inventory = site.pages | where: "category", "inventory" | where: "subcategory", "directory" | sort: "title" %}
 
   <p>
     {% for item in inventory %}
