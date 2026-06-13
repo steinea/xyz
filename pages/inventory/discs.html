@@ -51,7 +51,7 @@ title: Discs
   {% assign sorted = site.data.discs | sort: "Title" %}
     {% for item in sorted %}
       {% if item.Type contains "playstation" %}
-        <a href="https://www.barcodelookup.com/{{ item.UPC }}" title="{{ item.Title }}"  target="_blank" rel="noopener noreferrer">{{ item.UPC }}<br> <a href="{{ site.baseurl }}/{{ item.Developer | slugify: 'latin'}}-{{ item.Title | slugify: 'latin'}}/" title="{{ item.Title }}">{{ item.Title }}</a>
+        <a href="https://www.barcodelookup.com/{{ item.UPC }}" title="{{ item.Title }}"  target="_blank" rel="noopener noreferrer">{{ item.UPC }} <a href="{{ site.baseurl }}/{{ item.Developer | slugify: 'latin'}}-{{ item.Title | slugify: 'latin'}}/" title="{{ item.Title }}">{{ item.Title }}</a><br>
       {% endif %}
     {% endfor %}
 </div>
@@ -61,7 +61,7 @@ title: Discs
   {% assign sorted = site.data.discs | sort: "Title" %}
     {% for item in sorted %}
       {% if item.Type contains "xbox" %}
-        <a href="https://www.barcodelookup.com/{{ item.UPC }}" title="{{ item.Title }}"  target="_blank" rel="noopener noreferrer">{{ item.UPC }}<br> <a href="{{ site.baseurl }}/{{ item.Developer | slugify: 'latin'}}-{{ item.Title | slugify: 'latin'}}/" title="{{ item.Title }}">{{ item.Title }}</a>
+        <a href="https://www.barcodelookup.com/{{ item.UPC }}" title="{{ item.Title }}"  target="_blank" rel="noopener noreferrer">{{ item.UPC }} <a href="{{ site.baseurl }}/{{ item.Developer | slugify: 'latin'}}-{{ item.Title | slugify: 'latin'}}/" title="{{ item.Title }}">{{ item.Title }}</a><br>
       {% endif %}
     {% endfor %}
 </div>
@@ -71,7 +71,7 @@ title: Discs
   {% assign sorted = site.data.discs | sort: "Title" %}
     {% for item in sorted %}
       {% if item.Type contains "bluray" %}
-        <a href="https://www.barcodelookup.com/{{ item.UPC }}" title="{{ item.Title }}"  target="_blank" rel="noopener noreferrer">{{ item.UPC }}<br> <a href="{{ site.baseurl }}/{{ item.Developer | slugify: 'latin'}}-{{ item.Title | slugify: 'latin'}}/" title="{{ item.Title }}">{{ item.Title }}</a>
+        <a href="https://www.barcodelookup.com/{{ item.UPC }}" title="{{ item.Title }}"  target="_blank" rel="noopener noreferrer">{{ item.UPC }} <a href="{{ site.baseurl }}/{{ item.Developer | slugify: 'latin'}}-{{ item.Title | slugify: 'latin'}}/" title="{{ item.Title }}">{{ item.Title }}</a><br>
       {% endif %}
     {% endfor %}
 </div>
