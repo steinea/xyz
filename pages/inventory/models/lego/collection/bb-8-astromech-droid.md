@@ -1,7 +1,9 @@
 ---
 layout: page
-category: lego
-subcategory: backlog
+category: inventory
+subcategory: lego
+tags:
+  - collection
 title: BB-8 Astromech Droid
 series: Star Wars
 item: 75452

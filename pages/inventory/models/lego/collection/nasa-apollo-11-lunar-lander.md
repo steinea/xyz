@@ -1,7 +1,9 @@
 ---
 layout: page
-category: lego
-subcategory: built
+category: inventory
+subcategory: lego
+tags:
+  - collection
 title: NASA Apollo 11 Lunar Lander
 series: Creator Expert
 item: 10266

@@ -1,7 +1,9 @@
 ---
 layout: page
-category: lego
-subcategory: backlog
+category: inventory
+subcategory: lego
+tags:
+  - collection
 title: Chopper Astromech Droid
 series: Star Wars
 item: 75416

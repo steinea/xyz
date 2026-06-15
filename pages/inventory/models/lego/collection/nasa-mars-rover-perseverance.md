@@ -1,7 +1,9 @@
 ---
 layout: page
-category: lego
-subcategory: built
+category: inventory
+subcategory: lego
+tags:
+  - collection
 title: NASA Mars Rover Perseverance
 series: Technic
 item: 42158

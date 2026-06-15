@@ -2,13 +2,13 @@
 layout: default
 category: activity
 subcategory: building
-title: Lego
-permalink: /building/lego/
+title: Gunpla
+permalink: /building/gunpla/
 ---
 
 <!-- Post Arrays -->
-{% assign built = site.posts | where: "category", "activity" | where: "subcategory", "lego" | where: "tags", "built" | sort: "date" | reverse %}
-{% assign backlog = site.posts | where: "category", "activity" | where: "subcategory", "lego" | where: "tags", "backlog" | sort: "title" %}
+{% assign built = site.posts | where: "category", "activity" | where: "subcategory", "gunpla" | where: "tags", "built" | sort: "date" | reverse %}
+{% assign backlog = site.posts | where: "category", "activity" | where: "subcategory", "gunpla" | where: "tags", "backlog" | sort: "title" %}
 
 
 <!-- Array Counters -->
@@ -36,7 +36,7 @@ permalink: /building/lego/
 <!-- Built Tab -->
 <div id="built" class="tabcontent">
   {% for item in built %}
-    {{ item.date | date: '%Y-%m-%d'  }} <a href="/{{ item.title | slugify: 'latin' }}/" title="{{ item.title }}">{{ item.title }}</a><br>
+    {{ item.date | date: '%Y-%m-%d' }} <a href="/{{ item.title | slugify: 'latin' }}/" title="{{ item.title }}">{{ item.title }}</a><br>
   {% endfor %}
 </div>
 

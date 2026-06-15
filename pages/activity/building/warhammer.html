@@ -5,3 +5,66 @@ subcategory: building
 title: Warhammer
 permalink: /building/warhammer/
 ---
+
+<!-- Post Arrays -->
+{% assign built = site.posts | where: "category", "activity" | where: "subcategory", "warhammer" | where: "tags", "built" | sort: "date" | reverse %}
+{% assign backlog = site.posts | where: "category", "activity" | where: "subcategory", "warhammer" | where: "tags", "backlog" | sort: "title" %}
+
+
+<!-- Array Counters -->
+{% assign totalBuilt = 0 %}
+  {% for item in built %}
+    {% assign totalBuilt = totalBuilt | plus: 1 %}
+  {% endfor %}
+
+{% assign totalBacklog = 0 %}
+  {% for item in backlog %}
+    {% assign totalBacklog = totalBacklog | plus: 1 %}
+  {% endfor %}
+
+
+<!-- Tab Buttons -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('built')">Built ({{ totalBuilt }})</button>
+  <button class="tablinks" onclick="openTab('backlog')">Backlog ({{ totalBacklog }})</button>
+</div>
+
+
+<br>
+
+
+<!-- Built Tab -->
+<div id="built" class="tabcontent">
+  {% for item in built %}
+    {{ item.date | date: '%Y-%m-%d'  }} <a href="/{{ item.title | slugify: 'latin' }}/" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+</div>
+
+
+<!-- Backlog Tab -->
+<div id="backlog" class="tabcontent">
+  {% for item in backlog %}
+    <a href="/{{ item.title | slugify: 'latin' }}/" title="{{ item.title }}">{{ item.title }}</a><br>
+  {% endfor %}
+</div>
+
+
+<!-- Tab Javascript -->
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('built');
+</script>

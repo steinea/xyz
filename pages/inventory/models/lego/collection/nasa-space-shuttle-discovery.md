@@ -1,7 +1,9 @@
 ---
 layout: page
-category: lego
-subcategory: backlog
+category: inventory
+subcategory: lego
+tags:
+  - collection
 title: NASA Space Shuttle Discovery
 series: Icons
 item: 10283

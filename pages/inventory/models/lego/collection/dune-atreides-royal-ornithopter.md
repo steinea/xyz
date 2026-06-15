@@ -1,7 +1,9 @@
 ---
 layout: page
-category: lego
-subcategory: backlog
+category: inventory
+subcategory: lego
+tags:
+  - collection
 title: Dune Atreides Royal Ornithopter
 series: Icons
 item: 10327

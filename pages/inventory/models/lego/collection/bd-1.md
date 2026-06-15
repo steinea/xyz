@@ -1,7 +1,9 @@
 ---
 layout: page
-category: lego
-subcategory: built
+category: inventory
+subcategory: lego
+tags:
+  - collection
 title: BD-1
 series: Star Wars
 item: 75335

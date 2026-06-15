@@ -1,7 +1,9 @@
 ---
 layout: page
-category: lego
-subcategory: backlog
+category: inventory
+subcategory: lego
+tags:
+  - collection
 title: NASA Artemis Space Launch System
 series: Icons
 item: 10341
