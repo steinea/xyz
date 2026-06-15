@@ -1,7 +1,10 @@
 ---
 layout: page
-category: jersey
-subcategory: football
+category: inventory
+subcategory: jerseys
+tags:
+  - collection
+  - football
 author: Whitecaps
 title: Hoop
 colours: Home

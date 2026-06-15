@@ -1,16 +1,19 @@
 ---
 layout: page
-category: jersey
-subcategory: football
+category: inventory
+subcategory: jerseys
+tags:
+  - collection
+  - football
 author: Canada
 title: True North
 colours: Home
 season: "25/26"
-type: Authentic
+type: Replica
 player: "Alphonso Davies (19)"
 link: https://www.footballkitarchive.com/canada-2026-home-kit/425416/
 date: 2026-03-16
-price: 265
+price: 180
 ---
 
 From Canada Soccer:
