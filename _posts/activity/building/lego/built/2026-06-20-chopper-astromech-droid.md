@@ -3,7 +3,7 @@ layout: post
 category: activity
 subcategory: lego
 tags:
-  - backlog
+  - built
 title: Chopper Astromech Droid
-date: 1991-01-01
+date: 2026-06-20
 ---
