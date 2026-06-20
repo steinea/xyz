@@ -4,7 +4,7 @@ category: vinyl
 subcategory: collection
 tags:
 author: Crooked Still
-title: Shaken By A Low Sound
+title: Shaken by a Low Sound
 publisher: Signature Sounds
 releaseDate: 2025-03-28
 format: LP, Limited, Reissue, Blood Red

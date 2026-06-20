@@ -104,6 +104,23 @@ layout: default
 
   {% endif %}
 
+
+  <!-- Add listening section to records -->
+  {% if page.category contains "vinyl" %}
+
+    <br>
+
+    <div id="Listens">
+      <h4>Listens</h4>
+
+        {% assign listens = site.posts | where: "category", "activity" | where: "subcategory", "listen" | where: "title", page.title %}
+          {% for item in listens %}
+            {{ item.date | date: "%Y-%m-%d" }}<br>
+          {% endfor %}
+
+  {% endif %}
+
+
   <!-- Add playing section to boardgame -->
   {% if page.category contains "board-game" %}
 
@@ -118,6 +135,7 @@ layout: default
           {% endfor %}
 
   {% endif %}
+
 
   <!-- Variant for video games -->
   {% if page.category contains "library" and page.subcategory contains "video-game" %}

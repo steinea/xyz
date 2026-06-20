@@ -5,17 +5,8 @@ subcategory: directory
 title: Listening
 ---
 
-<!-- Explainer Box -->
-<details>
-  <summary style="list-style: none; cursor: pointer;">💡</summary>
-  <p>Some sort of activity tracker for music. I am currently still trapped in streaming-land, but have started rebuilding my physical music library (see <a href="/records/">Records</a> in my inventory) and am thinking about what sort of log might be meaningful and not too laborious to maintain here. Will likely cross-reference with <a href="/gear/">Gear</a> to track how my physical listening experience evolves over time.</p>
-</details>
-
-<br>
-
-
 <!-- Post Array -->
-{% assign listens = site.posts | where: "subcategory", "listen" | sort: "date" | reverse %}
+{% assign listens = site.posts | where: "category", "activity" | where: "subcategory", "listen" | sort: "date" | reverse %}
 
 
 <!-- Array Counters -->
@@ -27,7 +18,7 @@ title: Listening
 
 <!-- Category Tabs -->
 <div class="tab">
-	<button class="tablinks" onclick="openTab('listens')">Listens ({{ totalListens }})</button>
+	<button class="tablinks" onclick="openTab('listens')">Total ({{ totalListens }})</button>
 </div>
 
 <br>
@@ -36,7 +27,7 @@ title: Listening
 <!-- List Array Items -->
 <div id="listens" class="tabcontent">
 	{% for item in listens %}
-		{{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+		{{ item.date | date: "%Y-%m-%d" }} {{ item.author }}, <a href="/{% for author in item.author %}{{ author | slugify: 'latin' }}{% unless forloop.last %}-{% endunless %}{% endfor %}-{{ item.title | slugify: 'latin' }}/" title="{{ item.title }}">{{ item.title }}</a>
 		<br>
 	{% endfor %}
 </div>
