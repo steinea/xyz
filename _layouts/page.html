@@ -34,6 +34,27 @@ layout: default
   {% endif %}
 
 
+  <!-- Checks if page is tagged for Bookmarks -->
+  {% if page.tags contains "bookmarks" %}
+
+    <br>
+
+    <div id="Bookmarks">
+      <h4>Bookmarks</h4>
+
+        {% assign bookmarkPage = page %}
+        {% assign bookmarkTopic = bookmarkPage.title | downcase | replace: " ", "-" | replace: ".", "" %}
+
+        {% assign bookmarks = site.pages | where: "category", "wiki" | where_exp: "page", "page.tags contains bookmarkTopic" | sort: 'date' | reverse %}
+        {% for item in bookmarks %}
+          {{ item.date }} <a href="{{ item.url }}">{{ item.title }}</a><br>
+        {% endfor %}
+
+    </div>
+
+  {% endif %}
+
+
   <!-- Checks if page is tagged for Ludography -->
   {% if page.tags contains "ludography" %}
 
