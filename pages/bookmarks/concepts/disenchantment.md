@@ -42,3 +42,20 @@ Carl Jung considered symbols to provide a means for the numinous to return from 
 Ernest Gellner argued that, although disenchantment was the inevitable product of modernity, many people just could not stand a disenchanted world, and therefore opted for various 're-enchantment creeds,' such as psychoanalysis, Marxism, Wittgensteinianism, phenomenology, and ethnomethodology. A noticeable feature of these re-enchantment creeds is that they all tried to make themselves compatible with naturalism: i.e., they did not refer to supernatural forces. Likewise, Charles Taylor identified certain aesthetic impulses—those found in Romanticism, magic realism, and '[watching] movies about the uncanny'---as failed attempts to recover an enchanted sense of self.
 
 The American historian of religion Jason Josephson-Storm has challenged mainstream sociological and historical interpretations of both the concept of disenchantment and of reenchantment, labeling the former as a 'myth.'"
+
+
+<br>
+
+#### Raw Bibliography
+
+<https://www.amazon.ca/Social-Construction-Reality-Sociology-Knowledge/dp/0385058985>
+<br><https://www.routledge.com/The-Invisible-Religion-The-Problem-of-Religion-in-Modern-Society/Kaden-Luckmann-Schnettler/p/book/9781032191454>
+<br><https://www.amazon.ca/Structures-Life-World-Alfred-Schutz/dp/0810106221>
+<br><https://www.amazon.ca/Structures-Life-World-Alfred-Schutz/dp/081010833X/>
+<br><https://www.amazon.ca/Phenomenology-Social-World-Alfred-Schutz/dp/0810103907/>
+<br><https://www.amazon.ca/Invitation-Sociology-Perspective-Peter-Berger/dp/0385065299>
+<br><https://www.amazon.ca/Rumor-Angels-Society-Rediscovery-Supernatural/dp/0385066309>
+<br><https://www.amazon.ca/Sacred-Canopy-Elements-Sociological-Religion/dp/0385073054>
+<br><https://www.amazon.ca/Protestant-Ethic-Spirit-Capitalism-Writings/dp/0140439218>
+<br><https://www.amazon.ca/Charisma-Disenchantment-Vocation-Max-Weber/dp/1681373890>
+<br><https://www.amazon.ca/Essence-Christianity-Ludwig-Feuerbach/dp/0486454215>
