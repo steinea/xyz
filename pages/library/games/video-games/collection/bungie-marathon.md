@@ -14,7 +14,7 @@ developer: Bungie
 publisher: Bungie
 location: Steam
 citation: true
-captures: false
+captures: true
 source: Wikipedia
 link: https://en.wikipedia.org/wiki/Marathon_(2026_video_game)
 abstract: |
